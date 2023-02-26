@@ -2,6 +2,12 @@
 
 To contribute, modify/add notes in Anki, then export via the [CrowdAnki plugin](https://ankiweb.net/shared/info/1788670778) and make a pull request.
 
+In order to add/edit the code blocks install the following addon:
+[Syntax Highlighting for Code](https://ankiweb.net/shared/info/1463041493)
+
+To add/edit tables install the following addon:
+[Add Table](https://ankiweb.net/shared/info/1237621971)
+
 Please feel free to fork and contribute to this repo I only ask that:
 
 ## Guidelines for Contributing
