@@ -25,11 +25,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What are advantages of a network layered architecture?",
-                        "<b><ul><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul></b>",
-                        ""
+                        "<b><ul><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul></b>"
                     ],
                     "guid": "nl&NMtEV8(",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -40,11 +39,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What are <b>disadvantages</b> of a network <b>layered architecture</b>?",
-                        "<b><ul><li><div><span style=\"font-weight: 400;\"><i>Cross-layer dependencies</i> that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\"><i>Duplicate functionality,</i> i.e. error correction/recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\"><i>Increased overhead in computation and in message headers </i>caused by the abstraction barriers between layers</span></div></li></ul></b>",
-                        ""
+                        "<b><ul><li><div><span style=\"font-weight: 400;\"><i>Cross-layer dependencies</i> that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\"><i>Duplicate functionality,</i> i.e. error correction/recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\"><i>Increased overhead in computation and in message headers </i>caused by the abstraction barriers between layers</span></div></li></ul></b>"
                     ],
                     "guid": "wL=kNhu8P|",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -55,11 +53,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the <b>differences</b> between the OSI model and the five-layered Internet model?",
-                        "OSI model has 7 layers and five-layered is five layers where the session and presentation layers are combined into the application layer",
-                        ""
+                        "OSI model has 7 layers and five-layered is five layers where the session and presentation layers are combined into the application layer"
                     ],
                     "guid": "EpBw.ED:}K",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -70,11 +67,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the <b>similarities</b> between the OSI model and the five-layered Internet model?",
-                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer.<br><br>and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul><li style=\"\"><b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"></span></b><br></li><li style=\"\"><b><span style=\"font-weight: 400;\"><b><span style=\"font-weight: 400;\"><img src=\"6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png\"></span></b><br></span></b></li></ul>",
-                        ""
+                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer.<br><br>and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul><li style=\"\"><b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"></span></b><br></li><li style=\"\"><b><span style=\"font-weight: 400;\"><b><span style=\"font-weight: 400;\"><img src=\"6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png\"></span></b><br></span></b></li></ul>"
                     ],
                     "guid": "o.5G.X])fv",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -99,11 +95,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the 7 layers in the OSI Model?",
-                        "<div>Please Do Not Touch Steve's Pet Aligator</div><ol><li>Physical</li><li>DataLink</li><li>Network</li><li>Transport</li><li>Session</li><li>Presentation</li><li>Application</li></ol>",
-                        ""
+                        "<div>Please Do Not Touch Steve's Pet Aligator</div><ol><li>Physical</li><li>DataLink</li><li>Network</li><li>Transport</li><li>Session</li><li>Presentation</li><li>Application</li></ol>"
                     ],
                     "guid": "Rc3)&:(Mpm",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -114,11 +109,10 @@
                     "__type__": "Note",
                     "fields": [
                         "How many layers are in the OSI Model",
-                        "7",
-                        ""
+                        "7"
                     ],
                     "guid": "N$A%18OXmx",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -129,11 +123,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What layer of the OSI model maintains connections and is responsible for controlling ports and sessions",
-                        "Session Layer",
-                        ""
+                        "Session Layer"
                     ],
                     "guid": "DWlJM7lO/k",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -144,11 +137,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What layer of the OSI model defines the format of data on the network",
-                        "Data Link Layer",
-                        ""
+                        "Data Link Layer"
                     ],
                     "guid": "z@LYO)u^ZG",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -159,11 +151,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What layer of the OSI model transmits raw bit stream over the physical medium",
-                        "Physical Layer",
-                        ""
+                        "Physical Layer"
                     ],
                     "guid": "u<iKC<Typm",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -174,11 +165,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Which layer of the OSI model is responsible for moving datagrams from on internet host to another?",
-                        "Network Layer",
-                        ""
+                        "Network Layer"
                     ],
                     "guid": "e@Ptr%7=~P",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -189,11 +179,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Which layer of the OSI model is responsible for end to end communication between hosts?",
-                        "Transport Layer",
-                        ""
+                        "Transport Layer"
                     ],
                     "guid": "oD6+^{l*SK",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -344,11 +333,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Repeaters and hubs operate on what layer of the OSI Model?",
-                        "Physical Layer (L1)",
-                        ""
+                        "Physical Layer (L1)"
                     ],
                     "guid": "JGNK9,?or",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -359,11 +347,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Bridges operate on what layer of the OSI Model?",
-                        "Data Link Layer (L2) along with Layer2-Switches",
-                        ""
+                        "Data Link Layer (L2) along with Layer2-Switches"
                     ],
                     "guid": "NHFd7u02Cj",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -374,11 +361,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Routers operate on what layer of the OSI Model?",
-                        "Network Layer (L3) along with Layer3-Switches",
-                        ""
+                        "Network Layer (L3) along with Layer3-Switches"
                     ],
                     "guid": "JIPlrI#iLu",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -389,11 +375,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What is a bridge?",
-                        "A bridge is a device with multiple inputs/outputs. <br><br>A bridge transfers frames from an input to one or more outputs.",
-                        ""
+                        "A bridge is a device with multiple inputs/outputs. <br><br>A bridge transfers frames from an input to one or more outputs."
                     ],
                     "guid": "Iij=O9C#NR",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -404,11 +389,10 @@
                     "__type__": "Note",
                     "fields": [
                         "How does a bridge 'learn'?",
-                        "It learns by populating/maintaing a forwarding table.&nbsp;<br><br>When the bridge receives any frame this is a “learning opportunity” to know which hosts are reachable through which ports. This is because the bridge can view the port over which a frame arrives and the source host. Going back to our example topology, eventually the bridge builds the following forwarding table.<br><br><img src=\"paste-eff2f16e5153efef548d03e4bcc00afb99c40406.jpg\"><img src=\"paste-4cd125ed2523225424e18edda8e616ca2b3ef878.jpg\"><br>",
-                        ""
+                        "It learns by populating/maintaing a forwarding table.&nbsp;<br><br>When the bridge receives any frame this is a “learning opportunity” to know which hosts are reachable through which ports. This is because the bridge can view the port over which a frame arrives and the source host. Going back to our example topology, eventually the bridge builds the following forwarding table.<br><br><img src=\"paste-eff2f16e5153efef548d03e4bcc00afb99c40406.jpg\"><img src=\"paste-4cd125ed2523225424e18edda8e616ca2b3ef878.jpg\"><br>"
                     ],
                     "guid": "xk/^wkl:J/",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -419,11 +403,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><b><span style=\"font-weight: 400;\">What is the</span><span style=\"font-weight: 400;\">&nbsp;combination of the segment and the network header called?</span></b></div>",
-                        "<span style=\"font-weight: 700;\">Datagram</span>",
-                        ""
+                        "<span style=\"font-weight: 700;\">Datagram</span>"
                     ],
                     "guid": "K:f~5&pSO?",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -435,11 +418,10 @@
                     "__type__": "Note",
                     "fields": [
                         "T/F<div><br></div><div>The e2e principle suggests that specific application-level functions usually can, and preferably should be built into the lower levels of the system at the core of the network.&nbsp;<b><br></b></div>",
-                        "FALSE<br><br><b><div><span style=\"font-weight: 400;\">The e2e principle suggests that specific application-level functions usually </span>cannot<span style=\"font-weight: 400;\">, and preferably </span>should not<span style=\"font-weight: 400;\"> be built into the lower levels of the system at the core of the network. The e2e principle is summarized as: the network core should be simple and minimal, while the end systems should carry the intelligence.</span></div></b><br>",
-                        ""
+                        "FALSE<br><br><b><div><span style=\"font-weight: 400;\">The e2e principle suggests that specific application-level functions usually </span>cannot<span style=\"font-weight: 400;\">, and preferably </span>should not<span style=\"font-weight: 400;\"> be built into the lower levels of the system at the core of the network. The e2e principle is summarized as: the network core should be simple and minimal, while the end systems should carry the intelligence.</span></div></b><br>"
                     ],
                     "guid": "P8`LpMC~.d",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -451,11 +433,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><b><span style=\"font-weight: 400;\">The Internet protocol stack has a layered architecture that resembles what kind of shape?</span></b><br></div>",
-                        "Hourglass",
-                        ""
+                        "Hourglass"
                     ],
                     "guid": "vVAlsDO=E}",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -467,11 +448,10 @@
                     "__type__": "Note",
                     "fields": [
                         "The the layers of the EvoArch model is an abstract model of the Internet’s protocol stack components are in what order.",
-                        "<ol style=\"\"><li style=\"font-weight: 700;\"><div>Layers</div></li><li style=\"font-weight: 700;\"><div>Node incoming edges</div></li><li style=\"font-weight: 700;\"><div>Edges</div></li><li style=\"font-weight: 700;\"><div>Nodes</div></li></ol>",
-                        ""
+                        "<ol style=\"\"><li style=\"font-weight: 700;\"><div>Layers</div></li><li style=\"font-weight: 700;\"><div>Node incoming edges</div></li><li style=\"font-weight: 700;\"><div>Edges</div></li><li style=\"font-weight: 700;\"><div>Nodes</div></li></ol>"
                     ],
                     "guid": "mNA=iEh^V,",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -483,11 +463,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What is the first computer network concept that was invented in 1969 called?",
-                        "<b>ARPANET</b>",
-                        ""
+                        "<b>ARPANET</b>"
                     ],
                     "guid": "MB1M7dwmsX",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -499,11 +478,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>What is the initial ARPANET Host-to-Host protocol called?</b>",
-                        "NCP",
-                        ""
+                        "NCP"
                     ],
                     "guid": "n;7]Aqdupr",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -515,11 +493,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What is the first application that used the initial ARPANET protocol?",
-                        "<b>Email</b>",
-                        ""
+                        "<b>Email</b>"
                     ],
                     "guid": "tOrA%$qyBt",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -531,11 +508,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What is one of the first and most popular applications that sprung up after DNS (Domain Name System)?",
-                        "<b>WWW (World WIde Web)</b>",
-                        ""
+                        "<b>WWW (World WIde Web)</b>"
                     ],
                     "guid": "q#kgZO{UEm",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -547,11 +523,10 @@
                     "__type__": "Note",
                     "fields": [
                         "What is the interface between the Application layer and Transport layer called?",
-                        "<b>Sockets</b>",
-                        ""
+                        "<b>Sockets</b>"
                     ],
                     "guid": "Mu6s}1l$?X",
-                    "note_model_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": [
                         "cn",
                         "cn::exam1",
@@ -1516,7 +1491,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "T/F<br><br><div><div>TCP offers&nbsp;in-order delivery of the packets,&nbsp;flow control, and congestion control.&nbsp;&nbsp;</div><div><div><div><br></div></div></div></div>",
+                        "T/F<br><br><div><div>TCP offers&nbsp;in-order delivery of the packets,&nbsp;flow control, and congestion control.&nbsp;&nbsp;</div></div>",
                         "TRUE"
                     ],
                     "guid": "uSTQPkzjeQ",
@@ -3341,7 +3316,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div><div>The data plane functions of a traditional router are implemented in {{c1::hardware}}, while the control plane functions are implemented in {{c2::software}}.</div></div><br>",
+                        "<div><div>The data plane functions of a traditional router are implemented in {{c1::hardware}}, while the control plane functions are implemented in {{c2::software}}.</div></div>",
                         ""
                     ],
                     "guid": "n}F|=aB#Hk",
@@ -4001,7 +3976,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Using {{c1::packet classification}}&nbsp;techniques&nbsp;we can perform packet forwarding based on {{c2::multiple}} criteria, and not just based on destination IP address.</div><div><div><div><br></div></div></div>",
+                        "<div>Using {{c1::packet classification}}&nbsp;techniques&nbsp;we can perform packet forwarding based on {{c2::multiple}} criteria, and not just based on destination IP address.</div>",
                         ""
                     ],
                     "guid": "JzNv%,x@fp",
@@ -9257,8 +9232,8 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "11adacca-a760-11ed-8af1-a14d95925fac",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n",
+            "crowdanki_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: inline-block;\n  text-align: left; \n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: left;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 4;\n  background: rgba(7,7,7,0.2);\n}\n\n.nightMode .highlight {\n\tbackground: #222222 !important;\n}",
             "flds": [
                 {
                     "description": "",
@@ -9278,23 +9253,13 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Add Reverse",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic Quizlet",
+            "name": "OMSCS Basic",
             "req": [
                 [
                     0,
@@ -9302,43 +9267,23 @@
                     [
                         0
                     ]
-                ],
-                [
-                    1,
-                    "all",
-                    [
-                        1,
-                        2
-                    ]
                 ]
             ],
             "sortf": 0,
             "tags": [
-                "devops",
-                "aws"
+                "practice_exam"
             ],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Normal",
+                    "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}\n\n"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Reverse",
-                    "ord": 1,
-                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                    "qfmt": "{{Deck}}<br><br>\n{{Front}}"
                 }
             ],
             "type": 0,
@@ -9403,65 +9348,6 @@
                 }
             ],
             "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: inline-block;\n  text-align: left; \n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: left;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 4;\n  background: rgba(7,7,7,0.2);\n}\n\n.nightMode .highlight {\n\tbackground: #222222 !important;\n}",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "OMSCS Basic",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "practice_exam"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Deck}}<br><br>\n{{Front}}"
-                }
-            ],
-            "type": 0,
             "vers": []
         },
         {
