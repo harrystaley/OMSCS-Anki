@@ -11,8 +11,6 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png",
-                "OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png",
                 "paste-27e5ad70d0ee87058c016c89bdc9fb8be0ace77e.jpg",
                 "paste-4cd125ed2523225424e18edda8e616ca2b3ef878.jpg",
                 "paste-888e8fccd34d585b3b577c80afd3e8ce70d00bc5.jpg",
@@ -67,7 +65,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What are the <b>similarities</b> between the OSI model and the five-layered Internet model?",
-                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer.<br><br>and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul><li style=\"\"><b><span style=\"font-weight: 400;\"><img src=\"OXJU_PiXQ8ud3MCCBpmsr8o2bPCaNqEjIowfGsz7MzguZEOLG2eAtXLXGpECgLNtO5c22WXvxxjXZJUkEzLnAaoIpq9Rg97e8swPuZ4XaYWNhrr2wCY.png\"></span></b><br></li><li style=\"\"><b><span style=\"font-weight: 400;\"><b><span style=\"font-weight: 400;\"><img src=\"6zSCXW2xImcevCSfSy7zUn3XbGhuKHl2fnTJ6j4SmnSVrs24nVseWlHSaGedNRJ6rGJtovtDMdRdnpsG2AT6d5tAjJRZOHr-IFv_C8SuAE3Vcdt0L3j.png\"></span></b><br></span></b></li></ul>"
+                        "They both represent layered network architecture with a physical, data link, network, transport, and application layer.<br><br>and have the same advantages and disadvantages when it comes to utilize a layered architecture.<br><br><ul style=\"\"><li style=\"font-weight: bold;\"><div>Advantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Scalability</span></div></li><li><div><span style=\"font-weight: 400;\">Modularity</span></div></li><li><div><span style=\"font-weight: 400;\">Flexibility (add or delete components)</span></div></li></ul><li style=\"font-weight: bold;\"><div>Disadvantages</div></li><ul style=\"font-weight: bold;\"><li><div><span style=\"font-weight: 400;\">Cross-layer dependencies that violate the goal of layer separation</span></div></li><li><div><span style=\"font-weight: 400;\">Duplicate functionality, i.e. error recovery&nbsp;</span></div></li><li><div><span style=\"font-weight: 400;\">Increased overhead in computation and in message headers caused by the abstraction barriers between layers</span></div></li></ul></ul>"
                     ],
                     "guid": "o.5G.X])fv",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -1620,9 +1618,7 @@
             "extendNew": 1,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2023-02-25 at 4.43.24 AM.png",
-                "latex-9ad99798ec4c38e165cf517cb9e02b1c9e824103.png",
-                "latex-a9f23bf124b6b2b2a993eb313c72e678664ac74a.png"
+                "Screenshot 2023-02-25 at 4.43.24 AM.png"
             ],
             "name": "Lesson 03: Intradomain Routing",
             "notes": [
@@ -1840,7 +1836,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What happens during the iterative part of the Linkstate Routing Algorithm?&nbsp;",
-                        "<div><ol><li>look at the set of nodes that are NOT included in N’, and we identify the node (say w) with the least cost path from the previous iteration</li><li>We add the node w (that has the least cost path from the previous iteration) into N’</li><li>For every neighbor v of w, we update D(v)</li><li>(cost of the current least cost path from w</li><li>to v)</li></ol></div>"
+                        "<ol><li>look at the set of nodes that are NOT included in&nbsp;\\(N’\\), and we identify the node (say&nbsp;\\(w\\)) with the least cost path from the previous iteration</li><li>We add the node w (that has the least cost path from the previous iteration) into&nbsp;\\(N’\\)</li><li>For every neighbor&nbsp;\\(v\\)&nbsp;of&nbsp;\\(w\\), we update&nbsp;\\(D(v)\\)&nbsp;(cost of the current least cost path from&nbsp;\\(w\\)&nbsp;to&nbsp;\\(v\\))</li></ol>"
                     ],
                     "guid": "m1fk3*hRrV",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -1940,7 +1936,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What happens during the Initialization stage of the Linkstate Routing Algorithm?",
-                        "We initialize all the currently known least-cost paths from a source node [$]u[/$] to its directly attached neighbors [$]v[/$]<br>For nodes that are not directly attached to the source node [$]u[/$]&nbsp;, initialize the cost to&nbsp;∞<br>initialize the set&nbsp;N′&nbsp;to include only the source node&nbsp;[$]u[/$]"
+                        "<ol><li>We initialize all the currently known least-cost paths from a source node&nbsp;\\(u\\)&nbsp;to its directly attached neighbors&nbsp;\\(v\\)</li><li>For nodes that are not directly attached to the source node&nbsp;\\(u\\)&nbsp;, initialize the cost to&nbsp;∞</li><li>initialize the set&nbsp;\\(N'\\)&nbsp;to include only the source node&nbsp;\\(u\\)</li></ol>"
                     ],
                     "guid": "f_b&ooB}6v",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
