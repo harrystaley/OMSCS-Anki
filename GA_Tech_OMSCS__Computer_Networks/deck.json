@@ -18,6 +18,8 @@
                 "paste-eff2f16e5153efef548d03e4bcc00afb99c40406.jpg"
             ],
             "name": "Lesson 01: Introduction, History, and Internet Architecture",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -1035,7 +1037,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "End hosts implement layers {{c1::1-5}}. Routers implement layers {{c2::1-5}}&nbsp;, and layer-2 switches implement layers {{c3::1-2}}.",
+                        "End hosts implement layers {{c1::1-5}}. Routers implement layers {{c2::1-3}}&nbsp;, and layer-2 switches implement layers {{c3::1-2}}.",
                         ""
                     ],
                     "guid": "csz0m)K_Hw",
@@ -1062,7 +1064,9 @@
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -1075,6 +1079,8 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Lesson 02: Transport and Applications Layers",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -1605,8 +1611,20 @@
                     "guid": "P$u1OR|Ltm",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Characteristics of TCP Reno<br><ul><li>When a triple duplicate ACK occurs, the congestion window is {{c1::cut in half}}</li><li>When a timeout event occurs, the congestion window is {{c2::reset}} to the initial window size</li></ul>",
+                        ""
+                    ],
+                    "guid": "q/h.!G*n1{",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -1621,6 +1639,8 @@
                 "Screenshot 2023-02-25 at 4.43.24 AM.png"
             ],
             "name": "Lesson 03: Intradomain Routing",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -1945,8 +1965,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "What are some characteristics about the Linkstate Routing Algorithm?",
-                        "<ul><li>Uses Dijkstra’s algorithm</li><li>The link costs and the network topology are known to ALL nodes</li><li>The goal of the algorithm is to compute the least cost paths from a source node to all other nodes</li></ul>"
+                        "What are some characteristics of the Linkstate Routing Algorithm?",
+                        "<ul><li>Uses <b>Dijkstra’s</b> algorithm</li><li>The link costs and the network topology are known to <b>ALL nodes</b></li><li>The goal of the algorithm is to compute the l<b>east cost paths</b> from a source node <b>to</b> <b>all other nodes</b></li></ul>"
                     ],
                     "guid": "q<];fBGWeD",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2271,8 +2291,20 @@
                     "guid": "syn_y*c~B6",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>The count-to-infinity problem&nbsp;states&nbsp;that bad news (e.g.,&nbsp;a increase in a link cost)&nbsp;propagates&nbsp;fast among nodes&nbsp;in the network.",
+                        "FALSE"
+                    ],
+                    "guid": "ABe5+WU_mN",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -2290,6 +2322,8 @@
                 "Screenshot 2023-02-25 at 7.50.37 AM.png"
             ],
             "name": "Lesson 04: AS Relationships and Interdomain Routing",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -2325,7 +2359,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><div>How is a multi-lateral BGP peering session maintained by an IXP route server?</div></div>",
-                        "<div><ul><li>Runs BGP independently with every participant AS and maintains a Routing Information Base (RIB) with each participant</li><li>Uses Import filters to ensure that each member AS only advertises routes that it should advertise</li><li>Uses Export filters that are triggered by IXP members to restrict the set of other IXP member ASes that receive their routes</li></ul></div>"
+                        "<div><ul><li><b>Runs BGP independently</b> with every participant AS and maintains a Routing Information Base (RIB) with each participant</li><li>Uses <b>Import filters </b>to ensure that each member AS only advertises routes that it should advertise</li><li>Uses <b>Export filters </b>that are triggered by IXP members to restrict the set of other IXP member ASes that receive their routes</li></ul></div>"
                     ],
                     "guid": "k=JZii.0l(",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2335,7 +2369,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><div>Why do networks choose to peer at IXPs?</div></div>",
-                        "<ul><li><div><div>They keep local traffic local</div></div></li><li><div><div>They operate at a lower cost</div></div></li><li><div>Network performance is improved due to reduced delay</div></li><li><div>Critical players in today’s Internet ecosystem often “incentivize” other networks to connect at IXPs</div></li></ul>"
+                        "<ul><li><div><div>They keep local traffic <b>local</b></div></div></li><li><div><div>They operate at a <b>lower cost</b></div></div></li><li><div>Network performance is improved due to <b>reduced delay</b></div></li><li><div><b>Critical players </b>in today’s Internet ecosystem often “incentivize” other networks to connect at IXPs</div></li></ul>"
                     ],
                     "guid": "u^8n(B_/yX",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2840,8 +2874,20 @@
                     "guid": "J:m*`2.4!+",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Characteristics of the control plane.",
+                        "<div><ul><li>The control plane functions can either be implemented in the router's <b>processor</b> or they can be “outsourced” for implementation at a <b>remote controller</b>.</li><li>The control plane functions of a <b>traditional router</b> are <b>implemented</b> in <b>software</b>.</li></ul></div><div><div><br></div></div>"
+                    ],
+                    "guid": "H:}vedt/oT",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -2858,6 +2904,8 @@
                 "Screenshot 2023-02-26 at 7.09.42 AM.png"
             ],
             "name": "Lesson 05: Router Design and Algorithms",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -3053,7 +3101,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><div>What are the characteristics of a multibit trie?</div></div>",
-                        "<div><ul><li>each node has 2<sup>k</sup>&nbsp;children</li><li>implement lookups using a stride</li><li>Can perform multi-bit lookups per step</li></ul></div>"
+                        "<div><ul><li>each node has&nbsp;<b>\\(2^k\\)&nbsp;children</b></li><li>implement <b>lookups</b> using a <b>stride</b></li><li>Can perform <b>multi-bit</b> lookups per step</li></ul></div>"
                     ],
                     "guid": "o|9)K/T@2Z",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -3082,21 +3130,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "T/F<br><br><div><div>The routing protocols such as RIP, OSPF, and BGP are implemented in the routing processors.</div></div>",
-                        "TRUE"
+                        "<div><div>The routing protocols such as RIP, OSPF, and BGP are implemented in the {{c1::routing processors}}.</div></div>",
+                        ""
                     ],
                     "guid": "y}`fG8@`~8",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "T/F<br><br><div><div><div>Forwarding function is the router’s action to transfer a packet from an input link interface to the appropriate output link interface. Forwarding occurs at very short timescales (typically a few nanoseconds) and is typically implemented in software.</div></div></div>",
-                        "FALSE"
+                        "<div><div><div>{{c1::Forwarding}} function is the router’s action to transfer a packet from an input link interface to the appropriate output link interface. Forwarding occurs at very short timescales (typically a few nanoseconds) and is typically implemented in {{c2::hardware}}.</div></div></div>",
+                        ""
                     ],
                     "guid": "E3cxR|kGb8",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
                 },
                 {
@@ -3538,8 +3586,20 @@
                     "guid": "y0#5(zlm$;",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Characteristics of the forwarding/data plane.",
+                        "<div><ul><li><div><div><div><div>The forwarding plane operations take place in <b>shorter time scales</b> than the control plane operations.</div></div></div></div></li><li><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div>The data plane functions of a traditional router are implemented in <b>hardware</b>.</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></li></ul></div>"
+                    ],
+                    "guid": "i4p)%Me3Jm",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -3558,6 +3618,8 @@
                 "Screenshot 2023-02-22 at 8.56.02 AM.png"
             ],
             "name": "Lesson 06: Router Design and Algorithms",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -3593,7 +3655,7 @@
                     "__type__": "Note",
                     "fields": [
                         "<div><div>What are the characteristics of token bucket shaping?</div></div>",
-                        "<ul><li>Addresses the scenario in which we want to set bandwidth guarantees for flows in the same queue without separating them</li><li>Can limit the burstiness of a flow by limiting the average rate and by limiting the maximum burst size</li><li>Uses one queue per flow<br></li></ul>"
+                        "<ul><li>Addresses the scenario in which we want to set <b>bandwidth guarantees</b> for flows in the <b>same queue without separating them</b></li><li>Can <b>limit</b> the <b>burstiness</b> of a flow by limiting the average rate and by limiting the maximum burst size</li><li>Uses <b>one queue per flow</b><br></li></ul>"
                     ],
                     "guid": "s^;,Ptj]Uq",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -3676,16 +3738,6 @@
                         "<div><ul><li>Uses precomputed switch pointers to avoid backtracking</li><li>Reduces time complexity associated with backtracking</li><li>Keeps track of our current best source match and skips source tries that are shorter than that match</li></ul></div>"
                     ],
                     "guid": "zVf1gP4dJF",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div><div>What are some characteristics of Leaky Bucket Algorithm?</div></div>",
-                        "<div><ul><li>Can be used in both traffic policing and traffic shaping.</li><li>If the bucket is full, the new packet that arrives to the bucket is dropped.</li><li>The leak rate is a constant rate at which the packets are allowed to enter the network</li></ul></div>"
-                    ],
-                    "guid": "d=kQ>hvZ,6",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
                 },
@@ -4058,8 +4110,20 @@
                     "guid": "k<;m|CTdk~",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>With parallel iterative matching the input links are “matched” with output links in a fixed manner that stays the same as the rounds are progressing.",
+                        "FALSE"
+                    ],
+                    "guid": "LEE=;8{=LP",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -4107,6 +4171,8 @@
                 "componentsOfAnSDNController.png"
             ],
             "name": "Lesson 07: SDN",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -5010,7 +5076,9 @@
                         "lesson07"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -5025,6 +5093,8 @@
                 "RMvGbnenICVq1vzo34hHwn5vFq3FPgVTW9zJPXyKH1N5RIuOSOVFx2YKE01xGuC0i1KY813OJYcGrdT9Y4S_augzJHtEZE-_bq08U6Rk-In5904MECC.png"
             ],
             "name": "Lesson 08: SDN",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -6257,7 +6327,9 @@
                         "lesson08"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -6270,6 +6342,8 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Lesson 09: Internet Security",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -7192,7 +7266,9 @@
                         "lesson09"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -7209,6 +7285,8 @@
                 "zqw9Zukn65JPEyUJQliz_c4IeySBPncjHlVQlGvO9h4gtYFs6t4TpJDv7HE9UGiD8sW37oRtQbYoNghUg2Ig5StgXaAcUkOJY4fkbJ74vtFxNZOuXQS.png"
             ],
             "name": "Lesson 10: Internet Surveillance and Censorship",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -7714,7 +7792,9 @@
                         "Lesson10"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -7727,6 +7807,8 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Lesson 11: Applications: Video",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -8578,7 +8660,9 @@
                         "Lesson11"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -8593,6 +8677,8 @@
                 "XXABUAOEiJZPAWuaZorKx2-MJodJ-YK2m4NWXZfcAopWhSt_d1OvfptgHDolLMVS_zxsVPCTAhYM8eDV6wQqN8ClmK4VLpMAU5PYsEgyHIP1abgIu29.png"
             ],
             "name": "Lesson 12: Applications: CDNs and Overlay Networks",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -9101,7 +9187,9 @@
                         "Lesson12"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "0e0a9066-a05c-11ed-8334-83f82e164357",
@@ -9225,6 +9313,8 @@
     "extendRev": 0,
     "media_files": [],
     "name": "GA Tech OMSCS::Computer Networks",
+    "newLimit": null,
+    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -9232,21 +9322,25 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: inline-block;\n  text-align: left; \n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: left;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 4;\n  background: rgba(7,7,7,0.2);\n}\n\n.nightMode .highlight {\n\tbackground: #222222 !important;\n}",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Front",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
@@ -9291,21 +9385,25 @@
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Text",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Extra",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -9352,21 +9450,25 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.cloze-inactive {\n  color: darkslateblue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: block;\n  text-align: left;\n  list-style: inside;\n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: center;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 3;\n  background: rgba(7,7,7,0.2);\n}\n",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Text",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Extra",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
@@ -9409,111 +9511,133 @@
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "ID (hidden)",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Header",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Image",
                     "ord": 2,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Question Mask",
                     "ord": 3,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Footer",
                     "ord": 4,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Remarks",
                     "ord": 5,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Sources",
                     "ord": 6,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Extra 1",
                     "ord": 7,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Extra 2",
                     "ord": 8,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Answer Mask",
                     "ord": 9,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Original Mask",
                     "ord": 10,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -9556,31 +9680,37 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}\n\n.nightMode .cloze {\n  color: lightblue;\n}\n\nul,\nol {\n  display: inline-block;\n  text-align: left; \n}\n\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\ntd[colspan]:not([colspan=\"1\"]) {\n    text-align: center;\n}\n\ncode {\n  display: inline-block;\n  white-space: pre;\n  text-align: left;\n  tab-size: 3;\n  background: rgba(7,7,7,0.2);\n}\n",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Header",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Front",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "Back",
                     "ord": 2,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": true
@@ -9619,5 +9749,7 @@
             "vers": []
         }
     ],
-    "notes": []
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
 }
