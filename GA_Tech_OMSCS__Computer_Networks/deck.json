@@ -987,7 +987,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "In the OSI model, the Presentation layer plays the intermediate role of formatting the information that it receives from the layer below and delivering it to the {{c1::application}} layer.",
+                        "In the OSI model, the {{c1::Presentation}} layer plays the intermediate role of formatting the information that it receives from the layer below and delivering it to the {{c2::application}} layer.",
                         ""
                     ],
                     "guid": "m#oq,~t(H=",
@@ -1062,6 +1062,16 @@
                     ],
                     "guid": "s;Rf{^Hid[",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In the OSI Model, the {{c1::<b>session</b>}} layer is responsible for the mechanism that manages the different transport streams that belong to the same <b>session</b> between end-user application processes.",
+                        ""
+                    ],
+                    "guid": "b0z,K}7aK>",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
                 }
             ],
@@ -1735,7 +1745,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "What is one cause that can cause the count to infinity problem?",
+                        "What is one cause of the count to infinity problem?",
                         "Routing Loops"
                     ],
                     "guid": "g#a~W6L/[y",
@@ -1835,11 +1845,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "What causes the Count-to-Infinity Problem in the Distance Vector Routing Algorithm?",
-                        "<ul><li>Updates resulting from an <b>increase</b> in link cost <b>travel slowly</b></li><li>Updates resulting from an <b>decrease</b> in link cost <b>travel quickly</b></li></ul>"
+                        "Causes of the Count-to-Infinity Problem in the Distance Vector Routing Algorithm:<br><ul><li>Updates resulting from an {{c1::increase}}&nbsp;in link cost&nbsp;<b>travel&nbsp;</b>{{c2::slowly}}</li><li>Updates resulting from an&nbsp;{{c1::decrease}}&nbsp;in link cost&nbsp;<b>travel&nbsp;</b>{{c2::quickly}}</li></ul>",
+                        ""
                     ],
                     "guid": "Jwce4%}hqC",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
                 },
                 {
@@ -1956,7 +1966,7 @@
                     "__type__": "Note",
                     "fields": [
                         "What happens during the Initialization stage of the Linkstate Routing Algorithm?",
-                        "<ol><li>We initialize all the currently known least-cost paths from a source node&nbsp;\\(u\\)&nbsp;to its directly attached neighbors&nbsp;\\(v\\)</li><li>For nodes that are not directly attached to the source node&nbsp;\\(u\\)&nbsp;, initialize the cost to&nbsp;∞</li><li>initialize the set&nbsp;\\(N'\\)&nbsp;to include only the source node&nbsp;\\(u\\)</li></ol>"
+                        "<ol><li>We <b>initialize</b> all the currently known least-cost paths from a source node&nbsp;\\(u\\)&nbsp;to its <b>directly</b> <b>attached</b> <b>neighbors</b>&nbsp;\\(v\\)</li><li>For nodes that are <b>not</b> directly attached to the source node&nbsp;\\(u\\)&nbsp;, initialize the <b>cost to&nbsp;∞</b></li><li>initialize the <b>set</b>&nbsp;\\(N'\\)&nbsp;to include <b>only</b> the source node&nbsp;\\(u\\)</li></ol>"
                     ],
                     "guid": "f_b&ooB}6v",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -2901,22 +2911,13 @@
             "media_files": [
                 "Screenshot 2023-02-26 at 6.06.15 AM.png",
                 "Screenshot 2023-02-26 at 6.18.24 AM.png",
-                "Screenshot 2023-02-26 at 7.09.42 AM.png"
+                "Screenshot 2023-02-26 at 7.09.42 AM.png",
+                "Screenshot 2023-03-04 at 6.30.55 PM.png"
             ],
             "name": "Lesson 05: Router Design and Algorithms",
             "newLimit": null,
             "newLimitToday": null,
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div><div>What are the key points of using Multibit Tries with Variable-Length Strides?</div></div>",
-                        "<div><ul><li>The optimizations to the stride length for each node are all done to save trie memory and the least memory accesses.</li><li>Every node can have a different number of bits to be explored.</li><li>An optimum variable stride is selected by using dynamic programming</li></ul></div>"
-                    ],
-                    "guid": "cI-@{IadYz",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -3596,6 +3597,46 @@
                     "guid": "i4p)%Me3Jm",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "key points of using Multibit Tries with Variable-Length Strides:<br><br><div><ul><li>The optimizations to the {{c1::stride length}} for each node are all done to save trie {{c2::memory}} and the least {{c3::memory accesses}}.</li><li>Every node can have {{c4::a different}} number of bits to be explored.</li><li>An optimum variable stride is selected by using {{c5::dynamic programming}}</li></ul></div>",
+                        ""
+                    ],
+                    "guid": "vl7hitTGtK",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What will the F2's Deficit counter value be after its first round?<br><img src=\"Screenshot 2023-03-04 at 6.30.55 PM.png\">",
+                        "0"
+                    ],
+                    "guid": "M}{dV3dzS/",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What will the F3's Deficit counter value be after its first round?<br><img src=\"Screenshot 2023-03-04 at 6.30.55 PM.png\">",
+                        "400"
+                    ],
+                    "guid": "qP0ck4XO!N",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What will the F4's Deficit counter value be after its first round?<br><img src=\"Screenshot 2023-03-04 at 6.30.55 PM.png\">",
+                        "320"
+                    ],
+                    "guid": "KI`clM>:U5",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
@@ -3634,16 +3675,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "What is the differences between Token Bucket policing and shaping?",
-                        "<ul><li>They both limit the output rate of a link by identifying traffic descriptor violations, but they respond to these violations in different ways</li><li>With Policing, when the traffic rate reaches the maximum configured rate, excess traffic is dropped, or the packet's setting or \"marking\" is changed. The output rate appears as a saw-toothed wave.</li><li>A shaper typically retains excess packets in a queue or a buffer, and this excess is scheduled for later transmission. The result is that excess traffic is delayed instead of dropped.<br></li></ul>"
-                    ],
-                    "guid": "Hc/%!9MTLq",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<img src=\"Screenshot 2023-02-22 at 5.47.59 AM.png\"><br>The image represents the implementation of Take-a-Ticket schedule mechanism, as we can see while A sends its packet in the first iteration, the entire queue for B and C is waiting.<br><br>We refer to this problem as?",
                         "<div><div>Head of Line (HOL) Blocking</div></div>"
                     ],
@@ -3654,40 +3685,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div><div>What are the characteristics of token bucket shaping?</div></div>",
-                        "<ul><li>Addresses the scenario in which we want to set <b>bandwidth guarantees</b> for flows in the <b>same queue without separating them</b></li><li>Can <b>limit</b> the <b>burstiness</b> of a flow by limiting the average rate and by limiting the maximum burst size</li><li>Uses <b>one queue per flow</b><br></li></ul>"
-                    ],
-                    "guid": "s^;,Ptj]Uq",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div><div>What are the reasons to make scheduling decisions more complex than FIFO with tail drop?</div></div>",
-                        "<div><ul><li>Router support for congestion</li><li>Fair sharing of links among competing flows</li><li>Providing Quality of Service (QoS) guarantees to flows</li></ul></div>"
-                    ],
-                    "guid": "uS%&4#z:pC",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<div><div>This scheduling type is considered to be the simplest method of router scheduling is that packets enter a router on input links. If the output link buffer is completely full, incoming packets to the tail of the queue are dropped. This results in fast scheduling decisions but a potential loss in important data packets.</div></div>",
                         "<div><div>FIFO with tail drop</div></div>"
                     ],
                     "guid": "z6my^`.*Ae",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div><div>What are the characteristics of bit-by-bit Round Robin?</div></div>",
-                        "<ul><li>was developed to ensure fairness in bandwidth allocation</li><li>The rate of increase in round number is inversely proportional to the number of active flows</li><li>provides bandwidth and delay guarantees<br></li></ul>"
-                    ],
-                    "guid": "ti0bgwf,.x",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
                 },
@@ -3728,16 +3729,6 @@
                         "R7"
                     ],
                     "guid": "L?m|tD`6gE",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<div><div>What are some characteristics of the Grid of Tries approach to packet classification?</div></div>",
-                        "<div><ul><li>Uses precomputed switch pointers to avoid backtracking</li><li>Reduces time complexity associated with backtracking</li><li>Keeps track of our current best source match and skips source tries that are shorter than that match</li></ul></div>"
-                    ],
-                    "guid": "zVf1gP4dJF",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
                     "tags": []
                 },
@@ -3934,7 +3925,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Characteristics of token bucket shaping:<br><ul><li>Addresses the scenario in which we want to set {{c1::bandwidth guarantees}} for flows in the same queue without {{c2::separating}} them</li><li>Can limit the {{c3::burstiness of a flow}} by limiting the {{c4::average rate}} and by limiting the {{c5::maximum burst size}}</li><li>Uses {{c6::one}} queue(s) per flow</li></ul>",
+                        "Characteristics of token bucket shaping:<br><ul><li>Addresses the scenario in which we want to set {{c1::bandwidth guarantees}} for flows in the same queue without {{c2::separating}} them</li><li>Can limit the {{c3::burstiness of a flow}} by limiting the {{c4::average rate}} and by limiting the {{c5::maximum burst size}}</li><li>Uses {{c6::one}} queue(s) per flow</li><li>Excess traffic is {{c7::delayed}}</li><li>The output rate appears as a {{c8::smoothed}} wave.</li></ul>",
                         ""
                     ],
                     "guid": "b)G)w!}/gs",
@@ -3984,7 +3975,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Characteristics of the Grid of Tries approach to packet classification:<br><ul><li>Uses {{c1::precomputed}} switch pointers to avoid {{c1::backtracking}}</li><li>Reduces {{c1::time complexity}} associated with {{c1::backtracking}}</li><li>Keeps track of our current {{c1::best source}} match and skips {{c1::source tries}} that are {{c1::shorter}} than that match</li></ul>",
+                        "Characteristics of the Grid of Tries approach to packet classification:<br><ul><li>Uses {{c1::precomputed}} switch pointers to avoid {{c2::backtracking}}</li><li>Reduces {{c3::time complexity}} associated with {{c4::backtracking}}</li><li>Keeps track of our current {{c5::best source}} match and skips {{c6::source tries}} that are {{c7::shorter}} than that match</li></ul>",
                         ""
                     ],
                     "guid": "B1fu$D/^9r",
@@ -4119,6 +4110,36 @@
                     ],
                     "guid": "LEE=;8{=LP",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "parallel iterative matching:<br><ul><li>Avoids {{c1::Head of Line}} Blocking</li></ul><ol><li><b>{{c1::Request}}&nbsp;Phase: </b>all inputs send requests in&nbsp;<i>{{c2::parallel}}&nbsp;</i>to all outputs they want to connect with.</li><li><b>{{c1::Grant}}&nbsp;Phase: </b>the&nbsp;outputs that receive {{c2::multiple requests}} pick a random input.</li><li><b>{{c1::Accept}}&nbsp;Phase: </b>inputs that receive multiple grants {{c2::randomly pick}} an output to send to.&nbsp;</li></ol>",
+                        ""
+                    ],
+                    "guid": "jYtamG{Xb)",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "FIFO with Tail Drop:<br><br>The output port is a {{c1::FIFO (first-in, first-out)}} queue. If the output link buffer is {{c2::completely full}}, incoming packets to the tail of the queue are {{c3::dropped}}. This results in fast {{c4::scheduling}} decisions but a potential loss in {{c5::important data packets}}.",
+                        ""
+                    ],
+                    "guid": "pBs>2hg?&+",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Characteristics of Token Bucket Policer<br><br><ul><li>Addresses the scenario in which we want to set {{c1::bandwidth guarantees}} for flows in the same queue without {{c2::separating}} them</li><li>Can limit the {{c3::burstiness of a flow}} by limiting the {{c4::average rate}} and by limiting the {{c5::maximum burst size}}</li><li>Uses {{c6::one}} queue(s)</li><li>With Policing, when the traffic rate reaches the maximum configured rate, excess traffic is {{c1::dropped}}, or the packet's s{{c2::etting or \"marking\"}} is changed.</li><li>The output rate appears as a {{c3::saw-toothed}} wave.</li></ul>",
+                        ""
+                    ],
+                    "guid": "uz%NjtjKP)",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
                 }
             ],
