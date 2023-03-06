@@ -8,6 +8,8 @@ In order to add/edit the code blocks install the following addon:
 To add/edit tables install the following addon:
 [Add Table](https://ankiweb.net/shared/info/1237621971)
 
+To add/edit image oclusion cards install the following addon: [Advanced Image Oclusion](https://ankiweb.net/shared/info/1374772155)
+
 Please feel free to fork and contribute to this repo I only ask that:
 
 ## Guidelines for Contributing
