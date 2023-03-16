@@ -5307,40 +5307,92 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "34f370c918d248a78abe53276e6a0164-oa-1-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-1-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-10-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-10-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-11-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-11-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-12-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-12-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-13-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-13-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-14-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-14-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-15-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-15-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-16-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-16-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-2-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-2-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-3-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-3-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-4-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-4-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-5-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-5-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-6-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-6-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-7-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-7-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-8-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-8-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-9-A.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-9-Q.svg",
-                "34f370c918d248a78abe53276e6a0164-oa-O.svg",
-                "componentsOfAnSDNController.png"
+                "407723a0bc58431cad48d742226d6316-oa-1-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-1-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-10-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-10-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-11-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-11-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-12-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-12-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-13-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-13-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-14-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-14-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-15-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-15-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-16-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-16-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-2-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-2-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-3-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-3-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-4-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-4-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-5-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-5-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-6-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-6-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-7-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-7-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-8-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-8-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-9-A.svg",
+                "407723a0bc58431cad48d742226d6316-oa-9-Q.svg",
+                "407723a0bc58431cad48d742226d6316-oa-O.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-1-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-1-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-10-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-10-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-11-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-11-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-2-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-2-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-3-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-3-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-4-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-4-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-5-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-5-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-6-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-6-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-7-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-7-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-8-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-8-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-9-A.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-9-Q.svg",
+                "4bff388722804c54945f0e4c09ece1f4-oa-O.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-1-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-1-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-2-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-2-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-3-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-3-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-4-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-4-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-5-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-5-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-6-A.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-6-Q.svg",
+                "85c8bea299fc431fab8dd678fbb8558d-oa-O.svg",
+                "Screenshot 2023-03-16 at 5.34.24 AM.png",
+                "Screenshot 2023-03-16 at 5.35.45 AM.png",
+                "Screenshot 2023-03-16 at 6.48.36 AM.png",
+                "Screenshot 2023-03-16 at 7.09.52 AM.png",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-1-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-1-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-2-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-2-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-3-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-3-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-4-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-4-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-5-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-5-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-6-A.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-6-Q.svg",
+                "a7e10dd1a3014fc4817670173cdd318a-oa-O.svg"
             ],
             "name": "Lesson 07: SDN",
             "newLimit": null,
@@ -5349,7 +5401,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>What led us to SDN?</h2><div><div>Software Defined Networking (SDN) arose as part of the process to make computer networks more {{c1::programmable}}. Computer networks are very complex and especially difficult to manage for two main reasons:</div><ul><li>{{c2::Diversity of equipment on the network}}</li><li>{{c2::Proprietary technologies for the equipment}}</li></ul></div>\n",
+                        "<div>SDNs were created due to challenges of managing networks for two main reasons:</div><div><ul><li>{{c1::Diversity of equipment}} on the network</li><li>{{c2::Proprietary technologies}} for the equipment</li></ul></div>",
                         ""
                     ],
                     "guid": "qG_L,c+`|w",
@@ -5362,20 +5414,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>What led us to SDN?</h2><div>SDN employs a simple idea - {{c1::separation of tasks}}. Like how code becomes {{c2::more modular and easy to manage}} when we divided into smaller functions with focused tasks, SDN divides the network into two planes - {{c3::control plane}} and {{c3::data plane}}.</div>\n",
-                        ""
-                    ],
-                    "guid": "wh4(M{89,<",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2><div><div>The history of SDN can be divided into three phases:</div><div><ol><li>{{c1::Active networks}}</li><li>{{c1::Control and data plane separation}}</li><li>{{c1::OpenFlow API and network operating systems}}</li></ol></div></div>\n",
+                        "<div>The history of SDN can be divided into three phases:</div><ol><li>{{c1::Active}} networks</li><li>{{c2::Control and data plane}} separation</li><li>{{c3::OpenFlow API}} and {{c4::network operating systems}}</li></ol>",
                         ""
                     ],
                     "guid": "y;^#12*bt!",
@@ -5388,7 +5427,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>\n  {{c1::Active networks}}\n</h3>\n<div>The {{c1::active networks}}&nbsp;phase took place from {{c2::the mid-1990s}} to the {{c2::early 2000s}}.</div>\n",
+                        "The {{c1::active networks}} phase took place from the mid-{{c2::1990s}} to the early {{c3::2000s}}.",
                         ""
                     ],
                     "guid": "G*m>422Cfi",
@@ -5401,7 +5440,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div>Standardization of new protocols required the {{c1::IETF (Internet Engineering Task Force)::group}}, which was a slow and frustrating process.</div>\n",
+                        "In the history of SDN researchers were keen on testing new ideas to improve network services. However, this required standardization of new protocols by the {{c1::IETF (Internet Engineering Task Force)::group}}, which was a slow and frustrating process.",
                         ""
                     ],
                     "guid": "oWcqCcUN.S",
@@ -5414,20 +5453,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1><h2>A Brief History of SDN: The Milestones</h2><h3>Active networks</h3><div>Active networks aimed at {{c1::opening up network control}}. They envisioned {{c2::a programming interface (a network API)}} that exposed {{c3:: resources/network nodes}} and {{c4::supported customization of functionalities for subsets of packets passing through the network nodes}}. This was the opposite of the popular belief in {{c5::the internet community - the simplicity of the network core was important to the internet success}}!</div>",
-                        ""
-                    ],
-                    "guid": "v*(F4tZE%a",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div>In the early 1990s, the networking approach was primarily via {{c1::IP or ATM (Asynchronous Transfer Mode)}}. Active networking became one of the first {{c2::‘clean slate’ approaches to network architecture}}.</div>\n",
+                        "In the early 1990s, the networking approach was primarily via {{c1::IP}}or {{c1::ATM (Asynchronous Transfer Mode)}}. Active networking became one of the first {{c2::‘clean slate’}} approaches to network architecture.",
                         ""
                     ],
                     "guid": "cBq.=@6tVk",
@@ -5440,20 +5466,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div><div>There were two types of {{c1::programming models}} in active networking. These {{c1::models}} differ based on {{c2::where the code to execute at the nodes was carried}}.</div><ol><li>{{c3::Capsule model}} – {{c4::carried in-band in data packets}}</li><li>{{c3::Programmable router/switch model}} – {{c4::established by out-of-band mechanisms.}}</li></ol></div>\n",
-                        ""
-                    ],
-                    "guid": "B[0+l,.@0~",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div>Although the {{c1::capsule}} model was most closely related to active networking, both models have some effect on the current state of SDNs. By {{c2::carrying the code in data packets}}, {{c1::capsules}} brought {{c3::a new data-plane functionality}} across networks. They also used {{c4::caching}} to make code distribution more efficient.</div>\n",
+                        "During the active networks phase of SDN history There the two types of programming models in active networking were:<ol><li>{{c1::Capsule}} model – carried {{c2::in-band}} in data packets</li><li>{{c1::Programmable router/switch}} model – established by {{c2::out-of-band}} mechanisms.</li></ol>",
                         ""
                     ],
                     "guid": "Nmtw&_,8?K",
@@ -5466,7 +5479,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div>{{c1::Programmable routers}} made {{c2::decision making}} a job for {{c3::the network operator}}.</div>\n",
+                        "During the {{c3::Active Networks}} phase of SDN history {{c1::Programmable routers}} made {{c2::decision making}} a job for the {{c3::network operator}}.",
                         ""
                     ],
                     "guid": "n_Za#6fP}M",
@@ -5479,7 +5492,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div><div>The pushes that encouraged active networking were:</div><ul><li>Reduction in {{c1::computation cost}}: Enabled us to put more processing into the network.</li><li>Advancement in {{c1::programming languages}}: For languages like Java, the options of platform portability, code execution safety, and VM (virtual machine) technology to protect the active node in case of misbehaving programs.</li><li>Advances in rapid code {{c1::compilation}} and {{c1::formal}} methods.</li><li>Funding from agencies such as {{c1::DARPA (U.S. Defense Advanced Research Projects Agency)}} for a collection: promoted interoperability among projects.</li></ul></div>\n",
+                        "The pushes that encouraged active networking were:<br><ul><li>Reduction in {{c1::computation cost}}</li><li>Advancement in {{c1::programming languages}}</li><li>Advances in rapid code {{c1::compilation}} and {{c1::formal}} methods.</li><li>Funding from agencies such as {{c1::DARPA (U.S. Defense Advanced Research Projects Agency::Government Organization)}} for a collection promoted interoperability amoung projects.</li></ul>",
                         ""
                     ],
                     "guid": "nLPlj7$%LT",
@@ -5492,7 +5505,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div><div>The use pulls for active networking were:</div><ul><li>Network service provider frustration concerning {{c1::the long timeline to develop and deploy new network services}}.</li><li>Third party interests to add value by {{c2::implementing control at a more individualistic nature}}.</li><li>Researchers interest in {{c3::having a network that would support large-scale experimentation}}.</li><li>Unified control over {{c4::middleboxes}}. Active networking envisioned unified control that could replace individually managing these boxes.</li></ul></div>\n",
+                        "<div>The use pulls for active networking were:</div><ul><li>{{c1::Network service provider}} frustration concerning the long timeline to {{c1::develop and deploy}} new network services.</li><li>Third party interests to add value by implementing {{c1::control at a more individualistic nature}}.</li><li>Researchers interest in having a network that would {{c1::support large-scale experimentation}}.</li><li>Unified control over {{c1::middleboxes}}.</li></ul>",
                         ""
                     ],
                     "guid": "clQ>(Xe#P:",
@@ -5505,7 +5518,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Active networks</h3>\n<div><div>In addition to the push and pull use cases, active networks made three major contributions related to SDN:</div><ul><li>{{c1::Programmable functions}} in the network to lower the barrier to innovation.</li><ul><li>While many early visions for SDN concentrated on increasing programmability of the control-plane, active networks focused on the programmability of the data-plane.</li></ul><li>{{c2::Network virtualization}}, and the ability to demultiplex to software programs based on {{c3::packet headers}}.</li><li>The vision of a unified architecture for {{c4::middlebox orchestration}}</li></ul></div>\n",
+                        "In addition to the push and pull use cases, active networks made three major contributions related to SDN:<br><br><ul><li>{{c1::Programmable functions}} in the network to lower the barrier to innovation</li><li>{{c2::Network virtualization}}, and the ability to demultiplex to software programs based on {{c3::packet headers}}.</li><li>The vision of a unified architecture for {{c4::middlebox orchestration}}</li></ul>",
                         ""
                     ],
                     "guid": "fOE(Y(2*Z;",
@@ -5518,7 +5531,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>{{c1::Control and data plane separation}}</h3>\n<div><div>The {{c1::Control and data plane separation}}<i>&nbsp;</i>phase lasted from around {{c2::2001}} to {{c2::2007}}.</div></div>\n",
+                        "The {{c1::Control and data plane separation}}<i>&nbsp;</i>phase lasted from around {{c2::2001}} to {{c2::2007}}.",
                         ""
                     ],
                     "guid": "u##2T2]R5<",
@@ -5531,7 +5544,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Control and data plane separation</h3>\n<div><div>The <b>technology pushes</b> that encouraged control and data plane separation were:</div><ul><li>Higher link speeds in backbone networks led vendors to {{c1::implement packet forwarding directly in the hardware, thus separating it from the control-plane software}}.</li><li>Internet Service Providers (ISPs) found it hard to meet the increasing demands for {{c2::greater reliability}} and {{c2::new services (such as virtual private networks)}}, and struggled to {{c3::manage the increased size and scope of their networks}}.</li><li>Servers had substantially more memory and processing resources than those deployed one-two years prior. This meant that a single server could {{c4::store all routing states and compute all routing decisions for a large ISP network}}.</li><li>{{c5::Open source routing software}} lowered the barrier to creating prototype implementations of centralized routing controllers.</li></ul></div>\n",
+                        "<div>The&nbsp;<b>technology pushes</b>&nbsp;that encouraged control and data plane separation were:</div><ul><li>Higher link speeds in backbone networks led vendors to {{c1::implement packet forwarding directly in the hardware, thus separating it from the control-plane software}}.</li><li>Internet Service Providers (ISPs) found it hard to meet the increasing demands for {{c2::greater reliability}} and {{c2::new services (such as virtual private networks)}}, and struggled to {{c3::manage the increased size and scope of their networks}}.</li><li>Servers had substantially more memory and processing resources than those deployed one-two years prior. This meant that a single server could {{c4::store all routing states and compute all routing decisions for a large ISP network}}.</li><li>{{c5::Open source routing software}} lowered the barrier to creating prototype implementations of centralized routing controllers.</li></ul>",
                         ""
                     ],
                     "guid": "A9LF0KGYo{",
@@ -5544,7 +5557,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Control and data plane separation</h3>\n<div><div>The technology pushes inspired two main innovations:</div><ul><li>{{c1::Open interface}} between control and data planes</li><li>{{c2::Logically centralized}} control of the network</li></ul></div>\n",
+                        "<div>The technology pushes inspired two main innovations:</div><ul><li>{{c1::Open interface}} between {{c2::control and data}} planes</li><li>{{c1::Logically centralized}} control of the {{c2::network}}</li></ul>",
                         ""
                     ],
                     "guid": "sLicgwK-iR",
@@ -5557,7 +5570,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Control and data plane separation</h3>\n<div><div>This phase was different from active networking in several ways:</div><ul><li>It focused on spurring innovation by and for {{c1::network administrators}} rather than {{c1::end users and researchers}}.</li><li>It emphasized programmability in {{c2::the control domain}} rather than {{c2::the data domain}}.</li><li>It worked towards {{c3::network-wide}} {{c4::visibility and control}} rather than {{c3::device-level}} {{c4::configurations}}.</li></ul></div>\n",
+                        "<div>The Control and dataplane seperation phase was different from active networking phase in several ways:</div><ul><li>It focused on spurring innovation by and for {{c1::network administrators}} rather than {{c1::end users and researchers}}.</li><li>It emphasized programmability in the {{c2::control}} domain rather than the {{c2::data}} domain.</li><li>It worked towards network-wide {{c3::visibility and control}} rather than device-level {{c3::configurations}}.</li></ul>",
                         ""
                     ],
                     "guid": "qC>=LbBy;5",
@@ -5570,7 +5583,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Control and data plane separation</h3>\n<div><div>Some use pulls for the separation of control and data planes were:</div><ul><li>Selecting between network paths based on the {{c1::current traffic load}}</li><li>Minimizing disruptions during {{c2::planned routing changes}}</li><li>Redirecting/dropping {{c3::suspected attack traffic}}</li><li>Allowing customer networks more control over {{c4::traffic flow}}</li><li>Offering value-added services for {{c5::virtual private network customers}}</li></ul></div>\n",
+                        "<div>Some use pulls for the control and data plane seperation were:</div><ul><li>Selecting between network paths based on the {{c1::current traffic load}}</li><li>Minimizing disruptions during {{c2::planned routing changes}}</li><li>Redirecting/dropping {{c3::suspected attack traffic}}</li><li>Allowing customer networks more control over {{c4::traffic flow}}</li><li>Offering value-added services for {{c5::virtual private network customers}}</li></ul>",
                         ""
                     ],
                     "guid": "N#l&FPl=dC",
@@ -5583,7 +5596,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>Control and data plane separation</h3>\n<div><div>The attempt to separate the control and data planes resulted in a couple of concepts which were used in further SDN design:</div><ul><li>{{c1::Logically centralized control using an open interface to the data plane}}.</li><li>{{c2::Distributed state management}}.</li></ul></div>\n",
+                        "<div>The attempt to separate the control and data planes resulted in a couple of concepts which were used in further SDN design:</div><ul><li>{{c1::Logically centralized control}} using an {{c1::open interface}} to the data plane.</li><li>{{c2::Distributed}} state management.</li></ul>",
                         ""
                     ],
                     "guid": "yKfiuOi:^H",
@@ -5596,7 +5609,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>{{c1::OpenFlow API and network operating systems}}</h3>\n<div><div>The {{c1::OpenFlow API and network operating systems}}&nbsp;phase took place from around {{c2::2007}} to {{c2::2010}}.</div></div>\n",
+                        "The {{c1::OpenFlow API and network operating systems}}&nbsp;phase took place from around {{c2::2007}} to {{c2::2010}}.",
                         ""
                     ],
                     "guid": "iXl|Ik%1/K",
@@ -5609,7 +5622,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div>The basic working of an OpenFlow switch is as follows:</div><div><ul><li>Each switch contains {{c1::a table of packet-handling rules}}.</li><li>Each rule has {{c2::a pattern, list of actions, set of counters and a priority::list 4 components}}.</li><li>When an OpenFlow switch receives a packet, it {{c3::determines the highest priority matching rule, performs the action associated with it and increments the counter::list 3}}.</li></ul></div>\n",
+                        "<div>The basic working of an OpenFlow switch is as follows:</div><div><ul><li>Each switch contains {{c1::a table of packet-handling}} rules.</li><li>Each rule has {{c2::a pattern}}, list of {{c3::actions}}, set of {{c3::counters}} and a {{c3::priority}}.</li><li>When an OpenFlow switch receives a packet, it determines {{c3::the highest priority matching rule}}, performs {{c3::the action associated with it}} and {{c3::increments the counter.</li></ul></div>",
                         ""
                     ],
                     "guid": "ptlrk<z4k~",
@@ -5622,7 +5635,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<h4>Technology push:</h4>\n<div>OpenFlow was adopted in the industry, unlike its predecessors. This could be due to:</div><ul><li>Before OpenFlow, switch chipset vendors had already started to {{c1::allow programmers to control some forwarding behaviors}}.</li><li>This allowed more companies to {{c2::build switches without having to design and fabricate their own data plane}}.</li><li>Early OpenFlow versions built on {{c3::technology that the switches already supported}}. This meant that enabling OpenFlow initially was as simple as {{c4::performing a firmware upgrade}}!</li></ul>",
+                        "<div>OpenFlow was adopted in the industry, unlike its predecessors. This could be due to:</div><ul><li>Before OpenFlow, switch chipset vendors had already started to {{c1::allow programmers to control some forwarding behaviors}}.</li><li>This allowed more companies to build switches without having to {{c2::design and fabricate their own data plane}}.</li><li>Early OpenFlow versions built on technology that {{c3::the switches already supported}}. This meant that enabling OpenFlow initially was as simple as {{c4::performing a firmware upgrade}}!</li></ul>",
                         ""
                     ],
                     "guid": "puI}?Yj-k]",
@@ -5635,7 +5648,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div>\n  Use pulls:</div><div><ul><li>OpenFlow came up to meet the need of {{c1::conducting large scale experimentation on network architectures}}.</li><li>OpenFlow was useful in {{c2::data-center networks}} – there was a need to manage network traffic at large scales.</li><li>Companies started investing more in {{c3::programmers to write control programs}}, and less in {{c3::proprietary switches that could not support new features easily}}.</li></ul></div>",
+                        "Open Flow API and Network Operating System Use pulls:<br><ul><li>OpenFlow came up to meet the need of {{c1::conducting large scale experimentation on network architectures}}.</li><li>OpenFlow was useful in {{c2::data-center networks}} – there was a need to manage network traffic at large scales.</li><li>Companies started investing more in {{c3::programmers to write control programs}}, and less in {{c3::proprietary switches that could not support new features easily}}.</li></ul>",
                         ""
                     ],
                     "guid": "IGAX<A0=[w",
@@ -5648,7 +5661,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div><div>Some key effects that OpenFlow had were:</div><ul><li>Generalizing {{c1::network devices and functions}}.</li><li>The vision of a {{c2::network operating system}}.</li><li>Distributed {{c3::state management techniques}}.</li></ul></div>",
+                        "<div>Some key effects that OpenFlow had were:</div><ul><li>Generalizing {{c1::network devices and functions}}.</li><li>The vision of a {{c2::network operating system}}.</li><li>Distributed {{c3::state management techniques}}.</li></ul>",
                         ""
                     ],
                     "guid": "LkL=5>kjT{",
@@ -5661,21 +5674,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div>The Active Networks phase consisted mainly of creating a {{c1::programming interface that exposed resources/network nodes}} and supported {{c2::customization of functionalities for subsets of packets passing through the network}}.</div>",
-                        ""
-                    ],
-                    "guid": "k!>T3u+;zh",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div>One of the main differences between the {{c1::Active Networks}} phase and the {{c1::separation of the Control and Data plane}} phase is that the former is focused on {{c2::device-level configurations}} and the latter is focused on {{c2::network-wide visibility and control}}.</div>",
+                        "One of the main differences between the {{c1::Active Networks}} phase and the {{c1::separation of the Control and Data plane}} phase is that the former is focused on {{c2::device-level configurations}} and the latter is focused on {{c2::network-wide visibility and control}}.",
                         ""
                     ],
                     "guid": "g1mTZB)2p=",
@@ -5689,8 +5688,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>A Brief History of SDN: The Milestones</h2>\n<h3>OpenFlow API and network operating systems</h3>\n<div>One of the downfalls of OpenFlow when it was first created was that it was hard to deploy and scale it easily.</div><div>T/F?</div>",
-                        "FalseEarly OpenFlow versions built on technology that the switches already supported. This meant that enabling OpenFlow initially was as simple as performing a firmware upgrade!"
+                        "<div>T/F</div><div><br></div><div>One of the downfalls of OpenFlow when it was first created was that it was hard to deploy and scale it easily.</div>",
+                        "False<br><br>Early OpenFlow versions built on technology that the switches already supported. This meant that enabling OpenFlow initially was as simple as performing a firmware upgrade!"
                     ],
                     "guid": "P2B.m>$U38",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
@@ -5703,7 +5702,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>Why Separate the Data Plane from the Control Plane?</h2>\n<div><div>The reasons we separate the two are:</div><ol><li>{{c1::Independent evolution and development}}</li><ol><li>In the traditional approach, routers are responsible for both routing and forwarding functionalities. This meant that a change to either of the functions would require {{c2::an upgrade of hardware}}. In this new approach, routers only focus on forwarding.</li></ol><li>{{c1::Control from high-level software program}}</li></ol></div>",
+                        "<div>The reasons we separate the data plane from the control plane in SDN are:</div><ol><li>{{c1::Independent evolution and development}}<br>- Traditional routers are responsible for both {{c2::routing and forwarding}}.<br>- A change to either of the functions requires {{c2::an upgrade of hardware}}.<br>- In this new approach, routers only focus on {{c2::forwarding}}.</li><li>{{c1::Control from high-level software program}}<br>- In SDN, we use {{c2::software}} to compute the forwarding tables.<br></li></ol>",
                         ""
                     ],
                     "guid": "z*!~/WIBr(",
@@ -5716,7 +5715,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>Why Separate the Data Plane from the Control Plane?</h2>\n<div><div>This separation leads to opportunities in different areas:</div><div><ol><li>{{c1::Data centers}}.&nbsp;Consider large data centers with thousands of servers and VMs.</li><li>{{c1::Routing}}. With SDN, it is easier to update the router's state, and SDN can provide more control over path selection.&nbsp;</li><li>{{c1::Enterprise networks}}.&nbsp;SDN can improve the security applications for enterprise networks. For example, using SDN it is easier to protect a network from volumetric attacks such as DDoS, if we drop the attack traffic at strategic locations of the network.&nbsp;</li><li>{{c1::Research networks}}.&nbsp;SDN allows research networks to coexist with production networks.</li></ol></div></div>",
+                        "<div>This Control Plane and Data Plane separation leads to opportunities in different areas:</div><div><ol><li>{{c1::Data centers}}</li><li>{{c1::Routing}}</li><li>{{c1::Enterprise networks}}</li><li>{{c1::Research networks}}</li></ol></div>",
                         ""
                     ],
                     "guid": "q7NxT[*q7u",
@@ -5729,7 +5728,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>Control Plane and Data Plane Separation</h2>\n<div><div>Two important functions of the network layer are:</div><div><ol><li>{{c1::Forwarding}} is a local function for routers, and it usually takes place in {{c2::nanoseconds::timescale}} and is implemented in {{c3::the hardware itself}}.&nbsp;Forwarding is a function of the {{c4::data}} plane. A router looks at the header of an incoming packet and consults {{c5::the forwarding table}}, to determine the outgoing link to send the packet to.&nbsp;</li><li>{{c1::Routing}} involves {{c6::determining the path from the sender to the receiver across the network}}. Routers rely on routing algorithms for this purpose.&nbsp;It is an end-to-end process for networks. It usually takes place in {{c7::seconds::timescale}} and is implemented in {{c8::the software}}.&nbsp;Routing is a function of the {{c9::control}} plane.</li></ol></div></div>",
+                        "<div>In control plane and data plane seperation there are two important functions of the network layer are:</div><div><ol><li>{{c1::Forwarding}}</li><li>{{c1::Routing}}</li></ol></div>",
                         ""
                     ],
                     "guid": "j0unfBOcr-",
@@ -5742,7 +5741,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>Control Plane and Data Plane Separation</h2>\n<div>In the traditional approach, the routing algorithms (control plane) and forwarding function (data plane) are {{c1::closely}} coupled.</div>",
+                        "In the traditional approach, the routing algorithms (control plane) and forwarding function (data plane) are {{c1::closely}} coupled.",
                         "The router runs and participates in the routing algorithms."
                     ],
                     "guid": "H;rhpIq<2K",
@@ -5755,20 +5754,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>Control Plane and Data Plane Separation</h2>\n<div><div>In the SDN approach, there is a remote controller that {{c1::computes and distributes}} the {{c5::forwarding tables}} to be used by every router. This controller is physically separate from the router. It could be located {{c4::in some remote data center}}, managed by {{c4::the ISP or some other third party}}.</div><div></div><div>The routers are solely responsible for {{c2::forwarding}}, and the remote controllers are solely responsible for {{c1::computing and distributing}} the {{c5::forwarding tables}}. The controller is implemented in software, and therefore we say the network is {{c3::software-defined}}.</div></div>",
-                        "These software implementations are also increasingly open and publicly available, which speeds up innovation in the field."
-                    ],
-                    "guid": "I;ClL];-6,",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Architecture</h2>\n<div><div>The main components of an SDN network are:&nbsp;</div><ul><li>{{c1::SDN-controlled network elements}}</li><ul><li>Sometimes called the {{c2::infrastructure}} layer, is responsible for {{c3::the forwarding of traffic in a network based on the rules computed by the SDN control plane}}.</li></ul><li>{{c1::SDN controller}}</li><ul><li>A logically centralized entity that acts as an&nbsp;interface between {{c4::the network elements and the network-control applications}}.</li></ul><li>{{c1::Network-control applications}}</li><ul><li>Programs that {{c5::manage the underlying network}} by {{c6::collecting information about the network elements with the help of SDN controller}}.</li></ul></ul></div>",
+                        "<div>The main components of an SDN network are:&nbsp;</div><ul><li>{{c1::SDN-controlled}} network elements</li><ul><li>Sometimes called the {{c2::infrastructure}} layer, is responsible for {{c3::the forwarding of traffic}} in a network based on the {{c3::rules computed by the SDN control plane}}.</li></ul><li>{{c1::SDN}} controller</li><ul><li>A logically centralized entity that acts as an&nbsp;interface between {{c4::the network elements}} and the {{c4::network-control applications}}.</li></ul><li>{{c1::Network-control}} applications</li><ul><li>Programs that {{c5::manage the underlying network}} by {{c6::collecting information about the network elements}} with the help of {{c6::SDN controller}}.</li></ul></ul>",
                         ""
                     ],
                     "guid": "gK;x(7mG:D",
@@ -5781,7 +5767,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Architecture</h2>\n<div><div>The four defining features in an SDN architecture are:</div><div><ol><li>{{c1::Flow-based forwarding}}:&nbsp;The rules for forwarding packets in the SDN-controlled switches can be computed based on {{c2::any number of header field values in various layers such as the transport-layer, network-layer and link-layer}}. OpenFlow allows up to {{c3::11}} header field values to be considered.&nbsp;</li><li>{{c1::Separation of data plane and control plane}}:&nbsp;The SDN-controlled switches execute {{c4::the rules in the flow tables}}. Those rules are computed, installed, and managed by software that runs on {{c5::separate servers::locality}}.&nbsp;</li><li>{{c1::Network control functions}}:&nbsp;The SDN control plane consists of two components: {{c6::the controller}} and {{c6::the network applications}}. The controller {{c7::maintains up-to-date network state information about the network devices and elements}} and provides it to {{c8::the network-control applications}}. This information, in turn, is used by {{c9::the applications to monitor and control the network devices}}.</li><li>{{c1::A programmable network}}:&nbsp;The network-control applications act as {{c10::the “brain” of SDN control plane by managing the network}}.</li></ol></div></div>",
+                        "<div>The four defining features in an SDN architecture are:</div><div><ol><li>{{c1::Flow-based}} forwarding</li><li>Separation of {{c1::data plane and control plane}}</li><li>{{c1::Network control}} functions</li><li>{{c1::A programmable}} network</li></ol></div>",
                         ""
                     ],
                     "guid": "l}^eG^[~,7",
@@ -5794,21 +5780,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Architecture</h2>\n<div>In an SDN, the controller is responsible for the {{c1::routing}} of the traffic, and the SDN-controlled network elements such as the switches are responsible for the {{c1::forwarding}} of the traffic.</div>",
-                        ""
-                    ],
-                    "guid": "m^oLk[b|hS",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1><h2>The SDN Architecture</h2><div>Which plane do the SDN components belong to?</div><div><ul><li>Network-control applications: {{c1::Control}} plane</li><li>SDN controller: {{c1::Control}} plane</li><li>SDN-controlled network elements: {{c1::Data}} plane</li></ul></div>",
+                        "<div>Which plane do the SDN components belong to?</div><div><ul><li>Network-control applications: {{c1::Control}} plane</li><li>SDN controller: {{c2::Control}} plane</li><li>SDN-controlled network elements: {{c3::Data}} plane</li></ul></div>",
                         ""
                     ],
                     "guid": "Ee*0ub>7?C",
@@ -5821,7 +5793,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div>The SDN controller is a part of the SDN {{c1::control}} plane and acts as an interface between {{c2::the network elements}} and {{c2::the network-control applications}}.</div>",
+                        "The SDN controller is a part of the SDN {{c1::control}} plane and acts as an interface between {{c2::the network elements}} and {{c2::the network-control applications}}.",
                         ""
                     ],
                     "guid": "Lv:q8ne-yk",
@@ -5834,7 +5806,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div><div>An SDN controller can be broadly split into three layers:&nbsp;</div><ul><li>{{c1::Communication}} layer:&nbsp;communicating between {{c2::the controller}} and the {{c2::network elements}}</li><li>{{c1::Network-wide state-management}} layer:&nbsp;{{c3::stores information of network-state}}</li><li>{{c1::Interface to the network-control application}} layer: {{c4::communicating between controller and applications}}</li></ul></div>",
+                        "<div>An SDN controller can be broadly split into three layers:&nbsp;</div><ul><li>{{c1::Communication}} layer:&nbsp;communicating between {{c2::the controller}} and the {{c2::network elements}}</li><li>{{c1::Network-wide state-management}} layer:&nbsp;{{c3::stores information of network-state}}</li><li>{{c1::Interface to the network-control application}} layer: {{c4::communicating between controller and applications}}</li></ul>",
                         ""
                     ],
                     "guid": "jrwTk3FP`w",
@@ -5847,20 +5819,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div>{{c1::Communication}} Layer: Devices send {{c2::locally observed events}} to the {{c3::SDN controller}} providing the {{c3::controller}} with {{c4::a current view of the network state}}. The communication between {{c3::SDN controller}} and the controlled devices is known as the “{{c5::southbound}}” interface. {{c6::OpenFlow}} is an example of this protocol, which is broadly used by SDN controllers today.</div>",
-                        "These events can be a new device joining the network, heartbeat indicating the device is up, etc."
-                    ],
-                    "guid": "bxSVQw9H|s",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div>{{c1::Network-wide state-management}} layer: This layer is about {{c2::the network-state}} that is maintained by the controller. The {{c2::network-state}} includes any information about {{c3::the state of the hosts, links, switches and other controlled elements in the network::list 3}}. It also includes {{c4::copies of the flow tables of the switches}}. {{c2::Network-state information}} is needed by {{c5::the SDN control plane}} to configure {{c6::the flow tables}}.</div>",
+                        "<div><ul><li>{{c1::Network-wide state-management}} layer: This layer is about {{c2::the network-state}} that is maintained by the controller.</li><li>The {{c2::network-state}} includes any information about {{c3::the state of the hosts, links, switches and other controlled elements in the network::list 3}}. It also includes {{c4::copies of the flow tables of the switches}}.&nbsp;</li><li>{{c2::Network-state information}} is needed by {{c5::the SDN control plane}} to configure {{c6::the flow tables}}.</li></ul></div>",
                         ""
                     ],
                     "guid": "kD;;X9p`Ez",
@@ -5873,7 +5832,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div>{{c1::The interface to the network-control application}} layer:&nbsp;This layer is also known as the controller’s “{{c2::northbound}}” interface using which the SDN controller interacts with {{c1::network-control applications}}. They can read/write {{c3::network state}} and {{c3::flow tables}} in controller’s {{c4::state-management layer}}. The SDN controller can notify applications of {{c5::changes in the network state}}. A {{c6::REST interface}} is an example of a {{c2::northbound API}}.&nbsp;</div>",
+                        "<b>The interface to the {{c1::network-control application}} layer:</b><br><ul><li>Also known as the controller’s “{{c2::northbound::direction}}”</li><li>The SDN controller interacts with {{c1::network-control applications}}.</li><li>They can read/write {{c3::network state}} and {{c3::flow tables}} in controller’s {{c4::state-management layer}}.</li><li>The SDN controller can notify applications of {{c5::changes in the network state}}.</li><li>A {{c6::REST interface}} is an example of a {{c2::northbound API}}.&nbsp;</li></ul>",
                         ""
                     ],
                     "guid": "rOzPi;<d;G",
@@ -5886,7 +5845,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 7: SDN</h1>\n<h2>The SDN Controller Architecture</h2><div>The SDN controller, although viewed as a monolithic service by external devices and applications, is implemented by {{c1::distributed servers}} to achieve {{c2::fault tolerance, high availability and efficiency::list 3}}. Despite the issues of synchronization across servers, many modern controllers such as {{c3::OpenDayLight}} and {{c3::ONOS}} have solved it and prefer distributed controllers to provide highly scalable services.</div>",
+                        "The SDN controller, although viewed as a monolithic service by external devices and applications, is implemented by {{c1::distributed servers}} to achieve {{c2::fault tolerance}}, {{c3::high availability}} and {{c3::efficiency}}. Despite the issues of synchronization across servers, many modern controllers such as {{c3::OpenDayLight}} and {{c3::ONOS}} have solved it and prefer distributed controllers to provide highly scalable services.",
                         ""
                     ],
                     "guid": "DVnL#[R1*1",
@@ -5899,354 +5858,1033 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-1",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\">",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-1-A.svg\">",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "Software Defined Networking (SDN) arose as part of the process to make computer networks more {{c1::programmable}}.&nbsp;",
+                        ""
                     ],
-                    "guid": "L`O`dIuiBJ",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "Im<LH$M&6Y",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-2",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-2-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "SDNs divide the network in two planes: {{c1::control}} plane and {{c1::data}} plane, to {{c2::ease management}} and speed up {{c2::innovation}}.",
+                        ""
                     ],
-                    "guid": "A7!I=-R9XH",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "sMeY}U&O:O",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-3",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-3-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "One of the biggest downfalls for active networking was that it was {{c1::too ambitious!}}&nbsp;",
+                        ""
                     ],
-                    "guid": "c<j8Nx/]XX",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "L3BeV8;e1Y",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-4",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-4-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "An OpenFlow switch has a table of {{c1::packet-handling rules}}, and whenever it receives a packet, it determines the {{c1::highest&nbsp;priority matching}}&nbsp;rule, {{c1::performs the action associated with it}} and {{c1::increments&nbsp;the&nbsp;respective counter}}.&nbsp;",
+                        ""
                     ],
-                    "guid": "DEq7E1gpS)",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "rR=>+YMGua",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-5",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-5-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "{{c1::Forwarding}} is a local function for routers, and it usually takes place in {{c2::nanoseconds::timescale}} and is implemented in {{c3::the hardware}} itself. In an SDN Forwarding is a function of the {{c4::data}} plane. A router looks at the header of an incoming packet and consults {{c5::the forwarding table}}, to determine the outgoing link to send the packet to.",
+                        ""
                     ],
-                    "guid": "h)wL]sE`BD",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "qe7s)%=[6K",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-6",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-6-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "{{c1::Routing}} involves determining the {{c6::path from the sender to the receiver across the network}}. Routers rely on routing algorithms for this purpose.&nbsp;It is an end-to-end process for networks. It usually takes place in {{c7::seconds::timescale}} and is implemented in {{c8::the software}}.&nbsp;Routing is a function of the {{c9::control}} plane.",
+                        ""
                     ],
-                    "guid": "uY}w9(%V8C",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "x._ieU2_OC",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-7",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-7-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "<strong>In the traditional approach</strong>, the {{c1::routing algorithms}} (control plane) and {{c1::forwarding function}} (data plane) are closely coupled. The router runs and participates in the routing algorithms. From there it is able to construct the {{c1::forwarding table}} which consults it for the forwarding function.",
+                        ""
                     ],
-                    "guid": "M$xy{E>}.z",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "FWpe@@8O$q",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-8",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-8-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-1",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-1-Q.svg\">",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-8-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-1-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\">"
                     ],
-                    "guid": "w,*0`ehfyJ",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "H?IpPKse{-",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-9",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-9-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-2",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-2-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-9-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-2-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\" />"
                     ],
-                    "guid": "b$z1J#Jt);",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "g1<JHCV_e)",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-10",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-10-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-3",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\" />",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-3-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-10-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-3-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\" />"
                     ],
-                    "guid": "ycpMhoCOfb",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "FDdu|#|ylg",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-11",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-11-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-4",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\" />",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-4-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-11-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-4-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\" />"
                     ],
-                    "guid": "bH,Mtwt*6Z",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "Bcle.tqJAO",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-12",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-12-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-5",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\" />",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-5-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-12-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-5-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\" />"
                     ],
-                    "guid": "K`z5eO9u9,",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "MWg|wY38[~",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-13",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-13-Q.svg\" />",
-                        "",
-                        "",
+                        "a7e10dd1a3014fc4817670173cdd318a-oa-6",
+                        "<strong>Routing and forwarding traditional approach</strong>,",
+                        "<img src=\"Screenshot 2023-03-16 at 5.34.24 AM.png\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-6-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-13-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-6-A.svg\">",
+                        "<img src=\"a7e10dd1a3014fc4817670173cdd318a-oa-O.svg\" />"
                     ],
-                    "guid": "s*GT@xSW</",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "Ri?ySt`x&e",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-14",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-14-Q.svg\" />",
-                        "",
-                        "",
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-1",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-1-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-14-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-1-A.svg\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\">"
                     ],
-                    "guid": "qk2PhK0>~P",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "hs^|Ri`H`e",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-15",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-15-Q.svg\" />",
-                        "",
-                        "",
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-2",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-2-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-15-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-2-A.svg\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\" />"
                     ],
-                    "guid": "McYXstA(S4",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "dIhWY`GjH1",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "34f370c918d248a78abe53276e6a0164-oa-16",
-                        "",
-                        "<img src=\"componentsOfAnSDNController.png\">",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-16-Q.svg\" />",
-                        "",
-                        "",
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-3",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-3-Q.svg\" />",
                         "",
                         "",
                         "",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-16-A.svg\" />",
-                        "<img src=\"34f370c918d248a78abe53276e6a0164-oa-O.svg\" />"
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-3-A.svg\">",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\" />"
                     ],
-                    "guid": "EMMWk)l3Xv",
-                    "note_model_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "lesson07"
-                    ]
+                    "guid": "L1e*`_U}pC",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-4",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-4-A.svg\">",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\" />"
+                    ],
+                    "guid": "Qp1Vv}L=b/",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-5",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-5-A.svg\">",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\" />"
+                    ],
+                    "guid": "hN4]HZniS:",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "85c8bea299fc431fab8dd678fbb8558d-oa-6",
+                        "SDN separation of the functionalities.",
+                        "<img src=\"Screenshot 2023-03-16 at 5.35.45 AM.png\" />",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-6-A.svg\">",
+                        "<img src=\"85c8bea299fc431fab8dd678fbb8558d-oa-O.svg\" />"
+                    ],
+                    "guid": "pn2x5}MME8",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SDNs use {{c1::Software}}&nbsp;to control the routers’ behavior (e.g.,&nbsp;the path selection process).&nbsp;",
+                        ""
+                    ],
+                    "guid": "jw}?:k5rRS",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "With the separation of the {{c1::control}} plane and the {{c1::data}} plane, any change to the forwarding functions on a router is {{c1::independent from}} the routing functions of the {{c1::control}} plane.&nbsp;",
+                        ""
+                    ],
+                    "guid": "<[D|;v_>V",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In the SDN approach, the controller that computes and distributes the forwarding tables to be used by the routers&nbsp;is {{c1::Physically separate from the routers}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "H<L,N]>{-@",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Software implementations in SDN controllers are increasingly open and publicly available, which {{c1::Speeds up}}&nbsp;innovation in the field.&nbsp;",
+                        ""
+                    ],
+                    "guid": "q?e9|LyW)!",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::<b>Flow-based forwarding:</b>}}<br>The rules for forwarding packets in the SDN-controlled switches can be computed based on {{c2::any number of header field values in various layers such as the transport-layer, network-layer and link-layer}}. OpenFlow allows up to {{c3::11}} header field values to be considered.",
+                        ""
+                    ],
+                    "guid": "GhJb]j)cQb",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::<b>Separation of data plane and control plane:</b>}}<br>The SDN-controlled switches execute {{c2::the rules in the flow tables}}. Those rules are computed, installed, and managed by software that runs on {{c3::separate servers::locality}}.",
+                        ""
+                    ],
+                    "guid": "CT|oc&6IPJ",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::<b>Network control functions:</b>}}&nbsp;<br>The SDN control plane consists of two components: {{c2::the controller}} and {{c3::the network applications}}. The controller {{c4::maintains up-to-date network state information about the network devices and elements}} and provides it to the {{c5::network-control applications}}. This information, in turn, is used by the {{c6::applications to monitor and control}} the network devices.",
+                        ""
+                    ],
+                    "guid": "J_]i8(y6M{",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::<b>A programmable network:</b>}}<br>The network-control applications act as the {{c2::“brain”}} of SDN control plane by {{c3::managing the network}}.",
+                        ""
+                    ],
+                    "guid": "yFD$|#d`vs",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-1",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-1-Q.svg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-1-A.svg\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "Ea5_X8cc)6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-2",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-2-A.svg\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "d92H.B%emL",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-3",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-3-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "x:qJa59rGG",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-4",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-4-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "b2l=4q3Sqr",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-5",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-5-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "rPRJF+b<?h",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-6",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-6-A.svg\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\">"
+                    ],
+                    "guid": "vyAbjJZ@vq",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-7",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-7-A.svg\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "sB?9<8HB)#",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-8",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-8-A.svg\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\">"
+                    ],
+                    "guid": "L<F!^`G7D9",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-9",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-9-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "vs(7#./$S#",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-10",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\" />",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-10-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "N62z;H*]Fb",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4bff388722804c54945f0e4c09ece1f4-oa-11",
+                        "Components of SDN Archtecture",
+                        "<img src=\"Screenshot 2023-03-16 at 6.48.36 AM.png\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-11-A.svg\">",
+                        "<img src=\"4bff388722804c54945f0e4c09ece1f4-oa-O.svg\" />"
+                    ],
+                    "guid": "k0=]*6gQDz",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The network-control applications use the information about the {{c1::network devices and elements}}, provided by the controller, to {{c1::monitor and control}} the network devices.",
+                        ""
+                    ],
+                    "guid": "e5#fl9fF[6",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In an SDN, the controller is responsible for the {{c1::routing}} of the traffic, and the SDN-controlled network elements such as the switches are responsible for the {{c1::forwarding}} of the traffic.&nbsp;",
+                        ""
+                    ],
+                    "guid": "Oo(8FSAVk2",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Traffic forwarding&nbsp;can be based on&nbsp;any number of {{c1::header field}} values in various layers like the t{{c1::ransport-layer}}, {{c1::network-layer}} and {{c1::link-layer}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "AgQg6SbhIY",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SDN controllers operate on the {{c1::Control}}&nbsp;plane.",
+                        ""
+                    ],
+                    "guid": "xHVg;q+![|",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><strong>An SDN controller can be broadly split into three layers:&nbsp;</strong></div><ul><li><strong>{{c1::Communication}}&nbsp;layer:&nbsp;</strong>communicating between the {{c1::controller and the network}} elements</li><li><strong>{{c1::Network-wide state-management}}&nbsp;layer:&nbsp;</strong>stores information of {{c1::network-state}}</li><li><strong>Interface to the {{c1::network-control application}}&nbsp;layer:&nbsp;&nbsp;</strong>communicating between {{c1::controller and applications}}</li></ul>",
+                        ""
+                    ],
+                    "guid": "vC!ctbGS4r",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-1",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-1-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "e>m4$/D{-`",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-2",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-2-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "Q)^mnP`Un=",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-3",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-3-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "EBUE9#D.:l",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-4",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-4-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "yINg<nH6/X",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-5",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-5-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "OQ1Ns_L]/S",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-6",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-6-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "e8py7vlbdV",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-7",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-7-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "NiX}pI.T[7",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-8",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-8-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "u66HNPS%PJ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-9",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-9-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "z];,%I;Yg(",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-10",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-10-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "x|XA!X>j;n",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-11",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-11-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "s*28Z]w$C!",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-12",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-12-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "v,Y7&UE0d}",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-13",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-13-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "JU,x>KLt>;",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-14",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-14-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-14-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "y33**VZeFh",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-15",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-15-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-15-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "lud-5+/E@?",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "407723a0bc58431cad48d742226d6316-oa-16",
+                        "Components of an SDN Controller",
+                        "<img src=\"Screenshot 2023-03-16 at 7.09.52 AM.png\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-16-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-16-A.svg\" />",
+                        "<img src=\"407723a0bc58431cad48d742226d6316-oa-O.svg\" />"
+                    ],
+                    "guid": "JR~c7Ni6H<",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The {{c1::northbound}} interface is used by the {{c1::controller}} and the {{c1::network-control}} applications to interact with each other.",
+                        ""
+                    ],
+                    "guid": "E7I1Okz1RP",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A REST interface is an example of a {{c1::northbound}} API.",
+                        ""
+                    ],
+                    "guid": "h}C8N`SA`d",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "SDN controllers that are implemented by {{c1::decentralized}} servers are more likely to achieve fault tolerance, high availability and efficiency.&nbsp;",
+                        ""
+                    ],
+                    "guid": "yqp[!k4u)T",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A few of the main reasons that&nbsp;SDN arose&nbsp;are:<br><ul><li>A diversity of&nbsp;{{c1::different network equipment}} (eg&nbsp;routers, switches, firewalls, etc.)&nbsp;using different {{c1::protocols}}&nbsp;that&nbsp;made managing the network difficult.</li><li>A lack of a {{c1::central platform}} to control network&nbsp;equipment.&nbsp;</li></ul>",
+                        ""
+                    ],
+                    "guid": "sYz&rM{kX^",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The main idea behind SDNs is to divide tasks into {{c1::smaller functions}} so&nbsp;the code&nbsp;is&nbsp;more {{c1::modular}} and&nbsp;{{c1::easy&nbsp;to manage.}}",
+                        ""
+                    ],
+                    "guid": "xgR9G1!pt2",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "With SDNs the {{c1::control}}&nbsp;plane&nbsp;and {{c1::data}} plane have independent evolution and development.&nbsp;",
+                        ""
+                    ],
+                    "guid": "E:P.JoJ,,{",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "By separating the {{c1::control}} plane and the {{c1::data}} plane,&nbsp;controlling the router’s behavior became easier using higher order programs.&nbsp;For example, it is easier to update the router’s {{c1::state}} or c{{c1::ontrol the path selection}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "wHLcp4`Z-g",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In the SDN approach, {{c1::ISPs&nbsp;or&nbsp;other third parties}} can&nbsp;take up the&nbsp;responsibility&nbsp;for&nbsp;{{c1::computing}}&nbsp;and {{c1::distributing}}&nbsp;the&nbsp;router’s&nbsp;forwarding tables.&nbsp;",
+                        ""
+                    ],
+                    "guid": "K$]ZlgvZ/:",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Having the software implementations for&nbsp;SDNs&nbsp;controllers increasingly open and publicly available makes it {{c1::easy}} to&nbsp;control, since any person could modify the software easily.&nbsp;",
+                        ""
+                    ],
+                    "guid": "k;?>oXbg_8",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
@@ -10819,175 +11457,6 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
             "name": "Image Occlusion Enhanced",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "0e1cb2dc-a05c-11ed-8334-83f82e164357",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Liberation Sans",
-                    "media": [],
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Header",
-                    "ord": 1,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Image",
-                    "ord": 2,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Footer",
-                    "ord": 4,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Remarks",
-                    "ord": 5,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Sources",
-                    "ord": 6,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "plainText": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced-57578",
             "req": [
                 [
                     0,
