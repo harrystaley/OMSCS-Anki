@@ -10031,7 +10031,156 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "61727ac550db48eab039ec565d6860d8-oa-1-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-1-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-10-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-10-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-11-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-11-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-12-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-12-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-13-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-13-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-14-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-14-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-15-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-15-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-16-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-16-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-17-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-17-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-18-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-18-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-19-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-19-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-2-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-2-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-20-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-20-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-21-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-21-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-22-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-22-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-23-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-23-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-24-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-24-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-3-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-3-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-4-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-4-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-5-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-5-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-6-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-6-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-7-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-7-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-8-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-8-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-9-A.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-9-Q.svg",
+                "61727ac550db48eab039ec565d6860d8-oa-O.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-1-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-1-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-2-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-2-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-3-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-3-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-4-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-4-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-5-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-5-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-6-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-6-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-7-A.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-7-Q.svg",
+                "7f3595ec63614f40910ffe7955f72724-oa-O.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-1-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-1-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-2-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-2-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-3-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-3-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-4-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-4-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-5-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-5-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-6-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-6-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-7-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-7-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-8-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-8-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-9-A.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-9-Q.svg",
+                "8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-1-A.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-1-Q.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-2-A.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-2-Q.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-3-A.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-3-Q.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-4-A.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-4-Q.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-5-A.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-5-Q.svg",
+                "915d5020acd34f07be3b226c2833a9b4-oa-O.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-1-A.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-1-Q.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-2-A.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-2-Q.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-3-A.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-3-Q.svg",
+                "997a1a35535c48649eabe0f4b1c3ce8c-oa-O.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-1-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-1-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-10-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-10-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-2-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-2-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-3-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-3-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-4-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-4-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-5-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-5-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-6-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-6-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-7-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-7-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-8-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-8-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-9-A.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-9-Q.svg",
+                "9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg",
+                "Screenshot 2023-03-19 at 9.35.36 PM.png",
+                "Screenshot 2023-03-19 at 9.38.07 PM.png",
+                "Screenshot 2023-03-22 at 11.27.22 PM.png",
+                "Screenshot 2023-03-22 at 11.41.46 PM.png",
+                "Screenshot 2023-03-23 at 1.02.58 AM.png",
+                "Screenshot 2023-03-23 at 1.16.07 AM.png",
+                "Screenshot 2023-03-23 at 1.19.50 AM.png",
+                "e16233e817914d3d9931100c12ddad47-oa-1-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-1-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-2-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-2-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-3-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-3-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-4-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-4-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-5-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-5-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-6-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-6-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-7-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-7-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-8-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-8-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-9-A.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-9-Q.svg",
+                "e16233e817914d3d9931100c12ddad47-oa-O.svg"
+            ],
             "name": "Lesson 09: Internet Security",
             "newLimit": null,
             "newLimitToday": null,
@@ -10039,923 +10188,2045 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Properties of Secure Communication</h2><div><div>Certain properties are important to ensure communication is secure even in the presence of attackers:</div><ul><li>{{c1::Confidentiality}} – We want to ensure that messages are {{c2::only available to the two parties}}. One measure towards this is to {{c3::encrypt the message}}.</li><li>{{c1::Integrity}} – It is important to ensure the message has not been {{c4::modified while in transit from the sender to the receiver}}. As a countermeasure, we can {{c5::check for the integrity of the message}}.</li><li>{{c1::Authentication}} – It is important to ensure that the two parties {{c6::are who they say they are}}. To do this we use {{c1::authentication}} mechanisms to verify the identity of a user.</li><li>{{c1::Availability}} - So we will need to ensure that multiple aspects of the communication channel are functioning appropriately and we can cope with {{c7::possible failures such as power outages, hardware failures, etc.}} or attacks that aim to render the system unavailable.</li></ul></div>",
+                        "The Internet was not designed or built with {{c1::security}} in mind.&nbsp;",
                         ""
                     ],
-                    "guid": "duH!edbibJ",
+                    "guid": "FF]?*V(C7=",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Properties of Secure Communication</h2><div><div>Which property of secure communication ensures that people are who they say they are when communicating over the internet?</div></div>",
-                        "Authentication"
+                        "When establishing a communication, there are certain properties that are important to ensure so the communication is secure even in the presence of attackers:<br><br><ul><li>{{c1::Confidentiality}}</li><li>{{c2::Integrity}}</li><li>{{c3::Authentication}}</li><li>{{c4::Availability}}</li></ul>",
+                        ""
                     ],
-                    "guid": "cIaoh:YYQ2",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "guid": "ED%`8ZJPRW",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Properties of Secure Communication</h2><div><div>Which property of secure communication ensures that a message is not modified before it reaches the receiver?</div></div>",
-                        "Integrity"
-                    ],
-                    "guid": "FSP#u;):/H",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Properties of Secure Communication</h2><div><div>Which property of secure communication is protected by encrypting the messages exchanged?</div></div>",
+                        "If we want to ensure that the message that is sent from the sender to the receiver is only available to the two parties.<br><br>What is the an example of?",
                         "Confidentiality"
                     ],
-                    "guid": "M{%!EAG2#]",
+                    "guid": "JNVHP3y5bw",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div>Attackers have developed techniques abusing the DNS protocol so to {{c1::extend the uptime of domains that are used for malicious purposes}} . The ultimate goal of this abuse is to {{c2::remain undetectable for longer}}.</div>",
-                        "Malicious purposes such as: Command and Control hosting infrastructure, phishing, spamming domains, hosting illegal businesses, illegal content"
+                        "Ensuring that the message has not been somehow modified while in transit from the sender to the receiver. For example, an intruder could attack by modification, insertion or deletion of part of the messages send.<br><br>What is this an example of?",
+                        "Integrity"
                     ],
-                    "guid": "jd}!&chy~k",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>{{c1::Round Robin DNS (RRDNS)}} is used by large websites to {{c2::distribute the load of incoming requests to several servers at a single physical location}}. It responds to a DNS request with {{c3::a list of DNS A records, which it then cycles through in a round robin manner}}. Each {{c3::A record}} also has a {{c4::Time to Live (TTL)}} for this mapping which specifies the number of seconds the response is valid.</div></div>",
-                        "If the lookup is repeated while the mapping is still active, the DNS client will receive the same set of records, albeit in a different order."
-                    ],
-                    "guid": "Jg^Glq)~<m",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>Content Distribution Networks (CDNs) also use {{c1::DNS-based content delivery}}&nbsp;to {{c2::distribute content}} but using more complex strategies. When accessing the name of the service using DNS, the CDN {{c3::computes the ‘nearest edge server’ and returns its IP address to the DNS client}}. CDNs can react quickly to changes in link characteristics as {{c4::their TTL is lower than that in RRDNS}}.</div></div>",
-                        ""
-                    ],
-                    "guid": "nbzzA?wOK",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>{{c1::Fast-Flux Service Networks (FFSN)}} is an extension of the ideas behind RRDNS and CDN. It is based on {{c2::a ‘rapid’ change in DNS answers, with a TTL lower than that of RRDNS and CDN}}. One key difference between {{c1::FFSN}} and the other methods is that {{c3::after the TTL expires, it returns a different set of A records from a larger set of compromised machines}}. These compromised machines act as {{c4::proxies between the incoming request and control node/mothership}}, forming a resilient, robust, one-hop overlay network.</div></div>",
-                        ""
-                    ],
-                    "guid": "Kz%<`1:^]^",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>Attackers tend to keep the uptime of domains used for malicious purposes as short as possible in order to avoid being detected.</div></div><div>T/F?</div>",
-                        "False.Attackers have developed techniques abusing the DNS protocol so to <b>extend</b> the uptime of domains that are used for malicious purposes."
-                    ],
-                    "guid": "wk#otAqJh#",
+                    "guid": "m]9%N`|=M",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>Round Robin DNS is a mechanism used by large websites to distribute the load of incoming requests to several servers at a single physical location.</div></div><div>T/F?</div>",
-                        "True"
+                        "When two parties are communicating, it is important to ensure that the two parties are who they say they are.<br><br>This is an example of?",
+                        "Authentication"
                     ],
-                    "guid": "Ayp4#8hu5f",
+                    "guid": "xF>BtX4:5v",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>DNS-based content delivery aims to distribute the load amongst multiple servers at a single location, but also distribute these servers across the world.</div></div><div>T/F?</div>",
-                        "True"
+                        "A communication is not useful unless the information (or the service that is provided) is indeed available.&nbsp;<br><br>This is an example of?",
+                        "Availability"
                     ],
-                    "guid": "M?:,9(@7jk",
+                    "guid": "v7E$S+SjJU",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div><div>DNS-based content delivery determines the nearest server, which results in increased responsiveness and availability.</div></div><div>T/F?</div>",
-                        "True"
+                        "Which property of secure communication&nbsp;ensures&nbsp;that&nbsp;people are&nbsp;who they say they are when communicating&nbsp;over the internet?&nbsp;",
+                        "Authentication"
                     ],
-                    "guid": "kwu|i</^*!",
+                    "guid": "x_q(]v6oK(",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Evidence of Abuse</h2><div>{{c1::FIRE – FInding Rogue nEtworks}} is a system that {{c2::monitors the Internet for rogue networks}}. Rogue networks are networks whose main purpose is {{c3::malicious activity such as phishing, hosting spam pages, hosting pirated software, etc}}.</div>",
-                        ""
+                        "<div>Which property of&nbsp;secure communication&nbsp;ensures that a message is not&nbsp;modified before it reaches the receiver?&nbsp;</div>",
+                        "Integrity"
                     ],
-                    "guid": "IIEbb-PQTu",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Evidence of Abuse</h2><div><div>FIRE uses three main data sources to identify hosts that likely belong to rogue networks:</div><div><ol><li>{{c1::Botnet command and control providers}} - The two main types of botnets this system considers are {{c2::IRC}}-based botnets and {{c2::HTTP}}-based botnets.</li><li>{{c1::Drive-by-download hosting providers}} - a method of malware installation without {{c3::interaction with the user}}. It commonly occurs when the victim visits a web page that contains {{c4::an exploit for their vulnerable browser}}.&nbsp;</li><li>{{c1::Phish housing providers}} - Contains {{c5::URLs of servers that host phishing pages}}. These pages are hosted on compromised servers and usually are {{c6::up only for a short period of time}}.&nbsp;</li></ol></div></div>",
-                        "Phishing pages usually mimic authentic sites to steal login credentials, credit card numbers and other personal information."
-                    ],
-                    "guid": "qS7U}KM!Fx",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Evidence of Abuse</h2><div>The key difference between rogue and legitimate networks is {{c1::the longevity of malicious behavior}}. By disregarding IP addresses that have been active for {{c2::a short time}}, we ignore phishing attacks hosted on legitimate networks and web servers that were temporarily abused for botnet communication.</div>",
-                        ""
-                    ],
-                    "guid": "J/-J3k:r0s",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Evidence of Abuse</h2><div>Each of these data sources produces a list (Li) of {{c1::malicious IP addresses}} {{c2::daily::frequency}}. The approach is to identify the most malicious networks as those which have the highest {{c3::ratio of malicious IP addresses as compared to the total owned IP addresses of that AS}}.</div>",
-                        ""
-                    ],
-                    "guid": "p3@VZ3Q!`x",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Interconnection Patterns</h2><div>With {{c1::data plane monitoring}} only if a network has {{c2::a large enough concentration of blacklisted IPs}} it will be flagged as malicious. In practice, it is not feasible to {{c3::monitor the traffic of all networks to detect malicious behaviors from the data plane}}. In addition, the disadvantage of this approach is that it may {{c4::take a long time until a very large fraction of IPs makes it to a blacklist}}, and 2) the approach does not {{c5::differentiate well between networks that are legitimate but abused, and those which are likely operated by cyberactors}}.&nbsp;</div>",
-                        ""
-                    ],
-                    "guid": "LPHaH12F~>",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Interconnection Patterns</h2><div>{{c1::ASwatch}} uses information exclusively from {{c2::the control plane (ie. routing behavior)}} to identify malicious networks. Also, this approach aims to detect malicious networks that are likely run by cyberactors, or {{c3::bulletproof}} as they are called, rather than networks that may be badly abused.</div>",
-                        ""
-                    ],
-                    "guid": "Xq[=IqZAn",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Interconnection Patterns</h2><div><div>The design of ASwatch is based on monitoring {{c1::global BGP routing activity}} to learn the control plane behavior of a network. The system has two phases:</div><div><ol><li>{{c2::Training}} phase&nbsp;- The system learns {{c3::control-plane behavior}} typical of each type of ASes from a list of {{c4::known malicious and legitimate ASes}}.</li><li>{{c2::Operational}} phase&nbsp;- Given an unknown AS, it then calculates the {{c5::features for this AS}}. It uses the model to then assign {{c6::a reputation score}} to the AS.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "Fq>c^]^T@1",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Interconnection Patterns</h2><div><div>The three main families of features ASwatch uses are:</div><div><ol><li>{{c1::Rewiring activity}} – Frequent changes in customers/providers, connecting with less popular providers, etc. is usually suspicious behavior.</li><li>{{c1::IP Space Fragmentation and Churn}} - Malicious ASes are likely to use small BGP prefixes to partition their IP address space and only advertise a small section of these (to avoid all of them being taken down at one if detected).</li><li>{{c1::BGP Routing Dynamics}} – The BGP announcements and withdrawals for malicious ASes follow different patterns from legitimate ones – such as periodically announcing prefixes for short periods of time.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "naQlp!nJfy",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: {{c1::Interconnection}} Patterns</h2><div>Bulletproof ASes have distinct {{c1::interconnection}} patterns and overall different {{c2::control plane}} behavior from most legitimate networks.</div>",
-                        ""
-                    ],
-                    "guid": "Op&9E5M#ln",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation</h2><div>Legitimate networks may let malicious content be up for weeks to more than a year.</div><div>T/F?</div>",
-                        "False.Legitimate networks are usually able to remove the malicious content within a few days whereas rogue networks may let the content be up for weeks to more than a year!"
-                    ],
-                    "guid": "hws?S;,]WF",
+                    "guid": "A#&@xn~6Eq",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation</h2><div>How does FIRE identify the most malicious networks?</div>",
+                        "<div>Which property of secure communication&nbsp;is&nbsp;protected by encrypting&nbsp;the messages exchanged?&nbsp;</div>",
+                        "Confidentiality"
+                    ],
+                    "guid": "O5<N`Jp]@O",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "This DNS method is used by large websites to distribute the load of incoming requests to several servers at a single physical location. It responds to a DNS request with a list of DNS A records, which it then cycles through.",
+                        "<strong>Round Robin DNS (RRDNS)</strong>"
+                    ],
+                    "guid": "cHQAKdATk#",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "An extension of the ideas behind RRDNS and CDN and is based on a ‘rapid’ change in DNS answers, with a TTL lower than that of RRDNS and CDN.",
+                        "Fast-Flux Service Networks (FFSN)"
+                    ],
+                    "guid": "CwBR0f$)qr",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "997a1a35535c48649eabe0f4b1c3ce8c-oa-1",
+                        "Content Retrieval Process for a Benign HTTP Server",
+                        "<img src=\"Screenshot 2023-03-19 at 9.35.36 PM.png\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-1-A.svg\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-O.svg\" />"
+                    ],
+                    "guid": "J{V/n8S4%z",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "997a1a35535c48649eabe0f4b1c3ce8c-oa-2",
+                        "Content Retrieval Process for a Benign HTTP Server",
+                        "<img src=\"Screenshot 2023-03-19 at 9.35.36 PM.png\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-2-A.svg\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-O.svg\" />"
+                    ],
+                    "guid": "t~gvxaN`C6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "997a1a35535c48649eabe0f4b1c3ce8c-oa-3",
+                        "Content Retrieval Process for a Benign HTTP Server",
+                        "<img src=\"Screenshot 2023-03-19 at 9.35.36 PM.png\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-3-A.svg\" />",
+                        "<img src=\"997a1a35535c48649eabe0f4b1c3ce8c-oa-O.svg\" />"
+                    ],
+                    "guid": "7+_f{g_^;",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-1",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-1-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "iQJz);E;>Q",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-2",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-2-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "oVq,bBum}6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-3",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-3-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "RcB*k-*I0o",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-4",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-4-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "B1qn(+;7Vv",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-5",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-5-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "E&um.FRL.l",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-6",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-6-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "e*&4uZ)2gR",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-7",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-7-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "tf,7Lb4J;q",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-8",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-8-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "cgold8Yii!",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e16233e817914d3d9931100c12ddad47-oa-9",
+                        "Content Retrieval Process on a Fast-Flux Service Network (FFSN)",
+                        "<img src=\"Screenshot 2023-03-19 at 9.38.07 PM.png\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-9-A.svg\" />",
+                        "<img src=\"e16233e817914d3d9931100c12ddad47-oa-O.svg\" />"
+                    ],
+                    "guid": "[EBV_;)}=",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Attackers&nbsp;tend to&nbsp;keep&nbsp;the uptime of&nbsp;domains used for malicious purposes as short as possible in order to avoid&nbsp;being detected.&nbsp;",
+                        "False"
+                    ],
+                    "guid": "m#DDg-.so6",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Round Robin DNS is a mechanism&nbsp;used&nbsp;by large websites&nbsp;to {{c1::distribute the load of incoming requests}} to several servers at a single physical location.&nbsp;",
+                        ""
+                    ],
+                    "guid": "v$Y_~N]od+",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DNS-based content delivery aims to&nbsp;distribute&nbsp;the load amongst {{c1::multiple servers at a single location}}, but also {{c2::distribute these servers across the world}}.&nbsp;&nbsp;",
+                        ""
+                    ],
+                    "guid": "t$$)K-UjK7",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DNS-based content delivery&nbsp;determines the {{c1::nearest server}},&nbsp;which results in increased {{c2::responsiveness}} and {{c3::availability}}.",
+                        ""
+                    ],
+                    "guid": "A;OP/{>(If",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "FIRE (FInding Rogue nEtworks) uses three main data sources to identify hosts that likely belong to rogue networks:<br><br><ul><li><strong>{{c1::Botnet command and control}}&nbsp;providers</strong></li><li><strong>{{c2::Drive-by-download hosting}}&nbsp;providers</strong></li><li><strong>{{c3::Phish hosting}}&nbsp;providers</strong></li></ul>",
+                        ""
+                    ],
+                    "guid": "rePuW]YiIV",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Several botnets still rely on centralized command and control (C&amp;C). So a bot-master would prefer to host their C&amp;C on networks where it is unlikely to be taken down. The two main types of botnets the FIRE system considers are {{c1::IRC-based}} botnets and {{c1::HTTP-based}} botnets.",
+                        ""
+                    ],
+                    "guid": "m+C(j%dU2I",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Drive-by-download}} is a method of malware installation without interaction with the user. It commonly occurs when the victim visits a web page that contains an exploit for their vulnerable browser.&nbsp;",
+                        ""
+                    ],
+                    "guid": "Q}bg^xRGCN",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The key difference between rogue and legitimate networks is the {{c1::longevity}} of malicious behavior.",
+                        ""
+                    ],
+                    "guid": "hN8(/CcoEY",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The ASwatch system has two phases:<br><ol><li>{{c1::Training}} phase<br></li><li><strong>{{c2::Operational}}&nbsp;phase</strong></li></ol>",
+                        ""
+                    ],
+                    "guid": "ld/j,,zqYz",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ASwatch T<strong>raining phase</strong>&nbsp;- The system learns {{c1::control-plane behavior}} typical of both types of ASes. The system is given a list of {{c2::known malicious}} and {{c3::legitimate}} ASes. It then tracks the behavior of these ASes over time to track their business relationships with other ASes and their BGP {{c4::updates/withdrawals}} patterns.&nbsp; ASwatch then computes {{c5::statistical features}} of each AS.&nbsp;",
+                        ""
+                    ],
+                    "guid": "J@mm+HPH$;",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ASwatch Training phase three main families of features:<br><br><ul><li>{{c1::Rewiring activity}}</li><li>{{c2::IP Space Fragmentation and Churn}}</li><li>{{c3::BGP Routing Dynamics}}</li></ul>",
+                        ""
+                    ],
+                    "guid": "k[f9[ksp<e",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Based on changes in the AS connecting activity. Frequent changes in customers/providers, connecting with less popular providers, etc. is usually suspicious behavior.",
+                        "Rewiring activity&nbsp;"
+                    ],
+                    "guid": "zo/WDSUZ^l",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Based on the advertised prefixes. Malicious ASes are likely to use small BGP prefixes to partition their IP address space and only advertise a small section of these (to avoid all of them being taken down at one if detected).",
+                        "IP Space Fragmentation and Churn"
+                    ],
+                    "guid": "s1vn7!ryU/",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The BGP announcements and withdrawals for malicious ASes follow different patterns from legitimate ones – such as periodically announcing prefixes for short periods of time.",
+                        "BGP Routing Dynamics"
+                    ],
+                    "guid": "r3#Ntd0V39",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What type of machine learning does ASwatch use to detec malicious bahavior?",
+                        "Supervised Learning"
+                    ],
+                    "guid": "EI9SGwT]2W",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Legitimate networks&nbsp;may let malicious content be up for weeks to more than a year.&nbsp;",
+                        "False<br><br>Legitimate networks are usually able to remove the malicious content within a few days whereas rogue networks may let the content be up for weeks to more than a year!"
+                    ],
+                    "guid": "H-URNp(dl2",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does FIRE&nbsp;identify the most malicious networks?",
                         "Analyzing the information given by data sources and searching for ASes with a large percentage of malicious IP addresses."
                     ],
-                    "guid": "kDui>!#SD<",
+                    "guid": "KVp$bW~<Fc",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation</h2><div>ASwatch uses information exclusively from the data plane to infer network reputation.</div><div>T/F?</div>",
-                        "False.The system learns <b>control-plane</b> behavior typical of malicious and legitimate ASes."
+                        "T/F<br><br>ASwatch&nbsp;uses information exclusively from the data plane to infer network reputation.",
+                        "False"
                     ],
-                    "guid": "ej>9`CNN#q",
+                    "guid": "v@;lbdN!@:",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation</h2><div>ASwatch relies on the premise that “bulletproof” ASes have {{c1::distinct}} interconnection patterns and overall different {{c1::control}} plane behavior from most legitimate networks.</div>",
+                        "ASwatch&nbsp;relies on&nbsp;the premise that “bulletproof”&nbsp;ASes&nbsp;have {{c1::distinct}} interconnection patterns&nbsp;and overall different {{c2::control}} plane behavior from most legitimate networks.&nbsp;",
                         ""
                     ],
-                    "guid": "r9:j}OWaX&",
+                    "guid": "QWV0-}-<1a",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>There are 3 classes of features used for the likelihood of breach model:</div><div><ol><li>{{c1::Mismanagement symptoms}}&nbsp;– If there are misconfigurations in an organization’s network, it indicates that {{c2::there may not be policies in place to prevent such attacks}} or may not have the technological capability to detect these failures.</li><li>{{c1::Malicious Activities}}&nbsp;– The level of malicious activities can be determined using spam traps, darknet monitors, DNS monitors, etc. We create {{c3::a reputation blacklist}} of the IP addresses that are involved in some malicious activities.</li><li>{{c1::Security Incident Reports}}&nbsp;– Data based on actual security incidents gives us the ground truth on which to {{c4::train our machine learning model}}.</li></ol></div></div>",
+                        "3 classes of features used in the Likelyhood of a breach model<br><br><ul><li><strong>{{c1::Mismanagement}}&nbsp;symptoms</strong></li><li><strong>{{c2::Malicious}}&nbsp;Activities</strong></li><li><strong>{{c3::Security Incident}} Reports</strong></li></ul>",
                         ""
                     ],
-                    "guid": "G]J@eGv;0~",
+                    "guid": "OJ(*R6Nh*-",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>The features used for Mismanagement symptoms&nbsp;are:</div><ol><li>Open Recursive Resolvers – {{c1::misconfigured open DNS resolvers}}</li><li>DNS Source Port Randomization – {{c2::many servers still do not implement this}}</li><li>BGP Misconfiguration – {{c3::short-lived routes can cause unnecessary updates to the global routing table}}</li><li>Untrusted HTTPS Certificates – {{c4::can detect the validity of a certificate by TLS handshake}}</li><li>Open SMTP Mail Relays – {{c5::servers should filter messages so that only those in the same domain can send mails/messages}}</li></ol></div>",
+                        "<strong>Mismanagement symptoms<br></strong><ol><li>{{c1::Open Recursive}} Resolvers</li><li>{{c2::DNS Source Port}} Randomization</li><li>{{c3::BGP}} Misconfiguration</li><li>Untrusted {{c4::HTTPS Certificates}}</li><li>{{c5::Open SMTP Mail}} Relays</li></ol>",
                         ""
                     ],
-                    "guid": "PlT+|~5I7]",
+                    "guid": "Mb.:49^!&V",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>3 types of malicious activities are:</div><ol><li>Capturing {{c1::spam}} activity – for example, CBL, SBL, SpamCop</li><li>Capturing {{c1::phishing and malware}} activities – for example, PhishTank, SURBL</li><li>Capturing {{c1::scanning}} activity – for example, Dshield, OpenBL</li></ol></div>",
+                        "<strong>Malicious Activities<br></strong><br><ol><li>Capturing {{c1::spam}} activity</li><li>Capturing {{c2::phishing and malware}} activities</li><li>Capturing {{c3::scanning}} activity</li></ol>",
                         ""
                     ],
-                    "guid": "x%)/yKKDlK",
+                    "guid": "m(8%B$>/:u",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>The system uses 3 collections of Security Incident Reports to ensure a wider coverage area:</div><ol><li>VERIS Community Database – This is a public effort to collect cyber security incidents in a common format. It is maintained by {{c1::the Verizon RISK team}}. It contains more than 5000 incident reports.</li><li>Hackmageddon – This is {{c2::an independently maintained blog}} that aggregates security incidents on a monthly basis.</li><li>The Web Hacking Incidents Database – This is {{c3::an actively maintained repository for cyber security incidents}}.</li></ol></div>",
+                        "<strong>Security Incident Reports<br><ol><li>{{c1::VERIS Community}} Database</li><li>{{c2::Hackmageddon}}</li><li>The {{c3::Web Hacking Incidents}} Database</li></ol></strong>",
                         ""
                     ],
-                    "guid": "jkK:N)`TJ:",
+                    "guid": "pYB&M+dssd",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div>This system uses a {{c1::Random Forest (RF)}} classifier and compares it to a baseline provided by a Support Vector Machine (SVM). It uses {{c2::258}} features. The best combination of parameters gives this model an accuracy of {{c3::90}}%!</div>",
-                        ""
+                        "What machine learning techniques are used to infer the likelyhood of breach?",
+                        "Random Forest (RF) classifier and compares it to a baseline provided by a Support Vector Machine (SVM)"
                     ],
-                    "guid": "sUnv|5/EV4",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>BGP hijacking attacks&nbsp;can be classified into the following groups:</div><div><ol><li>Classification by {{c1::Affected Prefix}}: In this class of hijacking attacks, we are primarily concerned with the IP prefixes that are {{c2::advertised by BGP}}.</li><li>Classification by {{c1::AS-Path announcement}}: In this class of attacks, an illegitimate AS announces the {{c3::AS-path for a prefix for which it doesn’t have ownership rights}}.</li><li>Classification by {{c1::Data-Plane traffic manipulation}}: In this class of attacks, the intention of the attacker is to {{c4::hijack the network traffic}} and {{c5::manipulate the redirected network traffic on its way to the receiving AS}}.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "zKUXIBgkax",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>In Classification by Affected Prefix, there are different ways the prefix can be targeted, such as:</div><div><ol><li>Exact prefix hijacking:&nbsp;When two different ASes (one is genuine and the other one is counterfeit) {{c1::announce a path for the same prefix}}.</li><li>Sub-prefix hijacking: This exploits the characteristic of BGP to {{c2::favor more specific prefixes}}.</li><li>Squatting: In this type of attack, the hijacking AS {{c3::announces a prefix that has not yet been announced by the owner AS}}.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "Nd@Ps*mus)",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>There are different ways AS-Path announcement attacks can be achieved:</div><div><ol><li>{{c4::Type-0 hijacking}}: This is simply {{c1::an AS announcing a prefix not owned by itself}}.</li><li>{{c4::Type-N hijacking}}: This is an attack where {{c2::the counterfeit AS announces an illegitimate path for a prefix that it does not own to create a fake link (path) between different ASes}}.</li><li>{{c4::Type-U hijacking}}:&nbsp;In this attack {{c3::the hijacking AS does not modify the AS-PATH but may change the prefix}}.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "DET?c6_vJ0",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>How to Infer Network Reputation: Likelihood of Breach</h2><div><div>In Data-Plane traffic manipulation attacks, traffic intercepted by the hijacker can be:</div><div><ol><li>{{c1::Dropped}}, so that it never reaches the intended destination. This attack falls under the category of&nbsp;{{c2::blackholing (BH) attack}}.</li><li>{{c1::Eavesdropped}} or manipulated before it reaches the receiving AS, which is also called a {{c3::man-in-the-middle attack (MM)}}.</li><li>{{c1::Impersonated}}, e.g. In this case the network traffic of the victim AS is impersonated and the response to this network traffic is sent back to the sender. This attack is called&nbsp;{{c4::imposture (IM) attack}}.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "Oa<WvA>@;v",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Traffic Attraction Attacks: Motivations</h2><div><div>BGP Hijacking attacks can be classified as <b>caused</b> by:</div><ol><li>{{c1::Human Error}}:&nbsp;This is an accidental routing misconfiguration due to manual errors.</li><li>{{c1::Targeted Attack}}:&nbsp;In this type of attack, the hijacking AS usually intercepts network traffic (MM attack) while operating in stealth mode to remain under the radar on the control plane (Type-N and Type-U attacks).</li><li>{{c1::High Impact Attack}}:&nbsp;Here, the attacker is obvious in their intent to cause widespread disruption of services.</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "fb:8k0+tn<",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Example BGP Hijack Attacks</h2>\n<h3>Attack Scenario: Hijacking a prefix</h3><div>In prefix hijacking the attacker sends {{c1::announcements that it owns a prefix (which it does not)}}.&nbsp;This causes {{c2::a conflict of origin}} for the ASes that receive it ({{c3::Multiple Origin AS or MOAS}}).&nbsp;</div>",
-                        ""
-                    ],
-                    "guid": "pt`q,SNER:",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Example BGP Hijack Attacks</h2>\n<h3>Attack Scenario: Hijacking a path</h3><div>In path hijacking, the attacker {{c1::manipulates received updates before propagating them to neighbors}}. Routers which previously had a longer path “believe” the new false path and it adopts it. But the rest of the ASes don’t adopt the new path because {{c2::they either have an shorter path already}} or {{c2::an equally long path to the hijacked AS for the same prefix}}.</div>",
-                        ""
-                    ],
-                    "guid": "Kz/t&zIoW3",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defending against BGP Hijacking: An example detection system</h2><div>{{c1::ARTEMIS}} is a system that is run {{c2::locally::where}} by {{c2::network operators}} to {{c3::safeguard its own prefixes against malicious BGP hijacking attempts}}.</div>",
-                        ""
-                    ],
-                    "guid": "x.y2fOR)42",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defending against BGP Hijacking: An example detection system</h2><div><div>The key ideas behind ARTEMIS are:</div><ol><li>{{c1::A&nbsp;configuration file}}: where {{c4::all the prefixes owned by the network are listed here for reference}}. This configuration file is populated by {{c2::the network operator}}.</li><li>{{c1::A&nbsp;mechanism for receiving BGP updates}}: this allows receiving updates from {{c3::local routers}} and {{c3::monitoring services}}.</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "iNj(oBRB};",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defending against BGP Hijacking: Example Mitigation Techniques</h2><div><div>The ARTEMIS system uses two automated techniques in mitigating BGP Hijacking attacks:</div><div><ol><li>{{c3::Prefix deaggregation}}:&nbsp;Simply deaggregate the prefixes that were targeted by {{c1::announcing more specific subprefixes}}.</li><li>{{c3::Mitigation with Multiple Origin AS (MOAS)}}:&nbsp;{{c2::Third party organizations and service providers}} do BGP announcements for a given network.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "C4Km^;=;0%",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defending against BGP Hijacking: Example Mitigation Techniques</h2><div><div>The authors of the ARTEMIS paper put forth two main findings from their research&nbsp; work:</div><ol><li>{{c1::Outsource the task of BGP announcement to third parties}}: To combat against BGP hijacking attacks, having even just one single external organization to mitigate BGP attacks is highly effective against BGP attacks.</li><li>Comparison of outsourcing BGP announcements vs {{c2::prefix filtering}}: When compared against {{c2::prefix filtering}}, which is the current standard defense mechanism, the research work found that filtering is less optimal when compared against BGP announcements.</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "jTz,EVJ]aP",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Traffic Attraction Attacks</h2><div><div>In order to stop a prefix or AS-Path announcement attack, we need access to the {{c1::control}} plane data, such as IP prefixes and AS-paths.</div></div>",
-                        ""
-                    ],
-                    "guid": "A&MH7!H+za",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Traffic Attraction Attacks</h2><div><div>In attacks where network traffic is dropped, manipulated or impersonated, the data accessed is located at the {{c1::data}} plane.</div></div>",
-                        ""
-                    ],
-                    "guid": "B>iqm@YmH+",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Traffic Attraction Attacks</h2><div><div>{{c1::Sub-prefix hijacking}} disrupts the BGP characteristic to favor more specific prefixes.</div></div>",
-                        ""
-                    ],
-                    "guid": "saX=vIWC=X",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Traffic Attraction Attacks</h2><div><div>Prefix deaggregation and mitigation with Multiple Origin AS (MOAS) are independent from ARTEMIS.&nbsp;</div><div>T/F?</div></div>",
-                        "False.The ARTEMIS system uses both techniques in mitigating attacks."
-                    ],
-                    "guid": "N+^8MmBqqY",
+                    "guid": "Lx-OQ|!&<",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>{{c1::DDoS}}: Background and Spoofing</h2><div><div>A {{c1::Distributed Denial of Service (DDoS)}} attack is an attempt to compromise a server or network resources with {{c2::a flood of traffic}}. To achieve this, the attacker first {{c3::compromises and deploys flooding servers (slaves)}}.</div><div></div><div>Later, when initiating an attack, the attacker {{c4::instructs these flooding servers to send a high volume of traffic to the victim}}. This results in the victim host either {{c5::becoming unreachable}} or {{c5::in exhaustion of its bandwidth}}.</div></div>",
+                        "<strong>GP hijacking attacks</strong>&nbsp;can be classified into the following groups:<br><ol><li><strong>Classification by&nbsp;</strong>{{c1::Affected Prefix}}</li><li><strong>Classification by&nbsp;</strong>{{c2::AS-Path announcement}}</li><li><strong>Classification by&nbsp;</strong>{{c3::Data-Plane traffic manipulation}}</li></ol>",
                         ""
                     ],
-                    "guid": "OKl;;e,(uk",
+                    "guid": "rOzwG!xbb}",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Background and Spoofing</h2><div>The packets sent from the slave contain the source address as {{c1::a random IP address}} and the destination as {{c1::the victim’s IP address}}.</div>",
+                        "What are the categories related to&nbsp;<strong>Classification by Affected Prefix:<br></strong><ul><li><strong>{{c1::Exact prefix}}&nbsp;hijacking</strong></li><li><strong>{{c2::Sub-prefix}}&nbsp;hijacking</strong></li><li>{{c3::Squatting}}<br></li></ul>",
                         ""
                     ],
-                    "guid": "D;,@:as%2/",
+                    "guid": "@W2F$)#}u",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Background and Spoofing</h2><div>Spoofed source addresses make it difficult for the victim to {{c1::track the slaves}}. Also, since the traffic is sent from multiple sources, it’s harder for the victim to {{c2::isolate and block the attack traffic}}.</div>",
-                        ""
+                        "<strong>Exact prefix hijacking</strong>",
+                        "When two different ASes (one is genuine and the other one is counterfeit) announce a path for the same prefix. This disrupts routing in such a way that traffic is routed towards the hijacker wherever the AS-path route is shortest, thereby disrupting traffic."
                     ],
-                    "guid": "bx=Q]tx4/k",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Background and Spoofing</h2><div><div>In DDoS attacks, spoofing can happen in two forms:</div><div><ol><li>The source IP address is spoofed, resulting in the response of the server {{c1::sent to some other client instead of the attacker’s machine}}. This results in wastage of network resources and the client resources while also causing denial of service to legitimate users.</li><li>In the second type of attack, the attacker {{c2::sets the same IP address in both the source and destination IP fields}}. This results in the server sending the replies to itself, causing it to crash.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "CAV)[mbCvR",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: {{c1::Reflection and Amplification}}</h2><div><div>A {{c1::reflector}} is any server that {{c2::sends a response to a request}}.</div></div>",
-                        ""
-                    ],
-                    "guid": "fXQ@3Fltz_",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>In a reflection attack, the master directs the slaves to send {{c1::spoofed requests}} to a very large number of reflectors, usually in the range of 1 million. The slaves set the source address of the packets to {{c2::the victim’s IP address, thereby redirecting the response of the reflectors to the victim}}.</div>",
-                        ""
-                    ],
-                    "guid": "txic_jOy,1",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: {{c2::Reflection and Amplification}}</h2><div>If the requests are chosen in such a way that {{c1::the reflectors send large responses to the victim}}, it is a reflection and {{c2::amplification}} attack.</div>",
-                        ""
-                    ],
-                    "guid": "v%3ef0Vp1&",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>A Distributed Denial of Service Attack consists on the attacker sending a large volume of traffic to the victim through servers (slaves), so that the victim host becoming unreachable or in exhaustion of its bandwidth.</div><div>T/F?</div>",
-                        "True"
-                    ],
-                    "guid": "MuX4)fj5uN",
+                    "guid": "ip3Z&x`%Bw",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>IP spoofing is the act of setting a false IP address in the source field of a packet with the purpose of impersonating a legitimate server.</div><div>T/F?</div>",
-                        "True"
+                        "<strong>Sub-prefix hijacking</strong>",
+                        "This is an extension of exact prefix hijacking, except that in this case, the hijacking AS works with a sub-prefix of the genuine prefix of the real AS. This exploits the characteristic of BGP to favor more specific prefixes, and as a result route large/entire amount of traffic to the hijacking AS."
                     ],
-                    "guid": "c<T=XIB#PD",
+                    "guid": "Lh}/49x9-k",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>In a reflection attack, the attackers use a set of reflectors to initiate an attack on the victim.</div><div>T/F?</div>",
-                        "True"
+                        "<strong>Squatting</strong>",
+                        "<div>In this type of attack, the hijacking AS announces a prefix that has not yet been announced by the owner AS.</div><br>"
                     ],
-                    "guid": "t(+WnJb/`$",
+                    "guid": "jT_m-Y<&8N",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>What is the difference between a conventional DDoS and a Reflection and Amplification attack?</div>",
+                        "Three types of Classification by AS-Path announcement<br><ol><li>{{c1::Type-0}} hijacking</li><li>{{c2::Type-N}} hijacking</li><li>{{c3::Type-U}} hijacking</li></ol>",
+                        ""
+                    ],
+                    "guid": "dl~*nA?@Dm",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Type-0 hijacking",
+                        "This is simply an AS announcing a prefix not owned by itself."
+                    ],
+                    "guid": "jHp3kIU]|v",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Type-N hijacking",
+                        "This is an attack where the counterfeit AS announces an illegitimate path for a prefix that it does not own to create a fake link (path) between different ASes."
+                    ],
+                    "guid": "Lf/!qv|QIL",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Type-U hijacking",
+                        "In this attack the hijacking AS does not modify the AS-PATH but may change the prefix."
+                    ],
+                    "guid": "L>2fw3%*Ng",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Classification by Data-Plane traffic manipulation<br><ol><li>{{c1::Dropped}}</li><li>{{c2::Eavesdropped}} or {{c3::manipulated}}</li><li>{{c4::Impersonated}}</li></ol>",
+                        ""
+                    ],
+                    "guid": "Q/-]w/-Oo!",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Broadly viewed, the attacks can be classified as caused by:<br><ol><li>{{c1::Human Error}}</li><li>{{c2::Targeted}} Attack</li><li>{{c3::High Impact}} Attack</li></ol>",
+                        ""
+                    ],
+                    "guid": "FBMwLZK;N[",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Attacks caused by human error.",
+                        "This is an accidental routing misconfiguration due to manual errors. This can lead to large scale exact-prefix hijacking. e.g: China Telecom accidentally leaked a full BGP table that led to large-scale Type-0 hijacking"
+                    ],
+                    "guid": "Ff$g{H=!Kg",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<strong>Targeted Attack</strong>",
+                        "In this type of attack, the hijacking AS usually intercepts network traffic (MM attack) while operating in stealth mode to remain under the radar on the control plane (Type-N and Type-U attacks). e.g: Visa and Mastercard’s traffic were hijacked by Russian networks using this method in 2017"
+                    ],
+                    "guid": "OG`&,({B,F",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "High Impact Attack",
+                        "The attacker is obvious in their intent to cause widespread disruption of services. e.g: Pakistan Telecom in a Type-0 sub-prefix hijacking, essentially blackholing all of YouTube’s services worldwide for nearly 2 hours."
+                    ],
+                    "guid": "P80|KR.!<a",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "We can say that the {{c1::motivation}} behind every hijacking attempt is {{c1::different}}",
+                        ""
+                    ],
+                    "guid": "IdW($Bboj>",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The ARTEMIS system uses two automated techniques in mitigating BGP hijacking attacks:<br><ol><li><strong>{{c1::Prefix}}&nbsp;deaggregation</strong></li><li>{{c2::Mitigation with Multiple Origin AS (MOAS)}}<br></li></ol>",
+                        ""
+                    ],
+                    "guid": "e[XYUIL~#R",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a BGP attack scenario, the affected network can either contact other networks or it can simply deaggregate the prefixes that were targeted by announcing more specific prefixes of a certain prefix.",
+                        "Prefix deaggregation"
+                    ],
+                    "guid": "Ho:~QI<P`f",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Having third party organizations and service providers do BGP announcements for a given network.",
+                        "Mitigation with Multiple Origin AS (MOAS)"
+                    ],
+                    "guid": "B*9&.u3LfL",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>In MOAS when a BGP hijacking event occurs, the following steps occur:</div><div><ol><li>The third party receives a {{c1::notification}} and immediately {{c1::announces}} from their locations the {{c1::hijacked prefix(es).}}&nbsp;</li><li>In this way, {{c2::network traffic}} from across the world is {{c2::attracted}} to the third party organization, which then {{c2::scrubbs it and tunnels}} it to the legitimate AS.</li></ol></div>",
+                        ""
+                    ],
+                    "guid": "y$FY&YGj:;",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The authors of the ARTEMIS paper put forth two main findings from their research&nbsp; work:<br><ol><li>Outsource the task of {{c1::BGP announcement}} to third parties</li><li>Comparison of {{c2::outsourcing BGP announcements}} vs {{c3::prefix filtering}}</li></ol>",
+                        ""
+                    ],
+                    "guid": "EuR`Zzp=+d",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In order to stop a prefix or AS-Path announcement attack, we need access to the {{c1::Control Plane data}}, such as IP prefixes and AS-paths.&nbsp;",
+                        ""
+                    ],
+                    "guid": "H[pojcpu-l",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In attacks where network traffic is dropped, manipulated or impersonated, the data accessed is located at the {{c1::Data Plane}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "N-gA`SV.s<",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which attack disrupts the BGP characteristic to favor more specific prefixes?",
+                        "Sub-prefix hijacking"
+                    ],
+                    "guid": "qf+:HD96FV",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ARTEMIS&nbsp;uses a {{c1::configuration file}} and a mechanism for {{c2::receiving BGP updates}} from {{c3::routers}} and {{c3::monitoring services}} to detect BGP hijacking attacks.&nbsp;",
+                        "Sub-prefix hijacking"
+                    ],
+                    "guid": "x2DoLu!*VO",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Prefix&nbsp;deaggregation&nbsp;and mitigation with Multiple Origin AS (MOAS) are independent from ARTEMIS.&nbsp;",
+                        "False"
+                    ],
+                    "guid": "DLT/t*3eV>",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A Distributed Denial of Service (DDoS) attack is an attempt to compromise a server or network resources with a {{c1::flood of traffic}}.",
+                        ""
+                    ],
+                    "guid": "u#70t)~QdL",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-1",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-1-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "gDNz(XqfaB",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-2",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-2-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "gPhM*s<}hT",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-3",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-3-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "E:Np=lXzUx",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-4",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-4-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "wvD$hL_VT[",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-5",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-5-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "sD8[TpnHC/",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-6",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-6-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "No[&3Zh;pM",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7f3595ec63614f40910ffe7955f72724-oa-7",
+                        "Structure of a DDoS Attack",
+                        "<img src=\"Screenshot 2023-03-22 at 11.27.22 PM.png\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-7-A.svg\" />",
+                        "<img src=\"7f3595ec63614f40910ffe7955f72724-oa-O.svg\" />"
+                    ],
+                    "guid": "L!bFo8b/l|",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::IP spoofing}} is the act of setting a {{c2::false IP address}} in the source field of a packet with the purpose of {{c3::impersonating a legitimate server}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "y=+@Y!9=lC",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Two forms of DDoS Attacks:<br><br><ol><li>The {{c1::source IP address}} is spoofed, resulting in the response of the server sent to {{c2::some other client}} instead of the {{c3::attacker’s machine}}.</li><li>The attacker sets the {{c4::same IP address}} in both the {{c5::source and destination}} IP fields.</li></ol>",
+                        ""
+                    ],
+                    "guid": "QEt@m#?Smu",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a {{c1::reflection attack}}, the attackers use a set of {{c2::reflectors}} to initiate an attack on the victim. A reflector is any server that {{c3::sends a response to a request}}.",
+                        ""
+                    ],
+                    "guid": "o6sB=xtF4r",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-1",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-1-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "xWqw,C:lc3",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-2",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-2-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "x-@J450d=,",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-3",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-3-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "E]L|3ydj{r",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-4",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-4-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "N$xtjLWl[f",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-5",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-5-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "E;EI7<F.v0",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-6",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-6-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "pkK[RF@bL&",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-7",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-7-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "fW;@b09-E_",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-8",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-8-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "Lq]Pn&D&aH",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-9",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-9-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "b95~=tX0F4",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9c1d64c9f8c74517813c2c07f72e0389-oa-10",
+                        "Using Reflectors to Render a DDoS Attack Much More Diffuse",
+                        "<img src=\"Screenshot 2023-03-22 at 11.41.46 PM.png\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-10-A.svg\" />",
+                        "<img src=\"9c1d64c9f8c74517813c2c07f72e0389-oa-O.svg\" />"
+                    ],
+                    "guid": "FX0,DvYf{}",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A Distributed Denial of Service Attack consists of the attacker&nbsp;sending a {{c1::large volume of traffic}}&nbsp;to the victim through {{c2::servers (slaves)}}, so that the victim host becoming {{c3::unreachable}} or {{c4::in exhaustion of its bandwidth}}.&nbsp;",
+                        ""
+                    ],
+                    "guid": "A|sj2TtXkB",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::IP spoofing}} is the act of setting a {{c2::false IP address}} in the {{c3::source field}} of a packet with the purpose of {{c4::impersonating}} a legitimate server.&nbsp;",
+                        ""
+                    ],
+                    "guid": "F^^HL@UvMa",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a {{c1::reflection&nbsp;attack}}, the attackers use a set of {{c2::reflectors}} to initiate an attack on the victim.&nbsp;",
+                        ""
+                    ],
+                    "guid": "hgvS|HCtN/",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "During a {{c1::Reflection and Amplification}} attack,&nbsp;the {{c2::slaves}} set the source address of the packets to the {{c3::Victim’s}}&nbsp;IP address.",
+                        ""
+                    ],
+                    "guid": "pNsMgj/QVt",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the difference between a&nbsp;conventional DDoS and a Reflection and Amplification attack?",
                         "In a DDos attack, the slaves send traffic directly to the victim as opposed to a reflector sending the traffic to the victim."
                     ],
-                    "guid": "DeCI.9N:8Q",
+                    "guid": "dQqSLPua2<",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS: Reflection and Amplification</h2><div>During a Reflection and Amplification attack, the slaves set the source address of the packets to {{c1::the victim's IP address}}.</div>",
+                        "tools that we have to help with a DDoS attack is under the way or to help deter the attack:<br><br><ul><li>{{c1::Traffic Scrubbing Services}}</li><li>{{c2::ACL Filters}}</li><li>{{c3::BGP Flowspec}}</li><li>{{c4::BGP Blackholing}}</li></ul>",
                         ""
                     ],
-                    "guid": "i!bV%a<${!",
+                    "guid": "9d}<Ee#UW",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defenses Against DDoS Attacks</h2><div>A {{c1::scrubbing service}} diverts the incoming traffic to a specialized server, where the traffic is {{c1::“scrubbed”}} into either {{c2::clean}} or {{c2::unwanted}} traffic. The {{c2::clean}} traffic is then {{c3::sent to its original destination}}.</div>",
-                        ""
+                        "A scrubbing service diverts the incoming traffic to a specialized server, where the traffic is “scrubbed” into either clean or unwanted traffic.&nbsp;",
+                        "Traffic Scrubbing Services"
                     ],
-                    "guid": "ANPTy/tYb-",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defenses Against DDoS Attacks</h2><div>{{c1::Access Control List filters}} are deployed by ISPs or IXPs at their {{c2::AS border routers}} to filter out unwanted traffic. They are effective when the hardware is homogeneous and the deployment of the filters {{c3::can be automated}}.</div>",
-                        ""
-                    ],
-                    "guid": "y~r@LHmyHH",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defenses Against DDoS Attacks</h2><div>{{c1::The flow specification feature of BGP, called Flowspec}}, helps to mitigate DDoS attacks by supporting the deployment and propagation of {{c2::fine-grained filters across AS domain borders}}. It can be designed to match {{c3::a specific flow}} or be based on {{c4::packet attributes like length and fragment}}.</div>",
-                        ""
-                    ],
-                    "guid": "I?%PV-AE(=",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>Defenses Against DDoS Attacks</h2><div>Although flowspec has been effective in {{c1::intra-domain environment}}, it is not so popular in {{c1::inter-domain environments}} as it depends on {{c2::trust and cooperation among competitive networks}}.&nbsp;</div>",
-                        ""
-                    ],
-                    "guid": "K18BQK38wu",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques: BGP Blackholing</h2><div>With BGP Blackholing, all the attack traffic to a targeted DDoS destination is {{c1::dropped to a null location}}. The premise of this approach is that the traffic is stopped closer to {{c2::the source of the attack and before it reaches the targeted victim}}.</div>",
-                        ""
-                    ],
-                    "guid": "dpP?b.6,Tz",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques: BGP Blackholing</h2><div>The victim AS uses {{c1::BGP}} to communicate the attacked destination prefix to its upstream AS, which then {{c2::drops the attack traffic towards this prefix}}. Then the provider (or the IXP) will {{c3::advertise a more specific prefix}} and {{c4::modify the next-hop address}} that will divert the attack traffic to a null interface.</div>",
-                        ""
-                    ],
-                    "guid": "Ky5#IvXa_&",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques</h2><div>Which mitigation technique uses fine-grained filters across AS domain borders, and attributes such as length and fragment can be used to match traffic?</div>",
-                        "BGP FlowspecBGP Flowspec supports the deployment and propagation of fine-grained filters across AS domain borders.&nbsp;It can be designed to match a specific flow or be based on packet attributes like length and fragment."
-                    ],
-                    "guid": "f=MBjy)cr!",
+                    "guid": "C{c8a36+t-",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques</h2><div><div>Which defense mechanism consists on a service that diverts the incoming traffic to a specialized server, where traffic is divided in either clean or unwanted traffic, and clean traffic is then sent to its original destination?</div></div>",
-                        "Traffic Scrubbing ServicesA scrubbing service diverts the incoming traffic to a specialized server, where the traffic is “scrubbed” into either clean or unwanted traffic. The clean traffic is then sent to its original destination."
+                        "These filters are deployed by ISPs or IXPs at their AS border routers to filter out unwanted traffic to help defend against DDoS attacks.",
+                        "ACL Filters"
                     ],
-                    "guid": "t8-zZ.4CMl",
+                    "guid": "QQUfu-](FL",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques</h2><div><div>BGP Blackholing stops the traffic closer to the destination of the attack.</div></div><div>T/F?</div>",
-                        "FalseThe premise of this approach is that the traffic is stopped <b>closer to the source</b> of the attack and before it reaches the targeted victim."
+                        "This feature of BGP helps to mitigate DDoS attacks by supporting the deployment and propagation of fine-grained filters across AS domain borders.",
+                        "BGP Flowspec"
                     ],
-                    "guid": "BO*DC/3~BJ",
+                    "guid": "eZXWw;2z3/",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques</h2><div><div>BGP Blackholing is used to mitigate DDoS attacks.</div></div><div>T/F?</div>",
-                        "TrueBGP blackholing is a countermeasure to mitigate a DDoS attacks."
+                        "61727ac550db48eab039ec565d6860d8-oa-1",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-1-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
                     ],
-                    "guid": "sO/Q~6NDt_",
-                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09",
-                        "lesson_quiz"
-                    ]
+                    "guid": "cp,B2JB)ZQ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DDoS Mitigation Techniques: BGP Blackholing Limitations and Problems</h2><div>One of the major drawbacks of BGP blackholing is that {{c1::the destination under attack becomes unreachable since all the traffic including the legitimate traffic is dropped}}.</div>",
+                        "61727ac550db48eab039ec565d6860d8-oa-2",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-2-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "dZcWeIukV;",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-3",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-3-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "s+|-]X`;sQ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-4",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-4-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "nd2`0`a1,U",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-5",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-5-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "q|OlKE9D_q",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-6",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-6-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "CbgKl@!?U>",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-7",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-7-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "g_jJUMS[;4",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-8",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-8-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "CTJL=x,RfJ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-9",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-9-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "B/YoE{h+uA",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-10",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-10-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "Ec8Ur`d^F`",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-11",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-11-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "M4CWqcM/>u",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-12",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-12-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "CS+C@~@#1S",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-13",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-13-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "g`||lz&*sI",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-14",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-14-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-14-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "IT_{C:]Tnq",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-15",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-15-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-15-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "pxOwDYU$x%",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-16",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-16-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-16-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "NPAhZ4Juk4",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-17",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-17-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-17-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "NAO+Ta12+6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-18",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-18-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-18-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "OxxL{BzJ-x",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-19",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-19-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-19-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "wJ5q>s&.zw",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-20",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-20-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-20-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "PK6zdv/U6y",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-21",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-21-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-21-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "Lc/{RZ>udX",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-22",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-22-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-22-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "Py>@4o!UjZ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-23",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-23-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-23-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "J1cVbGy~zv",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "61727ac550db48eab039ec565d6860d8-oa-24",
+                        "BGP Flowspec Rule Components",
+                        "<img src=\"Screenshot 2023-03-23 at 1.02.58 AM.png\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-24-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-24-A.svg\" />",
+                        "<img src=\"61727ac550db48eab039ec565d6860d8-oa-O.svg\" />"
+                    ],
+                    "guid": "xl>ZtSqzUA",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "915d5020acd34f07be3b226c2833a9b4-oa-1",
+                        "Provider-Based Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.16.07 AM.png\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-1-A.svg\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-O.svg\" />"
+                    ],
+                    "guid": "x)=My]&XQN",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "915d5020acd34f07be3b226c2833a9b4-oa-2",
+                        "Provider-Based Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.16.07 AM.png\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-2-A.svg\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-O.svg\" />"
+                    ],
+                    "guid": "k`-Hn)zyEj",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "915d5020acd34f07be3b226c2833a9b4-oa-3",
+                        "Provider-Based Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.16.07 AM.png\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-3-A.svg\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-O.svg\" />"
+                    ],
+                    "guid": "f/#K,lyp3[",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "915d5020acd34f07be3b226c2833a9b4-oa-4",
+                        "Provider-Based Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.16.07 AM.png\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-4-A.svg\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-O.svg\" />"
+                    ],
+                    "guid": "dtmZ)`.qZ_",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "915d5020acd34f07be3b226c2833a9b4-oa-5",
+                        "Provider-Based Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.16.07 AM.png\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-5-A.svg\" />",
+                        "<img src=\"915d5020acd34f07be3b226c2833a9b4-oa-O.svg\" />"
+                    ],
+                    "guid": "CO~Sf[newx",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-1",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-1-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "JML2_<O#1#",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-2",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-2-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "v8FrFFzX#+",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-3",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-3-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "uBSw:xN{!O",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-4",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-4-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "M3{peg7XX6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-5",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-5-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "s6i%+k%7Dv",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-6",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-6-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "ubX)6:wjFy",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-7",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-7-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "Ee@jNL35f=",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-8",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-8-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "BRzw-!5YEo",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "8fa77d445c2c4c62863314b51f4bdefd-oa-9",
+                        "IXP Blackholing",
+                        "<img src=\"Screenshot 2023-03-23 at 1.19.50 AM.png\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-9-A.svg\" />",
+                        "<img src=\"8fa77d445c2c4c62863314b51f4bdefd-oa-O.svg\" />"
+                    ],
+                    "guid": "zUO<3NUUC&",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which&nbsp;mitigation technique&nbsp;uses fine-grained filters across AS domain borders, and attributes&nbsp;such as&nbsp;length and fragment can be used to match traffic?",
+                        "BGP Flowspec"
+                    ],
+                    "guid": "qZaN-?Yc&q",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which defense&nbsp;mechanism&nbsp;consists&nbsp;on&nbsp;a service that diverts the incoming traffic to a specialized server, where traffic is&nbsp;divided in either clean or unwanted traffic, and clean traffic is then sent to its original destination?&nbsp;",
+                        "<div>Traffic Scrubbing Services</div>"
+                    ],
+                    "guid": "PR`EX+/:&{",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>BGP Blackholing stops the traffic closer to the destination of the attack.",
+                        "<div>False</div>"
+                    ],
+                    "guid": "oo~CCfJFx~",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "BGP Blackholing is used to mitigate {{c1::DDoS}} attacks.",
                         ""
                     ],
-                    "guid": "ho;u8-AiME",
+                    "guid": "iJai(W$>e.",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 9: Internet Security</h1>\n<h2>DNS Abuse</h2><div>Round Robin DNS (RRDNS) and DNS-based content delivery provide reliability, scalability and resilience, which is great for larger websites. However, this also benefits {{c1::spammers}}. Since using these techniques, a DNS request receives multiple A records (each containing a different IP address), this makes it harder to shut down online scams, as if {{c2::even one IP address is functional}}, the scam is still working.</div>",
-                        ""
-                    ],
-                    "guid": "E!U*RXk{U}",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "lesson09"
-                    ]
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
