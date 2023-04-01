@@ -12227,6 +12227,356 @@
                     "guid": "iJai(W$>e.",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ARTEMIS<br>- Is a system that is run locally by network operators to safeguard its own prefixes against malicious {{c3::BGP hijacking}} attempts.<br>- Uses a {{c1::configuration file}} and a mechanism for receiving {{c2::BGP updates}} from routers and monitoring services to detect {{c3::BGP hijacking}} attacks.<br>- Uses {{c4::routing behavior}} to detect {{c3::BGP hijacking}} attacks.<div><br></div>",
+                        ""
+                    ],
+                    "guid": "B:Ik4-89^}",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>{{c1::Round Robin DNS}} is a mechanism used by large websites to {{c2::distribute the load}} of incoming requests to {{c3::several servers}} at a single physical location.</div></div>",
+                        ""
+                    ],
+                    "guid": "gPhVS|$.ZW",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>T/F</div><div><br></div><div>FlowSpec is seen to be effective in both intra-domain and inter-domain environments.</div></div>",
+                        "False"
+                    ],
+                    "guid": "OAy~HJB#M>",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "During a Reflection and Amplification attack, the slaves set the source address of the packets to the ​ {{c1::Victim's}}&nbsp;IP address.",
+                        ""
+                    ],
+                    "guid": "A#1Tppy=s%",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DNS-based {{c1::content delivery}} aims to distribute the load amongst multiple servers at a {{c2::single location}}, but also distribute these servers {{c3::across the world}}.",
+                        ""
+                    ],
+                    "guid": "z$cA|T*{x4",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "BGP blackholing<br><div><ul><li>All the attack traffic to a targeted DDoS destination is {{c1::dropped to a null location}}.</li><li>Protects against {{c1::DDoS attacks}}</li><li>The destination under attack becomes unreachable since {{c1::all the traffic including the legitimate traffic}} is dropped</li></ul></div>",
+                        ""
+                    ],
+                    "guid": "D;$LT!cIXO",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<strong>This is a type of Data-Plane traffic manipulation when traffic is eavesdropped or manipulated before it reaches the receiving AS</strong>",
+                        "Man in the Middle (MM) attack"
+                    ],
+                    "guid": "n=u/%TD[]j",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<strong>In this case the network traffic of the victim AS is impersonated and the response to this network traffic is sent back to the sender</strong>",
+                        "Imposture (IM) attack"
+                    ],
+                    "guid": "dvmv4@L&42",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><strong>This is a type of Data-Plane traffic manipulation when traffic is dropped, so that it never reaches the intended destination.</strong></div></div>",
+                        "<div>Blackholing (BH) attack</div>"
+                    ],
+                    "guid": "oC&s:,Z*r{",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><strong>This type of attack exploits the characteristic of BGP to favor more specific prefixes, and as a result route large/entire amounts of traffic to the hijacking AS.</strong></div></div>",
+                        "<div>Subprefix hijacking</div>"
+                    ],
+                    "guid": "up>/QizNeV",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><div><div><div><div><div><strong>In this type of attack, the hijacking AS announces a prefix that has not yet been announced by the owner AS.</strong></div></div></div></div></div></div></div>",
+                        "Squatting"
+                    ],
+                    "guid": "Ozq3&4Bbv>",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br><div><div>ASwatch uses information exclusively from the data plane to infer network reputation.</div></div>",
+                        "False"
+                    ],
+                    "guid": "qZi}P9Rgpj",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><strong>In this class of attacks, the intention of the attacker is to hijack the network traffic and manipulate the redirected network traffic on its way to the receiving AS.</strong></div></div>",
+                        "<div><div>Classification by As-Path announcement.</div></div>"
+                    ],
+                    "guid": "e/[9djC2>X",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ASwatch relies on the premise that “bulletproof” ASes have {{c1::distinct}} interconnection patterns and overall different {{c1::control}} plane behavior from most legitimate networks.",
+                        ""
+                    ],
+                    "guid": "CGDQ2C!O>i",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a the reflection and amplification attack, the ​ {{c1::master}} commands the three {{c2::slaves}} to send spoofed requests to the reflectors, which in turn sends traffic to the {{c3::victims}}. This is in contrast with the conventional DDoS attack we saw in the previous section, where the {{c4::slaves}} directly send traffic to the {{c5::victims}}.",
+                        ""
+                    ],
+                    "guid": "N:8][i6-:Q",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Authentication}} ensures that people are who they say they are when communicating.</div>",
+                        ""
+                    ],
+                    "guid": "yL7V`5&TnU",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Integrity}} ensures that a message is not modified before it reaches the receiver.</div>",
+                        ""
+                    ],
+                    "guid": "e[0Hs[A$bH",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Confidentiality}} protects communication by encrypting the messages exchanged.</div>",
+                        ""
+                    ],
+                    "guid": "q{YAKwuMT/",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Availability}} ensures that multiple aspects of the communication channel are functioning appropriately.</div>",
+                        ""
+                    ],
+                    "guid": "pzG/ga@p>7",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>In a {{c1::reflection}} attack, the attackers use a set of reflectors to initiate an attack on the victim.</div></div>",
+                        ""
+                    ],
+                    "guid": "k$v%+%O}C:",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br><div><div>Legitimate networks may let malicious content be up for weeks to more than a year.</div></div>",
+                        "False"
+                    ],
+                    "guid": "i:Vx;fWXhm",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In attacks where network traffic is dropped, manipulated or impersonated, the data accessed is located at the {{c1::data plane}}.",
+                        ""
+                    ],
+                    "guid": "B4Y70y49L~",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Attackers tend to keep the uptime of domains used for malicious purposes as short as possible in order to avoid being detected.",
+                        "False"
+                    ],
+                    "guid": "Hzbctj>iAI",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>{{c1::Round Robin DNS (RRDNS)}}<strong>&nbsp;and&nbsp;</strong>{{c2::DNS-based Content Delivery (CDN)}}<strong>&nbsp;are the strategies that prove reliability, scalability and resilience which is great for larger websites. However, this also benefits spammers because a DNS request receives multiple A records (each containing a different IP address), this makes it harder to shut down online scams, as if even one IP address is functional, the scam is still working. Similarly, spreading across several servers makes the shutdown of these scams more complex.</strong></div>",
+                        ""
+                    ],
+                    "guid": "ki~Ey(=nkV",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In order to stop a prefix or AS-Path announcement attack, we need access to the {{c1::control plane}}, such as IP prefixes and AS-paths.",
+                        ""
+                    ],
+                    "guid": "pcU$g&cLH^",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>FIRE (FInding Rogue nEtworks) monitors the {{c1::data plane}} to flag malicious IP identify rogue networks. In contrast, ASWatch uses information from the {{c2::control plane}} to infer network reputation.</div></div>",
+                        ""
+                    ],
+                    "guid": "H~k8j-5L1|",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Fast-Flux Service Networks (FFSN) is an extension of the ideas behind RRDNS and CDN. It is based on a ‘rapid’ change in DNS answers, with a TTL lower than that of RRDNS and CDN. One key difference between FFSN and the other methods is that after the TTL expires, it returns the same set of A records from a larger set of compromised machines.",
+                        "False"
+                    ],
+                    "guid": "HOCTR-L~v5",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>What DNS strategy makes it easier to shut down online scams?</div></div>",
+                        "Fast-Flux Service Networks"
+                    ],
+                    "guid": "w<pUJD7y=+",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>{{c1::IP spoofing}} is the act of setting a false IP address in the source field of a packet with the purpose of impersonating a legitimate server.</div></div>",
+                        ""
+                    ],
+                    "guid": "LXLdiY{7+$",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::ACL Filters}} are deployed by ISPs or IXPs at their AS border routers to filter out unwanted traffic.",
+                        ""
+                    ],
+                    "guid": "f)/X+Xaz9)",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Traffic Scrubbing Service}} consists of a service that diverts the incoming traffic to a specialized server, where traffic is divided in either clean or unwanted traffic, and clean traffic is then sent to its original destination.",
+                        ""
+                    ],
+                    "guid": "vMy5-x-_*O",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::BGP Flowspec}}&nbsp;uses fine-grained filters across AS domain borders, and attributes such as length and fragment can be used to match traffic",
+                        ""
+                    ],
+                    "guid": "kwdHV9az21",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>DNS-based {{c1::content delivery}} determines the nearest server, which results in increased responsiveness and availability.</div></div>",
+                        ""
+                    ],
+                    "guid": "c&L;3wW1g-",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div><strong>T/F</strong></div><div><strong><br></strong></div><div><strong>IP spoofing is the act of setting a false IP address in the source field of a packet with the purpose of impersonating a legitimate server. In DDoS attacks, this can happen in two forms. The first type is when the source IP address is spoofed which results in the response of the server sent to some other client instead of the attacker’s machine. The second type is when the different IP addresses are set to both source and destination IP.</strong></div></div>",
+                        "False"
+                    ],
+                    "guid": "qJP39;R1rC",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div><div>A {{c1::Distributed Denial of Service Attack}} consists on the attacker sending a large volume of traffic to the victim through servers (slaves), so that the victim host becoming unreachable or in exhaustion of its bandwidth.</div></div>",
+                        ""
+                    ],
+                    "guid": "c[j|rheaSy",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
@@ -12242,9 +12592,158 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "WP8Xu3wOq3GFhrs0C1vNKJyFwWh9hgwOJjrbqV2K1Qiy6-oN2R0dVyHEzinDRPXkr_Im0ZIPIqxM-0XlzR_UPUsWrs2hzuwCYdvQfJu9KOocvgh7x8P.png",
-                "qaMcP-6K-5kRKchqUnbcFBsm20It5QWby7IB60sCtZ0xkpjec2uGO3uL04vxA1Cp1fDJF3UWlvoHb77Z-yfG6eTTS-_sIlVrDwQDTcjPnIY8_sgJTJv.png",
-                "zqw9Zukn65JPEyUJQliz_c4IeySBPncjHlVQlGvO9h4gtYFs6t4TpJDv7HE9UGiD8sW37oRtQbYoNghUg2Ig5StgXaAcUkOJY4fkbJ74vtFxNZOuXQS.png"
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-1-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-1-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-10-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-10-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-11-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-11-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-12-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-12-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-13-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-13-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-2-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-2-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-3-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-3-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-4-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-4-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-5-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-5-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-6-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-6-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-7-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-7-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-8-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-8-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-9-A.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-9-Q.svg",
+                "4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-1-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-1-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-2-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-2-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-3-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-3-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-4-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-4-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-5-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-5-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-6-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-6-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-7-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-7-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-8-A.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-8-Q.svg",
+                "8736698c5c9543c8a8ea81321f3f4473-oa-O.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-1-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-1-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-10-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-10-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-11-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-11-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-12-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-12-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-13-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-13-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-14-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-14-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-15-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-15-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-16-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-16-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-17-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-17-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-18-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-18-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-19-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-19-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-2-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-2-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-20-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-20-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-21-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-21-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-22-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-22-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-23-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-23-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-24-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-24-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-25-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-25-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-26-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-26-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-3-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-3-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-4-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-4-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-5-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-5-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-6-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-6-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-7-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-7-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-8-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-8-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-9-A.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-9-Q.svg",
+                "9668bac4580141d59e8ea7ac1056c535-oa-O.svg",
+                "Screenshot 2023-04-01 at 11.45.55 AM.png",
+                "Screenshot 2023-04-01 at 12.43.34 PM.png",
+                "Screenshot 2023-04-01 at 3.57.12 PM.png",
+                "Screenshot 2023-04-01 at 4.17.00 PM.png",
+                "Screenshot 2023-04-01 at 4.22.38 PM.png",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-1-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-1-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-10-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-10-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-11-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-11-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-12-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-12-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-2-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-2-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-3-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-3-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-4-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-4-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-5-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-5-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-6-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-6-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-7-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-7-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-8-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-8-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-9-A.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-9-Q.svg",
+                "ebdfd80a1895498fa8a118358380e2ed-oa-O.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-1-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-1-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-10-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-10-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-11-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-11-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-12-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-12-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-2-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-2-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-3-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-3-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-4-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-4-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-5-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-5-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-6-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-6-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-7-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-7-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-8-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-8-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-9-A.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-9-Q.svg",
+                "f22adb387ce74713a957ac1cae28c603-oa-O.svg"
             ],
             "name": "Lesson 10: Internet Surveillance and Censorship",
             "newLimit": null,
@@ -12253,506 +12752,1671 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>DNS Censorship: What is it?</h2><div>DNS censorship is {{c1::a large scale network traffic filtering strategy}} opted by a network to {{c2::enforce control and censorship}} over Internet infrastructure to suppress material which they deem as objectionable.</div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-1",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\">",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-1-Q.svg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-1-A.svg\">",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\">"
                     ],
-                    "guid": "OEp{&Zjoqz",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "s;/C,:O{ZU",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>DNS Censorship: What is it?</h2><div>The Great Firewall of China (GFW) works by {{c1::injecting fake DNS record responses so that access to a domain name is blocked}}.</div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-2",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-2-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "pyZ<F&lgrS",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "wHI:=Vd=9Z",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>DNS Censorship: What is it?</h2><div><div>Researchers have started to identify some of the properties of the GFW:&nbsp;</div><ol><li>Locality of GFW nodes: There are two differing notions on whether the GFW nodes are present only at the edge ISPs or whether they are also present in non-bordering Chinese ASes. The majority view is that censorship nodes are {{c1::present at the edge}}.</li><li>{{c2::Centralized}} management: Since the blocklists obtained from two distinct GFW locations are the same, there is a high possibility of a {{c2::central}} management (GFW Manager) entity that orchestrates blocklists.</li><li>Load balancing: GFW load balances between processes based on source and destination IP address. The processes are clustered together to collectively send {{c3::injected DNS responses}}.</li></ol></div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-3",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-3-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "qM_X}=(*lh",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "QgiN25Eh-)",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (1)</h2><div><div>The steps involved in DNS injection are:</div><ol><li>{{c1::DNS probe}} is sent to the open DNS resolvers</li><li>The Step 1 result is checked against the {{c2::blocklist of domains and keywords}}</li><li>For domain level blocking, {{c3::a fake DNS A record}} response is sent back.</li></ol></div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-4",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-4-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "gEBwE%9AmN",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "C?%fE}z?t/",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (1)</h2><div>There are two levels of blocking domains:</div><div><ol><li>{{c1::directly blocking the domain}}</li><li>{{c1::blocking based on keywords present in the domain}}</li></ol></div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-5",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-5-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "k.4DR5QLG/",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "w?=F)!8B.v",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 1: Packet Dropping</h3><div>In packet dropping, {{c1::all network traffic}} going to {{c2::a set of specific IP addresses}} is discarded.</div><div></div><div><ul><li>Strengths</li><ul><li>{{c3::Easy to implement}}</li><li>{{c3::Low cost}}</li></ul><li>Weaknesses</li><ul><li>{{c4::Maintenance of blocklist - It is challenging to stay up to date with the list of IP addresses to block}}</li><li>{{c4::Overblocking - If two websites share the same IP address and the intention is to only block one of them, there’s a risk of blocking both}}</li></ul></ul></div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-6",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-6-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "yM%Jx~DPp]",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "Pq}9h?yyaz",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 2: DNS Poisoning</h3><div>When DNS receives a query for resolving hostname to IP address there is {{c1::no answer returned}} or {{c1::an incorrect answer is sent}}.</div><div></div><div><ul><li>Strength</li><ul><li>{{c2::No overblocking: Since there is an extra layer of hostname translation, access to specific hostnames can be blocked versus blanket IP address blocking.}}</li></ul><li>Weakness</li><ul><li>{{c2::Blocks the entire domain. It is not possible to allow email contact while blocking the website.}}</li></ul></ul></div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-7",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-7-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "bz*|Z2>rN>",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "j]?LA4/4u9",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 3: Content Inspection</h3><div>Proxy-based content inspection:&nbsp;This censorship technique is more sophisticated, in that it allows for all network traffic to pass through a proxy where the traffic is {{c1::examined for content}}, and the proxy rejects requests that {{c1::serve objectionable content}}.</div>",
-                        ""
+                        "8736698c5c9543c8a8ea81321f3f4473-oa-8",
+                        "Structure of a GFW Node",
+                        "<img src=\"Screenshot 2023-04-01 at 11.45.55 AM.png\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-8-A.svg\" />",
+                        "<img src=\"8736698c5c9543c8a8ea81321f3f4473-oa-O.svg\" />"
                     ],
-                    "guid": "H,Uhz3Pulh",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "guid": "qX{0nj[n}e",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 3: Content Inspection</h3><div>{{c1::Intrusion detection system (IDS)}} based content inspection: An alternative approach is to use parts of an {{c1::IDS}} to inspect network traffic. An {{c1::IDS}} is easier and more cost effective to implement than a proxy based system as it is more responsive than reactive in nature, in that it informs the firewall rules for future censorship.</div>",
+                        "There are {{c1::two}} levels of blocking domains: the first one is by {{c2::directly blocking}} the domain, and the second one is by {{c3::blocking it based on keywords present in the&nbsp;domain}}",
                         ""
                     ],
-                    "guid": "j|;[3a+FkU",
+                    "guid": "B50dOPxds>",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 4: Blocking with Resets</h3><div>The GFW employs this technique where it sends {{c1::a TCP reset (RST)}} to block {{c2::individual connections}} that contain requests with objectionable content.</div>",
+                        "<div>The steps involved in DNS injection&nbsp;are:</div><ol><li>{{c1::DNS probe}} is sent to the {{c1::open DNS&nbsp;resolvers}}</li><li>The {{c2::probe}} is checked against the blocklist of {{c2::domains}} and&nbsp;{{c2::keywords}}</li><li>For {{c3::domain level}} blocking, a {{c3::fake DNS A record}} response is sent&nbsp;back.</li></ol>",
                         ""
                     ],
-                    "guid": ".DIHayh*1",
+                    "guid": "uBN&TIw=Ms",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><h3>Technique 5: Immediate Reset of Connections</h3><div>Following one “questionable” request, the requestor will {{c1::continue to receive resets from the firewall}} for a particular duration.</div>",
+                        "DNS Censorship Techniques<br><ol><li>{{c1::Packet Dropping}}</li><li>{{c2::DNS&nbsp;Poisoning}}</li><li>{{c3::Content&nbsp;Inspection}}</li><li>{{c4::Blocking with&nbsp;Resets}}</li><li>{{c5::Immediate Reset of&nbsp;Connections}}</li></ol>",
                         ""
                     ],
-                    "guid": "h54/0;_+Y]",
+                    "guid": "A~%h&w44*5",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>DNS Censorship</h2><div>The Great Firewall of China is likely&nbsp;managed by a&nbsp;single entity.</div><div>T/F?</div>",
-                        "True<i>Since the blocklists obtained from two distinct GFW locations are the same, there is a high possibility of a central management (GFW Manager) entity that orchestrates blocklists.</i>"
+                        "<strong>Packet&nbsp;Dropping</strong>",
+                        "As the name suggests, in packet dropping, all network traffic going to a set of specific IP addresses is&nbsp;discarded.&nbsp;The censor identifies undesirable traffic and chooses to not properly forward any packets it sees associated with the traversing undesirable traffic instead of following a normal routing&nbsp;protocol."
                     ],
-                    "guid": "Kba?&4X}XT",
+                    "guid": "pS7Z$7Z.xb",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship</h2><div><div>The&nbsp;Great Firewall of China&nbsp;may block&nbsp;content based on which of the following&nbsp;characteristics?</div></div>",
-                        "<ul><li>Keywords within the URL</li><li>Images on webpage</li><li>Destination IP</li></ul>",
-                        "<ul><li><span style=\"color: rgb(0, 0, 255);\">Keywords within the URL</span></li><li><span style=\"color: rgb(0, 0, 255);\">Images on webpage</span></li><li><span style=\"color: rgb(0, 0, 255);\">Destination IP</span></li></ul><div><i></i>The GFW operates in an on-path fashion, passively examining passing traffic.&nbsp;It may use&nbsp;any combinations of characteristics&nbsp;for filtering.</div>"
+                        "<strong>Packet&nbsp;Dropping: Strengths</strong>",
+                        "<ol><li>Easy to&nbsp;implement</li><li>Low&nbsp;cost</li></ol>"
                     ],
-                    "guid": "oIig-O01N`",
-                    "note_model_uuid": "0e109998-a05c-11ed-8334-83f82e164357",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship</h2><div>Suppose a client in Cambridge&nbsp;makes a request to a website based in China. When does the GFW reset the connection?</div>",
-                        "After the ACK sent by the client in Cambridge."
-                    ],
-                    "guid": "soYCXR1W_:",
+                    "guid": "e_)T{X{h-S",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Why is DNS Manipulation Difficult to Measure?</h2><div><div>What are the challenges of understanding censorhip around the world?&nbsp;</div><div><ol><li>Diverse Measurements: We need&nbsp;{{c1::widespread longitudinal measurements}} to understand global Internet manipulation and the {{c2::heterogeneity}} of DNS manipulation, across countries, resolvers, and domains.&nbsp;</li><li>Need for Scale: There is a need for methods and tools that are {{c3::independent of human intervention and participation}}.&nbsp;</li><li>Identifying {{c4::the intent to restrict content access}}:&nbsp;While identifying&nbsp;inconsistent or anomalous DNS responses can help to detect a variety of underlying causes such as misconfigurations, identifying DNS manipulation is different and it requires that we detect {{c4::the intent to block access to content}}.</li><li>Ethics and Minimizing Risks: It is safer to stay away from using DNS&nbsp;resolvers or DNS forwarders in {{c5::the home networks of individual users}}. Instead, it is safer to&nbsp;rely on&nbsp;open DNS resolvers that are hosted in {{c5::Internet infrastructure, for example, within Internet service providers or cloud hosting providers}}.&nbsp;</li></ol></div></div>",
-                        ""
+                        "Packet&nbsp;Dropping: Weaknesses",
+                        "<ol><li>Maintenance of blocklist - It is challenging to stay up to date with the list of IP addresses to&nbsp;block</li><li>Overblocking - If two websites share the same IP address and the intention is to only block one of them, there’s a risk of blocking&nbsp;both</li></ol><div><br></div>"
                     ],
-                    "guid": "bu_b+e1]0#",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Example Censorship Detection Systems and Their Limitations</h2><div>One the most common systems/approaches to censorship measurement is {{c1::the OpenNet Initiative}} where volunteers perform measurements on their home networks at different times since the past decade. Relying on {{c2::volunteer efforts}} make continuous and diverse measurements very difficult.&nbsp;</div>",
-                        ""
-                    ],
-                    "guid": "Ee[Z2OoUpq",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Example Censorship Detection Systems and Their Limitations</h2><div>Augur is a new system created to perform longitudinal global measurements using {{c1::TCP/IP side channels}}. It focuses on identifying {{c2::IP-based disruptions}} as opposed to {{c2::DNS-based manipulations}}.</div>",
-                        ""
-                    ],
-                    "guid": "zj;R)us.A*",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Censorship Detection</h2><div>Censorship methods are {{c1::inconsistent}} across ISPs making it {{c1::difficult}} to measure DNS manipulation.</div>",
-                        ""
-                    ],
-                    "guid": "g<-Q?Ilp{?",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Censorship Detection</h2><div>Current research methods for understanding DNS methods are scalable due to the number of volunteers participating.</div><div>T/F?</div>",
-                        "FalseAt first, the methods to measure Internet censorship were relying on volunteers who were running measurement software on their own devices. Since this requires them to actually install software and do measurements, we can see that this method is unlikely to reach the scale required."
-                    ],
-                    "guid": "tF$^4G{g@.",
+                    "guid": "tu!U&U0]Ab",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Censorship Detection</h2><div>The use of Open DNS resolvers resolves some of the ethical concerns associated with Internet censorship studies.</div><div>T/F?</div>",
-                        "TrueIt is safer to rely on open DNS resolvers that are hosted in Internet infrastructure, for example, within Internet service providers or cloud hosting providers."
+                        "<strong>DNS&nbsp;Poisoning</strong>",
+                        "When a DNS receives a query for resolving hostname to IP address - if there is no answer returned or an incorrect answer is sent to redirect or mislead the user request, this scenario is called DNS&nbsp;Poisoning."
                     ],
-                    "guid": "i]`H]Bf^kL",
+                    "guid": "J2ENokio;m",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship: A Global Measurement Methodology</h2><div>{{c1::Iris}} is a method to identify {{c2::DNS manipulation}} via {{c3::machine learning}}. It&nbsp;uses {{c4::open DNS resolvers}} located all over the globe.</div>",
-                        ""
+                        "DNS&nbsp;Poisoning: Strength",
+                        "<div>No overblocking: Since there is an extra layer of hostname translation, access to specific hostnames can be blocked versus blanket IP address&nbsp;blocking.</div>"
                     ],
-                    "guid": "v8gFh]*F7v",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship: A Global Measurement Methodology</h2><div><div>In order to avoid using {{c1::home routers}}, the Iris dataset is restricted to a few thousand {{c2::open DNS resolvers}} that are part of the {{c3::Internet infrastructure}}. There are two main steps associated with this process:</div><ol><li>{{c4::Scanning the Internet’s IPv4 space}} for open DNS resolvers</li><li>Identifying {{c3::Infrastructure DNS Resolvers}}</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "E*jSbs]HR9",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship: A Global Measurement Methodology</h2><div><div>The steps involved in this measurement process are:</div><ol><li>{{c1::Performing global DNS queries}} – Iris queries thousands of domains across thousands of open DNS resolvers.</li><li>{{c2::Annotating DNS responses with auxiliary information}} – To enable the classification, Iris annotates the IP addresses with additional information such as their geo-location, AS, port 80 HTTP responses, etc. This information is available from the Censys dataset.</li><li>{{c3::Additional PTR and TLS scanning}} – One IP address could host several websites via virtual hosting. So, when Censys retrieves certificates from port 443, it could differ from one retrieved via TLS’s Server Name Indication (SNI) extension. This results in discrepancies that could cause Iris to label virtual hosting as DNS inconsistencies. To avoid this, Iris adds PTR and SNI certificates.</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "KZ=_j[#&/f",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship: A Global Measurement Methodology</h2><div><div>Iris uses two types of metrics to identify DNS manipulation:</div><div><ol><li>{{c1::Consistency}} Metrics - Domain access should have some consistency, in terms of network properties, infrastructure, or content, even when accessed from different global vantage points.</li><li>{{c1::Independent Verifiability}} Metrics - Some of the independent verifiability metrics used are HTTPS certificate without SNI and HTTPS Certificate with SNI.</li></ol></div><div></div><div>If&nbsp;any {{c1::consistency}} metric or {{c1::Iindependent verifiability}} metric is satisfied, the response is {{c2::correct}}. Otherwise, the response is classified as {{c2::manipulated}}.</div></div>",
-                        ""
-                    ],
-                    "guid": "q+h@/4V,P^",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>DNS Censorship: A Global Measurement Methodology</h2><div><div>Suppose&nbsp;Iris is being used to detect DNS manipulation.&nbsp;Iris&nbsp;queries a global&nbsp;resolver for an IP addresses&nbsp;(consistency metric)&nbsp;and receives&nbsp;a DNS A&nbsp;record&nbsp;with a different IP&nbsp;address than the ones stored.</div><div></div>The response is {{c1::inconsistent}}. It {{c1::might not}} be classified as manipulated.</div>",
-                        "<span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">The response is inconsistent, but will be classified as correct if&nbsp;</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">still the IP address&nbsp;</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">satisfies</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">&nbsp;</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">an</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">&nbsp;independent verifiability metric (e.g., the IP address presents a valid, browser-</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">trusted</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">&nbsp;certificate for the correct domain&nbsp;</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">name)</span><span style=\"color: rgb(45, 59, 69); background-color: rgb(255, 255, 255);\">.</span>"
-                    ],
-                    "guid": "t:eA{Uc%M@",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Censorship Through Connectivity Disruptions</h2><div><div>Using software to interrupt the routing or packet forwarding mechanisms can work by:&nbsp;</div><div><ol><li>{{c1::Routing disruption}}: If routing communication is disrupted or disabled on critical routers, it could result in unreachability of the large parts of a network. Using this approach can be easily detectable, as it involves {{c2::withdrawing previously advertised prefixes or re-advertising them with different properties}}.&nbsp;</li><li>{{c1::Packet filtering}}: Can be used to block packets matching a certain criteria disrupting the normal forwarding action. This approach can be harder to detect and might require {{c3::active probing of the forwarding path}} or {{c4::monitoring traffic of the impacted network}}.</li></ol></div></div>",
-                        ""
-                    ],
-                    "guid": "kW<},C{9}r",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Optional Reading: Connectivity Disruptions: A Case Study</h2><div>In early 2011 in Egypt, there was a series of political developments.&nbsp; On 25th January, access to {{c1::Twitter}} was blocked and as the political developments intensified, there was a complete shutdown of the Internet on 27th January.</div><div></div><div>In Libya, similar political developments unfolded about four days after the above incident. On February 17, {{c2::Youtube}} was blocked to the users followed by an Internet curfew on February 18, blocking Internet connectivity till 8am in the morning. Later on March 3rd, Internet access was disabled completely for around 4 days.&nbsp;</div>",
-                        ""
-                    ],
-                    "guid": "D^}G1a#MY}",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Optional Reading: Connectivity Disruptions: A Case Study</h2><div>{{c1::Internet background radiation (IBR)}} refers to {{c2::unsolicited one-way traffic to unused IP addresses in the Internet}}. These usually indicate malicious activity on the Internet, including worms, Denial of Service attacks, etc. {{c1::IBR}} traffic is observed using network telescopes, called {{c3::darknets}}.</div>",
-                        ""
-                    ],
-                    "guid": "q&rURROX@",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><div>{{c1::Augur::tool}} aims to detect if filtering exists between two hosts, a {{c2::reflector}} and a {{c2::site}}. A {{c2::reflector}} is a host which maintains {{c3::a global IP ID}}. A {{c2::site}} is {{c4::a host that may be potentially blocked}}. To identify if filtering exists, it makes use of a third machine called the {{c5::measurement machine}}.</div>",
-                        ""
-                    ],
-                    "guid": "u^=$hv/Ia9",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><h3>{{c1::IP ID}}</h3><div>Any packet that is sent by a host is assigned {{c1::a unique 16-bit IP identifier (“IP ID”)}}, which the destination host can use to {{c2::reassemble a fragmented packet}}. This {{c1::IP ID}} should be different for {{c3::the packets that are generated by the same host}}.</div>",
-                        ""
-                    ],
-                    "guid": "Cy$-zp#[92",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><div>{{c1::Probing}} is a mechanism to {{c2::monitor the IP ID of a host over time}}. We use the measurement machine to observe the IP ID generated by {{c3::the reflector}}. To do so, the measurement machine sends a {{c4::TCP SYN-ACK}} to the reflector and receives a {{c4::TCP RST}} packet as the response, containing the {{c5::latest IP ID that was generated by the reflector}}.</div>",
-                        ""
-                    ],
-                    "guid": "y~)LZn/r6%",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><div><div>{{c1::Perturbation}} is a mechanism which {{c2::forces a host to increment its IP ID counter}} by sending traffic from different sources such that the host generates a response packet. The flow here is as follows:&nbsp;</div><ol><li>The measurement machine sends a spoofed {{c3::TCP SYN}} packet to the site with source address set to the reflector’s IP address.</li><li>The site responds to the reflector with a {{c3::TCP SYN-ACK}} packet.</li><li>The reflector returns a {{c3::TCP RST}} packet to the site while also incrementing its global IP ID counter by 1.&nbsp;</li></ol></div>",
-                        ""
-                    ],
-                    "guid": "c1/bZ[R~0A",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><h3>Perterbation</h3><div>The measurement machine thus observes that {{c1::the difference in IP IDs}} before and after perterbation is {{c2::2}} and infers that {{c3::communication has occurred between the two hosts}}.</div>",
-                        "<img src=\"zqw9Zukn65JPEyUJQliz_c4IeySBPncjHlVQlGvO9h4gtYFs6t4TpJDv7HE9UGiD8sW37oRtQbYoNghUg2Ig5StgXaAcUkOJY4fkbJ74vtFxNZOuXQS.png\">"
-                    ],
-                    "guid": "i)Ba!ZVZES",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><h3>{{c1::Inbound blocking}}</h3><div>With {{c1::inbound blocking}}, filtering occurs on the path from {{c2::the site}} to {{c2::the reflector}}. In this case, the {{c3::SYN-ACK}} packet sent from the site does not reach the reflector. Hence, there is no response generated and the IP ID of the reflector {{c4::does not increase}}, and the before/after difference is {{c4::1}}.</div>",
-                        "<b><span style=\"color: rgb(45, 59, 69); font-weight: 400;\"><img src=\"qaMcP-6K-5kRKchqUnbcFBsm20It5QWby7IB60sCtZ0xkpjec2uGO3uL04vxA1Cp1fDJF3UWlvoHb77Z-yfG6eTTS-_sIlVrDwQDTcjPnIY8_sgJTJv.png\"></span></b>"
-                    ],
-                    "guid": "OU:<~@VKma",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><h3>{{c1::Outbound blocking}}</h3><div>{{c1::Outbound blocking}} is the filtering imposed on the path from {{c2::the reflector}} to the {{c2::site}}. Here, the reflector receives the {{c3::SYN-ACK}} packet and generates a {{c3::RST}} packet. However, the {{c3::RST}} packet does not reach the site. When the site doesn’t receive a {{c3::RST}} packet, it continues to resend the {{c3::SYN-ACK}} packets at regular intervals depending on the site’s OS and its configuration. The before/after IP ID will be {{c4::at least 2 and even higher}} with {{c3::resent SYN-ACK packets}}.</div>",
-                        "<b><span style=\"color: rgb(45, 59, 69); font-weight: 400;\"><img src=\"WP8Xu3wOq3GFhrs0C1vNKJyFwWh9hgwOJjrbqV2K1Qiy6-oN2R0dVyHEzinDRPXkr_Im0ZIPIqxM-0XlzR_UPUsWrs2hzuwCYdvQfJu9KOocvgh7x8P.png\"></span></b>"
-                    ],
-                    "guid": "N2S3PsV=ga",
-                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><div>Augur is used to identify DNS-based manipulations.</div><div>T/F?</div>",
-                        "False.Augur is a method and accompanying system that utilizes TCP/IP side channels to measure reachability (if there is any filtering) between two Internet locations without directly controlling a measurement vantage point at either location."
-                    ],
-                    "guid": "I*=|Jax&)^",
+                    "guid": "K|3/4)5$z%",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1><h2>Connectivity Disruptions: Detection</h2><div><div>Suppose we are using Augur to detect filtering between two host, and that we have a scenario where no blocking occurs. The measurement machine sends a SYN-ACK to the reflector. What should happen?</div></div>",
-                        "The return IP ID from the reflector to the measurement machine should increase by 2.<img src=\"zqw9Zukn65JPEyUJQliz_c4IeySBPncjHlVQlGvO9h4gtYFs6t4TpJDv7HE9UGiD8sW37oRtQbYoNghUg2Ig5StgXaAcUkOJY4fkbJ74vtFxNZOuXQS.png\">"
+                        "DNS&nbsp;Poisoning: weakness",
+                        "<div>Blocks the entire&nbsp;domain.&nbsp;It is not possible to allow email contact while blocking the&nbsp;website.</div>"
                     ],
-                    "guid": "Nh%=ig+C-(",
+                    "guid": "i;jOO?I@hk",
                     "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10",
-                        "lesson_quiz"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<h1>Lesson 10: Internet Surveillance and Censorship</h1>\n<h2>Example DNS Censorship Techniques (2)</h2><div>Usually, a censorship system implements these techniques {{c1::in combination}} to effect censorship on a network.</div>",
+                        "<em>Proxy-based content inspection</em>",
+                        "<em>Proxy-based content inspection:</em>&nbsp;This censorship technique is more sophisticated, in that it allows for all network traffic to pass through a proxy where the traffic is examined for&nbsp;content,&nbsp;and the proxy rejects requests that serve objectionable&nbsp;content."
+                    ],
+                    "guid": "r{ir`WoqJq",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<em>Proxy-based content inspection</em>: Strengths",
+                        "<ol><li>Precise censorship: A very precise level of censorship can be achieved, down to the level of single web pages or even objects within the web&nbsp;page.</li><li>Flexible: Works well with hybrid security&nbsp;systems.&nbsp;E.g., with a combination of other censorship techniques like packet dropping and DNS&nbsp;poisoning.</li></ol>"
+                    ],
+                    "guid": "f4:RXBNUiO",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<em>Proxy-based content inspection</em>: Weaknesses",
+                        "<div>Not scalable: They are expensive to implement on a large scale network as the processing overhead is large (through a&nbsp;proxy)</div><br>"
+                    ],
+                    "guid": "muo>]%nNCo",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<em>&nbsp;Intrusion detection system (IDS) based content inspection</em>",
+                        "&nbsp;An alternative approach is to use parts of an IDS to inspect network&nbsp;traffic.&nbsp;An IDS is easier and more cost effective to implement than a proxy based system as it is more responsive than reactive in nature, in that it informs the firewall rules for future&nbsp;censorship."
+                    ],
+                    "guid": "l^yU7!CsDy",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<strong>Blocking with&nbsp;Resets&nbsp;</strong>",
+                        "The GFW employs this technique where it sends a TCP reset (RST) to block individual connections that contain requests with objectionable&nbsp;content.&nbsp;We can see this by packet capturing of requests that are normal and requests that contain potentially flaggable&nbsp;keywords.&nbsp;Let’s look at one such example of packet&nbsp;capture."
+                    ],
+                    "guid": "nlIkag=~V)",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<strong>Immediate Reset of&nbsp;Connections</strong>",
+                        "Censorship systems like GFW have blocking rules in addition to inspecting content, to suspend traffic coming from a source immediately, for a&nbsp; short period of&nbsp;time."
+                    ],
+                    "guid": "OVs2y|%KW7",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>The Great Firewall of China&nbsp;injects fake&nbsp;DNS A records to block individual connections.",
+                        "False"
+                    ],
+                    "guid": "gsM(+#@n=y",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Great Firewall of China is likely&nbsp;managed by {{c1::a&nbsp;single entity}}.&nbsp;",
                         ""
                     ],
-                    "guid": "d[}G1a{DRn",
+                    "guid": "J-T.`v_SRL",
                     "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
-                    "tags": [
-                        "lecture",
-                        "Lesson10"
-                    ]
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The&nbsp;Great Firewall of China&nbsp;may block&nbsp;content based on which characteristics?&nbsp;&nbsp;",
+                        "<div>Keywords within the URL</div><div>Images on webpage</div><div>Destination IP<br></div>"
+                    ],
+                    "guid": "bWJEx>A.Cf",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The GFW operates in an {{c1::on-path fashion,}} passively examining passing traffic.&nbsp;It may use&nbsp;{{c1::any combinations}} of characteristics&nbsp;for filtering.",
+                        ""
+                    ],
+                    "guid": "zKPdaaVU3N",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>The&nbsp;GFW can block a portion of a website using DNS poisoning.&nbsp;",
+                        "False"
+                    ],
+                    "guid": "jlwEEuczWq",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Suppose a client in Cambridge&nbsp;makes a request to a website based in China. When does the GFW reset the connection?",
+                        "<div>After the ACK sent by the client in Cambridge</div>&nbsp;<br>"
+                    ],
+                    "guid": "et,5A#9($d",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Censorship methods are {{c1::inconsistent}} across ISPs making it difficult to {{c1::measure DNS manipulation.}}",
+                        ""
+                    ],
+                    "guid": "B={C(u)Pt*",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "T/F<br><br>Current research methods for understanding DNS methods are&nbsp;scalable&nbsp;due to the number of volunteers participating.&nbsp;",
+                        "False"
+                    ],
+                    "guid": "l&zZm+`6(3",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>The use of {{c1::Open DNS resolvers}} resolves some of the ethical concerns associated with Internet censorship studies.&nbsp;</div>",
+                        ""
+                    ],
+                    "guid": "OPc/]qqp~B",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-1",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-1-Q.svg\">",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-1-A.svg\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "l46I:ev=)t",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-2",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-2-A.svg\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "bP*smtrGMU",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-3",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-3-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "CXZw7$bvZc",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-4",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-4-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "r)G0y6r%ba",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-5",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-5-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "fd=o[qSU03",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-6",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-6-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "hg7-Dj6Z^G",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-7",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-7-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "h=92yChV#P",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-8",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-8-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "zI%hS+}g>]",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-9",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-9-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "EHYR}lG-D]",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-10",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-10-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "h`dN|LLS{(",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-11",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-11-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "DB4PvR&LUy",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-12",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-12-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "I`.iQ~{f.I",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-13",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-13-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "Qu</Q#<.>x",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-14",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-14-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-14-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "l4hf];^PE(",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-15",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-15-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-15-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "rfxF#T~N_i",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-16",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-16-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-16-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "E,IylZpwUu",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-17",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-17-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-17-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "mbTJ-xk<@?",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-18",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-18-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-18-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "A.si@^)y*N",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-19",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-19-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-19-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "oGfwM9wh?Y",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-20",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-20-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-20-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "pEZz(mH1J?",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-21",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-21-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-21-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "i7U^q1!9z3",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-22",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-22-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-22-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "caogg19)(J",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-23",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-23-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-23-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "d+]TGR-(0|",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-24",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-24-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-24-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "I)+5$XYp,$",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-25",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-25-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-25-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "g-Nt&2MqKQ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9668bac4580141d59e8ea7ac1056c535-oa-26",
+                        "Overview of DNS Resolution, Filtering, and Classafication",
+                        "<img src=\"Screenshot 2023-04-01 at 12.43.34 PM.png\" />",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-26-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-26-A.svg\">",
+                        "<img src=\"9668bac4580141d59e8ea7ac1056c535-oa-O.svg\" />"
+                    ],
+                    "guid": "E5N#u,^u(6",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Two main steps associated with selecting Open DNS resolvers:<br><ol><li>Scanning the Internet’s IPv4 space for {{c1::open DNS resolvers}}</li><li>Identifying {{c2::Infrastructure DNS Resolvers}}</li></ol>",
+                        ""
+                    ],
+                    "guid": "N19q%Dj2Ii",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The steps involved in the IRIS DNS measurement process are:<br><ol><li>{{c1::Performing global DNS queries}}&nbsp;</li><li>{{c2::Annotating DNS responses with auxiliary information}}</li><li>{{c3::Additional PTR and TLS scanning}}</li></ol>",
+                        ""
+                    ],
+                    "guid": "w#LxR8g?o~",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Iris uses two types of metrics to identify this DNS manipulation:</div><div><ol><li>{{c1::Consistency Metrics}}</li><li>{{c2::Independent Verifiability Metrics}}</li></ol></div>",
+                        ""
+                    ],
+                    "guid": "fP)v0Z.N`y",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are the two methods of censorship through the use of software to interrupt the routing or packet forwarding mechanisms?",
+                        "1. Routing&nbsp;disruption<br>2. Packet filtering"
+                    ],
+                    "guid": "dktI#2}H4#",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Augur is&nbsp;a method and accompanying system that utilizes {{c1::TCP/IP side channels}} to measure reachability&nbsp;(if there is any filtering)&nbsp;between two Internet locations without directly controlling a {{c1::measurement vantage point}} at either&nbsp;location.&nbsp;",
+                        ""
+                    ],
+                    "guid": "mnn,E0fBgL",
+                    "note_model_uuid": "eef582ac-e5c4-11ea-8fe2-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Suppose we are using Augur to detect&nbsp;filtering between two host, and that we have&nbsp;a scenario where&nbsp;no blocking occurs. The measurement&nbsp;machine&nbsp;sends a SYN-ACK to the reflector. What should happen?&nbsp;&nbsp;",
+                        "<div>The return IP ID from the reflector to the measurement machine should increase by 2.</div>"
+                    ],
+                    "guid": "AP&L!Z5>i}",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-1",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-1-A.svg\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "yWUf/GQ:sm",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-2",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-2-A.svg\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "hOEd>0uLor",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-3",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-3-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "N/%o_aAktf",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-4",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-4-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "Im]+&HdpGK",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-5",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-5-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "l{<nm5h7WZ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-6",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-6-A.svg\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "B>4+JPx7Wd",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-7",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-7-A.svg\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "G%?zo=1tg*",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-8",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-8-A.svg\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "B~g~,<DU|,",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-9",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-9-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "LY#,&Le[Ij",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-10",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-10-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "L`N!x-7?]m",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-11",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-11-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "K/(}?5d^VP",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-12",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-12-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "byA>(PPH2g",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e87571372eb4377ac3e8c0dd7381a4d-oa-13",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 3.57.12 PM.png\" />",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-13-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-13-A.svg\">",
+                        "<img src=\"4e87571372eb4377ac3e8c0dd7381a4d-oa-O.svg\" />"
+                    ],
+                    "guid": "Glov%N5Uo*",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-1",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-1-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\">"
+                    ],
+                    "guid": "s7`E^z#MIr",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-2",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-2-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "J.m>t<{vFX",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-3",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-3-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "D)w+X%^HC7",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-4",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-4-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "Cx&QgBK+(:",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-5",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-5-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "e7sAv[U-k:",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-6",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-6-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "xgs;Wdg9C!",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-7",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-7-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "JC:0/1@5mJ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-8",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-8-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "l!Y53HNHX_",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-9",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-9-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "k+U8x-z<57",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-10",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-10-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "C^?Y4cX=([",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-11",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-11-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "LsK<3HjVn@",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ebdfd80a1895498fa8a118358380e2ed-oa-12",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.17.00 PM.png\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-12-A.svg\" />",
+                        "<img src=\"ebdfd80a1895498fa8a118358380e2ed-oa-O.svg\" />"
+                    ],
+                    "guid": "p-%@</(}GC",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-1",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-1-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "oJ7D:dGq_K",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-2",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-2-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "E&%mD0nSrZ",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-3",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-3-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "DhT$$_}#@}",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-4",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-4-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "B)gt6qK!$|",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-5",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-5-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "n{atRF*9*Y",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-6",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-6-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "m>9A(PRtmR",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-7",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-7-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "GA#g@K`aL+",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-8",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-8-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "kt8&[.nAR]",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-9",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-9-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-9-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "P9KiX{4B-&",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-10",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-10-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-10-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "rD`iEvMb([",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-11",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-11-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-11-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "hZU_X%F]V^",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "f22adb387ce74713a957ac1cae28c603-oa-12",
+                        "Detecting Connectivity Disruptions Using Augur",
+                        "<img src=\"Screenshot 2023-04-01 at 4.22.38 PM.png\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-12-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-12-A.svg\" />",
+                        "<img src=\"f22adb387ce74713a957ac1cae28c603-oa-O.svg\" />"
+                    ],
+                    "guid": "g8hVqYoK?@",
+                    "note_model_uuid": "858e709e-bc40-11ed-88d4-39d85c76fb96",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assume&nbsp;a scenario we are using Augur to detect inbound blocking.&nbsp;The Measurement Machine sends&nbsp;a SYN-ACK to the reflector, what should happen?",
+                        "The return IPID from the reflector to the Measurement Machine will increase by 1."
+                    ],
+                    "guid": "doOc]oEEK5",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assume&nbsp;a scenario we are using Augur to detect outbound blocking.&nbsp;The Measurement Machine has not recieved responses to two if its SYN-ACKs to the reflector, what should happen?",
+                        "The return IPID from the reflector to the Measurement Machine will increase by 2 for each SYN-ACK sent without a returned RST. Thus showing retransmission."
+                    ],
+                    "guid": "s?hxYQ<w~f",
+                    "note_model_uuid": "94d029ea-7628-11eb-b3ff-e4a7a0580719",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
