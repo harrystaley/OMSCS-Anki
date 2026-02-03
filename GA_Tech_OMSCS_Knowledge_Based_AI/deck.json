@@ -23,7 +23,7 @@
       "modelName": "Cloze",
       "tags": ["KBAI", "Lesson01", "Conundrums"],
       "fields": {
-        "Text": "Conundrum 3: Logic is {{c1::deductive}}, but many problems are {{c2::not (abductive/inductive)}}.",
+        "Text": "Conundrum 3: Logic is {{c1::deductive}}, but many problems are {{c2::abductive or inductive}}.",
         "Extra": "Lesson 01 - Introduction to KBAI"
       }
     },
@@ -34,6 +34,15 @@
       "fields": {
         "Text": "Conundrum 4: The world is {{c1::dynamic}}, but knowledge is {{c2::limited}}.",
         "Extra": "Lesson 01 - Introduction to KBAI"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson01", "Conundrums", "Exam-Focus"],
+      "fields": {
+        "Text": "Conundrum: Many AI problems are {{c1::computationally intractable}}, yet require {{c2::near real-time performance}} from agents with limited resources.",
+        "Extra": "From Spring 2015 Final Exam - Key conundrum"
       }
     },
     {
@@ -435,6 +444,15 @@
     {
       "deckName": "CS7637 KBAI Exam 1",
       "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson04", "Generate-Test", "Exam-Focus"],
+      "fields": {
+        "Text": "Generate and Test is a {{c1::general-purpose}} method used when {{c2::knowledge-based methods}} are not available.",
+        "Extra": "From Spring 2015 Midterm Q7 - Fallback method"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
       "tags": ["KBAI", "Lesson05", "Means-Ends"],
       "fields": {
         "Text": "Means-ends analysis identifies the {{c1::difference}} between current state and {{c2::goal state}}.",
@@ -624,6 +642,33 @@
     {
       "deckName": "CS7637 KBAI Exam 1",
       "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson06", "Production-Rules", "Exam-Focus"],
+      "fields": {
+        "Text": "In a production system, the working memory contents {{c1::evolve}} as rules fire and modify the state.",
+        "Extra": "From Fall 2014 Midterm - Show evolving working memory"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson06", "Impasse", "Exam-Focus"],
+      "fields": {
+        "Text": "An impasse in a production system occurs when a {{c1::rule is missing}} needed to continue reasoning.",
+        "Extra": "From Spring 2015 Midterm Q5 - Learning from impasses"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson06", "Impasse", "Exam-Focus"],
+      "fields": {
+        "Text": "When a rule is missing, a production system can learn from {{c1::cases}} to acquire the missing rule.",
+        "Extra": "From Fall 2014 Midterm Q2d - Learning rules from cases"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
       "tags": ["KBAI", "Lesson07", "Frames"],
       "fields": {
         "Text": "A frame represents a {{c1::stereotyped situation}} with slots for expected information.",
@@ -682,6 +727,33 @@
       "fields": {
         "Text": "Frame inheritance: a frame can inherit slot values from a {{c1::parent frame}}.",
         "Extra": "Lesson 07 - Frames"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson07", "Frames", "Exam-Focus"],
+      "fields": {
+        "Text": "Event frame format: (event ({{c1::actor}}, {{c2::object}}, {{c3::location}}, {{c4::time}}, {{c5::instrument}})).",
+        "Extra": "From Fall 2014 Final Q1 - Story understanding frames"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson07", "Frames-vs-Logic", "Exam-Focus"],
+      "fields": {
+        "Text": "Advantage of frames over logic: frames provide {{c1::default values}} and {{c2::inheritance}}.",
+        "Extra": "From Fall 2014 Midterm Q1c - Comparing representations"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson07", "Frames-vs-Logic", "Exam-Focus"],
+      "fields": {
+        "Text": "Advantage of logic over frames: logic provides {{c1::formal inference rules}} and {{c2::proof procedures}}.",
+        "Extra": "From Fall 2014 Midterm Q1c - Comparing representations"
       }
     },
     {
@@ -795,6 +867,33 @@
     {
       "deckName": "CS7637 KBAI Exam 1",
       "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson09", "CBR", "Exam-Focus"],
+      "fields": {
+        "Text": "A case has two main components: {{c1::contents}} (problem + solution) and {{c2::indices}} (features for retrieval).",
+        "Extra": "From Spring 2015 Midterm Q4 - Case structure"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson09", "CBR-vs-Rules", "Exam-Focus"],
+      "fields": {
+        "Text": "Advantage of rule-based over CBR: rules provide {{c1::explicit reasoning}} that is easier to {{c2::explain}}.",
+        "Extra": "From Fall 2014 Midterm Q2c - Comparing methods"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson09", "CBR-vs-Rules", "Exam-Focus"],
+      "fields": {
+        "Text": "Advantage of CBR over rule-based: CBR can handle {{c1::novel situations}} by adapting {{c2::similar cases}}.",
+        "Extra": "From Fall 2014 Midterm Q2c - Comparing methods"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
       "tags": ["KBAI", "Lesson10", "ICL"],
       "fields": {
         "Text": "Incremental concept learning learns concepts {{c1::one example at a time}}.",
@@ -880,6 +979,15 @@
       "fields": {
         "Text": "Close-interval heuristic: {{c1::expand the range}} of acceptable values.",
         "Extra": "Lesson 10 - Incremental Concept Learning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson10", "ICL", "Exam-Focus"],
+      "fields": {
+        "Text": "In incremental concept learning, {{c1::background knowledge}} enables the climb-tree heuristic.",
+        "Extra": "From Spring 2015 Midterm Q6 - Using background knowledge"
       }
     },
     {
@@ -1245,6 +1353,78 @@
     {
       "deckName": "CS7637 KBAI Exam 1",
       "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson12", "Propositional-Logic", "Exam-Focus"],
+      "fields": {
+        "Text": "Propositional logic example: \"The robot climbed the table\" becomes {{c1::Climb-Up(Robot, Table)}}.",
+        "Extra": "From Spring 2015 Midterm - Logic representation"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson12", "Deduction-Induction-Abduction", "Exam-Focus"],
+      "fields": {
+        "Text": "Deduction: from {{c1::general rules}} and {{c2::specific facts}}, derive a {{c3::conclusion}}.",
+        "Extra": "From Spring 2015 Final Q4 - Types of reasoning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson12", "Deduction-Induction-Abduction", "Exam-Focus"],
+      "fields": {
+        "Text": "Induction: from {{c1::specific examples}}, derive a {{c2::general rule}}.",
+        "Extra": "From Spring 2015 Final Q4 - Types of reasoning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson12", "Deduction-Induction-Abduction", "Exam-Focus"],
+      "fields": {
+        "Text": "Abduction: from {{c1::an observation}} and {{c2::a rule}}, infer the {{c3::best explanation}}.",
+        "Extra": "From Spring 2015 Final Q4 - Types of reasoning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Lesson12", "Deduction-Induction-Abduction", "Exam-Focus"],
+      "fields": {
+        "Text": "Deduction is {{c1::truth-preserving}}; induction and abduction are {{c2::not guaranteed to be true}}.",
+        "Extra": "From Spring 2015 Final Q4 - Types of reasoning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Planning", "STRIPS", "Exam-Focus"],
+      "fields": {
+        "Text": "A STRIPS operator has two parts: {{c1::preconditions}} (what must be true) and {{c2::postconditions}} (what becomes true).",
+        "Extra": "From Spring 2015 Midterm Q1 - STRIPS planning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Planning", "STRIPS", "Exam-Focus"],
+      "fields": {
+        "Text": "STRIPS planning works {{c1::backward}} from goal to initial state or {{c2::forward}} from initial to goal.",
+        "Extra": "From Spring 2015 Midterm Q2 - STRIPS planning"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Planning", "STRIPS", "Exam-Focus"],
+      "fields": {
+        "Text": "STRIPS operator example - Climb_Up: Precondition = {{c1::Location(Robot, On_Floor)}}, Postcondition = {{c2::Location(Robot, On_Table)}}.",
+        "Extra": "From Spring 2015 Midterm Q1 - STRIPS example"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
       "tags": ["KBAI", "Connections"],
       "fields": {
         "Text": "Working memory in production systems can be represented using {{c1::frames}}.",
@@ -1294,6 +1474,33 @@
       "fields": {
         "Text": "Incremental concept learning {{c1::builds}} concepts; classification {{c2::applies}} them.",
         "Extra": "Cross-Topic Connections"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Connections", "Exam-Focus"],
+      "fields": {
+        "Text": "When a production system hits an impasse due to a missing rule, it can use {{c1::case-based reasoning}} to find a solution and {{c2::learn a new rule}}.",
+        "Extra": "From Fall 2014 Midterm Q2d - Connecting methods"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Methods", "Universal-vs-Specialized", "Exam-Focus"],
+      "fields": {
+        "Text": "Generate and Test is an example of a {{c1::universal method}} that can apply to most problems.",
+        "Extra": "From Spring 2015 Final Q3a - Universal methods"
+      }
+    },
+    {
+      "deckName": "CS7637 KBAI Exam 1",
+      "modelName": "Cloze",
+      "tags": ["KBAI", "Methods", "Universal-vs-Specialized", "Exam-Focus"],
+      "fields": {
+        "Text": "Multiple {{c1::specialized methods}} cooperating is often more effective than a single {{c2::universal method}}.",
+        "Extra": "From Spring 2015 Final Q3b - Method cooperation"
       }
     }
   ]
