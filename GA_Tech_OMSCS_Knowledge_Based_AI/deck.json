@@ -111,6 +111,79 @@
       "type": 1,
       "usn": -1,
       "vers": []
+    },
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: left;\n  color: black;\n  background-color: white;\n  padding: 20px;\n}\n.question { font-weight: bold; margin-bottom: 15px; }\n.option { margin: 5px 0; }\n.correct { color: green; font-weight: bold; }\n.incorrect { color: #888; }\n.label { margin-top: 15px; font-style: italic; color: #555; font-size: 16px; }",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Question",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Options",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Answer",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Source",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexsvg": false,
+      "mod": 0,
+      "name": "Multi-Correct MC",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [],
+      "tmpls": [
+        {
+          "afmt": "<div class='question'>{{Question}}</div><hr>{{Answer}}<br><div class='label'>{{Source}}</div>",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "<div class='question'>{{Question}}</div><div>{{Options}}</div>"
+        }
+      ],
+      "type": 0,
+      "usn": -1,
+      "vers": []
     }
   ],
   "notes": [
@@ -1708,6 +1781,725 @@
         "KBAI",
         "Exam-Content",
         "Reasoning-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which of the following are fundamental conundrums in AI?",
+        "<div class='option'>A. Limited computational resources</div>\n<div class='option'>B. Local computation with global constraints</div>\n<div class='option'>C. Fully deductive reasoning in all AI problems</div>\n<div class='option'>D. Dynamic world with incomplete knowledge</div>\n<div class='option'>E. Guaranteed explainability of agent decisions</div>",
+        "<div class='option correct'>✓ A. Limited computational resources</div>\n<div class='option correct'>✓ B. Local computation with global constraints</div>\n<div class='option incorrect'>✗ C. Fully deductive reasoning in all AI problems</div>\n<div class='option correct'>✓ D. Dynamic world with incomplete knowledge</div>\n<div class='option incorrect'>✗ E. Guaranteed explainability of agent decisions</div><br><b>Correct: A, B, D</b>",
+        "Lesson 01 - Section 03"
+      ],
+      "guid": "nvikrpddhi",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are characteristics of AI problems?",
+        "<div class='option'>A. Data often arrives incrementally</div>\n<div class='option'>B. Problems exist at only one abstraction level</div>\n<div class='option'>C. Problems exhibit recurring patterns</div>\n<div class='option'>D. Many problems are computationally intractable</div>\n<div class='option'>E. Knowledge changes faster than the world</div>",
+        "<div class='option correct'>✓ A. Data often arrives incrementally</div>\n<div class='option incorrect'>✗ B. Problems exist at only one abstraction level</div>\n<div class='option correct'>✓ C. Problems exhibit recurring patterns</div>\n<div class='option correct'>✓ D. Many problems are computationally intractable</div>\n<div class='option incorrect'>✗ E. Knowledge changes faster than the world</div><br><b>Correct: A, C, D</b>",
+        "Lesson 01 - Section 04"
+      ],
+      "guid": "y6l1aqhtn5",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are properties of AI agents?",
+        "<div class='option'>A. Unlimited memory</div>\n<div class='option'>B. Limited sensors</div>\n<div class='option'>C. Limited attention</div>\n<div class='option'>D. Incomplete world knowledge</div>\n<div class='option'>E. Perfect rationality</div>",
+        "<div class='option incorrect'>✗ A. Unlimited memory</div>\n<div class='option correct'>✓ B. Limited sensors</div>\n<div class='option correct'>✓ C. Limited attention</div>\n<div class='option correct'>✓ D. Incomplete world knowledge</div>\n<div class='option incorrect'>✗ E. Perfect rationality</div><br><b>Correct: B, C, D</b>",
+        "Lesson 01 - Section 05"
+      ],
+      "guid": "cjtzhx06gg",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Agents",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are fundamental processes of knowledge-based AI?",
+        "<div class='option'>A. Reasoning</div>\n<div class='option'>B. Learning</div>\n<div class='option'>C. Memory</div>\n<div class='option'>D. Optimization</div>\n<div class='option'>E. Data visualization</div>",
+        "<div class='option correct'>✓ A. Reasoning</div>\n<div class='option correct'>✓ B. Learning</div>\n<div class='option correct'>✓ C. Memory</div>\n<div class='option incorrect'>✗ D. Optimization</div>\n<div class='option incorrect'>✗ E. Data visualization</div><br><b>Correct: A, B, C</b>",
+        "Lesson 01 - Section 10"
+      ],
+      "guid": "7dapspeuss",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Fundamentals",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which belong to the four schools of AI?",
+        "<div class='option'>A. Acting optimally</div>\n<div class='option'>B. Thinking optimally</div>\n<div class='option'>C. Acting like humans</div>\n<div class='option'>D. Thinking like humans</div>\n<div class='option'>E. Acting randomly</div>",
+        "<div class='option correct'>✓ A. Acting optimally</div>\n<div class='option correct'>✓ B. Thinking optimally</div>\n<div class='option correct'>✓ C. Acting like humans</div>\n<div class='option correct'>✓ D. Thinking like humans</div>\n<div class='option incorrect'>✗ E. Acting randomly</div><br><b>Correct: A, B, C, D</b>",
+        "Lesson 01 - Section 11"
+      ],
+      "guid": "cf8lpbt6uu",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Schools",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are learning strategies used in CS7637?",
+        "<div class='option'>A. Learning by example</div>\n<div class='option'>B. Learning by doing</div>\n<div class='option'>C. Project-based learning</div>\n<div class='option'>D. Learning by memorization</div>\n<div class='option'>E. Learning by reflection</div>",
+        "<div class='option correct'>✓ A. Learning by example</div>\n<div class='option correct'>✓ B. Learning by doing</div>\n<div class='option correct'>✓ C. Project-based learning</div>\n<div class='option incorrect'>✗ D. Learning by memorization</div>\n<div class='option correct'>✓ E. Learning by reflection</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 02 - Section 05"
+      ],
+      "guid": "g35omxqs6a",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Learning",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are components of a semantic network?",
+        "<div class='option'>A. Nodes for objects</div>\n<div class='option'>B. Links for relationships</div>\n<div class='option'>C. Labeled links</div>\n<div class='option'>D. Only numerical attributes</div>\n<div class='option'>E. Directional connections</div>",
+        "<div class='option correct'>✓ A. Nodes for objects</div>\n<div class='option correct'>✓ B. Links for relationships</div>\n<div class='option correct'>✓ C. Labeled links</div>\n<div class='option incorrect'>✗ D. Only numerical attributes</div>\n<div class='option correct'>✓ E. Directional connections</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 03 - Section 08"
+      ],
+      "guid": "of4ngu6m1i",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "SemanticNetworks",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which describe a good knowledge representation?",
+        "<div class='option'>A. Makes relationships explicit</div>\n<div class='option'>B. Works at the right level of abstraction</div>\n<div class='option'>C. Is transparent and concise</div>\n<div class='option'>D. Guarantees optimal solutions</div>\n<div class='option'>E. Is computable</div>",
+        "<div class='option correct'>✓ A. Makes relationships explicit</div>\n<div class='option correct'>✓ B. Works at the right level of abstraction</div>\n<div class='option correct'>✓ C. Is transparent and concise</div>\n<div class='option incorrect'>✗ D. Guarantees optimal solutions</div>\n<div class='option correct'>✓ E. Is computable</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 03 - Section 09"
+      ],
+      "guid": "4r87m3r3au",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "KnowledgeRepresentation",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which describe the generate-and-test method?",
+        "<div class='option'>A. Generates candidate solutions</div>\n<div class='option'>B. Tests solutions for acceptability</div>\n<div class='option'>C. Requires complete world knowledge</div>\n<div class='option'>D. Can use smart generators or testers</div>\n<div class='option'>E. Always finds the optimal solution</div>",
+        "<div class='option correct'>✓ A. Generates candidate solutions</div>\n<div class='option correct'>✓ B. Tests solutions for acceptability</div>\n<div class='option incorrect'>✗ C. Requires complete world knowledge</div>\n<div class='option correct'>✓ D. Can use smart generators or testers</div>\n<div class='option incorrect'>✗ E. Always finds the optimal solution</div><br><b>Correct: A, B, D</b>",
+        "Lesson 04"
+      ],
+      "guid": "d166ludkco",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "GenerateAndTest",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are steps in means-ends analysis?",
+        "<div class='option'>A. Compare current and goal states</div>\n<div class='option'>B. Identify differences</div>\n<div class='option'>C. Select operators to reduce differences</div>\n<div class='option'>D. Always return to the initial state</div>\n<div class='option'>E. Apply operators iteratively</div>",
+        "<div class='option correct'>✓ A. Compare current and goal states</div>\n<div class='option correct'>✓ B. Identify differences</div>\n<div class='option correct'>✓ C. Select operators to reduce differences</div>\n<div class='option incorrect'>✗ D. Always return to the initial state</div>\n<div class='option correct'>✓ E. Apply operators iteratively</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 05"
+      ],
+      "guid": "bh7el53goq",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "MeansEnds",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are true of problem reduction?",
+        "<div class='option'>A. Decomposes problems into subproblems</div>\n<div class='option'>B. Solves subproblems independently</div>\n<div class='option'>C. Guarantees optimality</div>\n<div class='option'>D. Recombines sub-solutions</div>\n<div class='option'>E. Applies only to planning</div>",
+        "<div class='option correct'>✓ A. Decomposes problems into subproblems</div>\n<div class='option correct'>✓ B. Solves subproblems independently</div>\n<div class='option incorrect'>✗ C. Guarantees optimality</div>\n<div class='option correct'>✓ D. Recombines sub-solutions</div>\n<div class='option incorrect'>✗ E. Applies only to planning</div><br><b>Correct: A, B, D</b>",
+        "Lesson 05 - Section 18"
+      ],
+      "guid": "0pgdfqwdw4",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "ProblemReduction",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are components of a production system?",
+        "<div class='option'>A. Working memory</div>\n<div class='option'>B. Long-term memory</div>\n<div class='option'>C. Procedural knowledge</div>\n<div class='option'>D. Episodic knowledge</div>\n<div class='option'>E. Purely reactive rules</div>",
+        "<div class='option correct'>✓ A. Working memory</div>\n<div class='option correct'>✓ B. Long-term memory</div>\n<div class='option correct'>✓ C. Procedural knowledge</div>\n<div class='option incorrect'>✗ D. Episodic knowledge</div>\n<div class='option incorrect'>✗ E. Purely reactive rules</div><br><b>Correct: A, B, C</b>",
+        "Lesson 06"
+      ],
+      "guid": "owqxrq1c9s",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "ProductionSystems",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are properties of frames?",
+        "<div class='option'>A. Represent stereotypical knowledge</div>\n<div class='option'>B. Support default values</div>\n<div class='option'>C. Allow inheritance</div>\n<div class='option'>D. Only encode numerical data</div>\n<div class='option'>E. Handle exceptions</div>",
+        "<div class='option correct'>✓ A. Represent stereotypical knowledge</div>\n<div class='option correct'>✓ B. Support default values</div>\n<div class='option correct'>✓ C. Allow inheritance</div>\n<div class='option incorrect'>✗ D. Only encode numerical data</div>\n<div class='option correct'>✓ E. Handle exceptions</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 07"
+      ],
+      "guid": "vu8nwh0dnq",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are steps in learning by recording cases?",
+        "<div class='option'>A. Store experiences as cases</div>\n<div class='option'>B. Retrieve similar past cases</div>\n<div class='option'>C. Always adapt the retrieved case</div>\n<div class='option'>D. Apply prior solutions</div>\n<div class='option'>E. Use only symbolic similarity</div>",
+        "<div class='option correct'>✓ A. Store experiences as cases</div>\n<div class='option correct'>✓ B. Retrieve similar past cases</div>\n<div class='option incorrect'>✗ C. Always adapt the retrieved case</div>\n<div class='option correct'>✓ D. Apply prior solutions</div>\n<div class='option incorrect'>✗ E. Use only symbolic similarity</div><br><b>Correct: A, B, D</b>",
+        "Lesson 08"
+      ],
+      "guid": "agqo6k1ew3",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "CaseRecording",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are phases of case-based reasoning?",
+        "<div class='option'>A. Retrieval</div>\n<div class='option'>B. Adaptation</div>\n<div class='option'>C. Evaluation</div>\n<div class='option'>D. Storage</div>\n<div class='option'>E. Randomization</div>",
+        "<div class='option correct'>✓ A. Retrieval</div>\n<div class='option correct'>✓ B. Adaptation</div>\n<div class='option correct'>✓ C. Evaluation</div>\n<div class='option correct'>✓ D. Storage</div>\n<div class='option incorrect'>✗ E. Randomization</div><br><b>Correct: A, B, C, D</b>",
+        "Lesson 09"
+      ],
+      "guid": "6ws8pw79xg",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are types of concepts in classification?",
+        "<div class='option'>A. Axiomatic</div>\n<div class='option'>B. Prototype</div>\n<div class='option'>C. Exemplar</div>\n<div class='option'>D. Random</div>\n<div class='option'>E. Qualitative</div>",
+        "<div class='option correct'>✓ A. Axiomatic</div>\n<div class='option correct'>✓ B. Prototype</div>\n<div class='option correct'>✓ C. Exemplar</div>\n<div class='option incorrect'>✗ D. Random</div>\n<div class='option incorrect'>✗ E. Qualitative</div><br><b>Correct: A, B, C</b>",
+        "Lesson 11"
+      ],
+      "guid": "v71mx5ur97",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Classification",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are logical connectives?",
+        "<div class='option'>A. AND</div>\n<div class='option'>B. OR</div>\n<div class='option'>C. NOT</div>\n<div class='option'>D. IMPLIES</div>\n<div class='option'>E. EQUALS</div>",
+        "<div class='option correct'>✓ A. AND</div>\n<div class='option correct'>✓ B. OR</div>\n<div class='option correct'>✓ C. NOT</div>\n<div class='option correct'>✓ D. IMPLIES</div>\n<div class='option incorrect'>✗ E. EQUALS</div><br><b>Correct: A, B, C, D</b>",
+        "Lesson 12"
+      ],
+      "guid": "3f4qs2t3z4",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are rules of inference?",
+        "<div class='option'>A. Modus Ponens</div>\n<div class='option'>B. Modus Tollens</div>\n<div class='option'>C. Resolution</div>\n<div class='option'>D. Deduction</div>\n<div class='option'>E. Induction</div>",
+        "<div class='option correct'>✓ A. Modus Ponens</div>\n<div class='option correct'>✓ B. Modus Tollens</div>\n<div class='option correct'>✓ C. Resolution</div>\n<div class='option incorrect'>✗ D. Deduction</div>\n<div class='option incorrect'>✗ E. Induction</div><br><b>Correct: A, B, C</b>",
+        "Lesson 12"
+      ],
+      "guid": "0rs4bp6dvs",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "Inference",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which describe formal logic in AI?",
+        "<div class='option'>A. Can be sound</div>\n<div class='option'>B. Can be complete</div>\n<div class='option'>C. Requires a correct knowledge base</div>\n<div class='option'>D. Is always computationally efficient</div>\n<div class='option'>E. Can support planning</div>",
+        "<div class='option correct'>✓ A. Can be sound</div>\n<div class='option correct'>✓ B. Can be complete</div>\n<div class='option correct'>✓ C. Requires a correct knowledge base</div>\n<div class='option incorrect'>✗ D. Is always computationally efficient</div>\n<div class='option correct'>✓ E. Can support planning</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 12"
+      ],
+      "guid": "4kqaj8nuue",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which are steps in resolution theorem proving?",
+        "<div class='option'>A. Convert to conjunctive normal form</div>\n<div class='option'>B. Negate the goal</div>\n<div class='option'>C. Resolve clause pairs</div>\n<div class='option'>D. Derive a contradiction</div>\n<div class='option'>E. Use only Modus Ponens</div>",
+        "<div class='option correct'>✓ A. Convert to conjunctive normal form</div>\n<div class='option correct'>✓ B. Negate the goal</div>\n<div class='option correct'>✓ C. Resolve clause pairs</div>\n<div class='option correct'>✓ D. Derive a contradiction</div>\n<div class='option incorrect'>✗ E. Use only Modus Ponens</div><br><b>Correct: A, B, C, D</b>",
+        "Lesson 12"
+      ],
+      "guid": "w5w6by4u7r",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "Resolution",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "An AI agent operates in a dynamic, partially observable world with limited computation. Which design choices most directly address multiple AI conundrums simultaneously?",
+        "<div class='option'>A. Using heuristics instead of optimal search</div>\n<div class='option'>B. Encoding global constraints explicitly in every state</div>\n<div class='option'>C. Leveraging recurring problem patterns</div>\n<div class='option'>D. Delaying action until all data is available</div>\n<div class='option'>E. Integrating learning with reasoning</div>",
+        "<div class='option correct'>✓ A. Using heuristics instead of optimal search</div>\n<div class='option incorrect'>✗ B. Encoding global constraints explicitly in every state</div>\n<div class='option correct'>✓ C. Leveraging recurring problem patterns</div>\n<div class='option incorrect'>✗ D. Delaying action until all data is available</div>\n<div class='option correct'>✓ E. Integrating learning with reasoning</div><br><b>Correct: A, C, E</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "d7hol96ke5",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums",
+        "Applied",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which problem characteristics most strongly motivate the use of knowledge-based methods over purely statistical methods?",
+        "<div class='option'>A. Problems recur with structural similarity</div>\n<div class='option'>B. Solutions must be explainable</div>\n<div class='option'>C. Data is abundant and labeled</div>\n<div class='option'>D. Reasoning requires abstraction across levels</div>\n<div class='option'>E. Problems are strictly numeric</div>",
+        "<div class='option correct'>✓ A. Problems recur with structural similarity</div>\n<div class='option correct'>✓ B. Solutions must be explainable</div>\n<div class='option incorrect'>✗ C. Data is abundant and labeled</div>\n<div class='option correct'>✓ D. Reasoning requires abstraction across levels</div>\n<div class='option incorrect'>✗ E. Problems are strictly numeric</div><br><b>Correct: A, B, D</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "0ixalmtc5u",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "KBAI-Motivation",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "An AI agent fails when encountering a novel situation despite extensive prior knowledge. Which limitations are most relevant?",
+        "<div class='option'>A. Deductive reasoning bias</div>\n<div class='option'>B. Incomplete world knowledge</div>\n<div class='option'>C. Lack of inductive mechanisms</div>\n<div class='option'>D. Excessive computational resources</div>\n<div class='option'>E. Fixed representations</div>",
+        "<div class='option correct'>✓ A. Deductive reasoning bias</div>\n<div class='option correct'>✓ B. Incomplete world knowledge</div>\n<div class='option correct'>✓ C. Lack of inductive mechanisms</div>\n<div class='option incorrect'>✗ D. Excessive computational resources</div>\n<div class='option correct'>✓ E. Fixed representations</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "ofn4hehprb",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Limitations",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Why are reasoning, learning, and memory treated as a unified system in KBAI?",
+        "<div class='option'>A. Learning creates knowledge used by reasoning</div>\n<div class='option'>B. Reasoning generates new knowledge to store</div>\n<div class='option'>C. Memory constrains what can be learned</div>\n<div class='option'>D. Each process can operate independently without loss</div>\n<div class='option'>E. Feedback loops improve adaptability</div>",
+        "<div class='option correct'>✓ A. Learning creates knowledge used by reasoning</div>\n<div class='option correct'>✓ B. Reasoning generates new knowledge to store</div>\n<div class='option correct'>✓ C. Memory constrains what can be learned</div>\n<div class='option incorrect'>✗ D. Each process can operate independently without loss</div>\n<div class='option correct'>✓ E. Feedback loops improve adaptability</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "wcit7b980z",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Fundamentals",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "An agent that plans routes optimally but ignores human conventions best fits which AI school(s)?",
+        "<div class='option'>A. Thinking optimally</div>\n<div class='option'>B. Acting optimally</div>\n<div class='option'>C. Thinking like humans</div>\n<div class='option'>D. Acting like humans</div>\n<div class='option'>E. Cognitive systems</div>",
+        "<div class='option correct'>✓ A. Thinking optimally</div>\n<div class='option correct'>✓ B. Acting optimally</div>\n<div class='option incorrect'>✗ C. Thinking like humans</div>\n<div class='option incorrect'>✗ D. Acting like humans</div>\n<div class='option incorrect'>✗ E. Cognitive systems</div><br><b>Correct: A, B</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "l7n0xwbvff",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Schools",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which learning strategies most directly support metacognition in CS7637?",
+        "<div class='option'>A. Learning by reflection</div>\n<div class='option'>B. Learning by example</div>\n<div class='option'>C. Project-based learning</div>\n<div class='option'>D. Personalized learning paths</div>\n<div class='option'>E. Rote memorization</div>",
+        "<div class='option correct'>✓ A. Learning by reflection</div>\n<div class='option incorrect'>✗ B. Learning by example</div>\n<div class='option correct'>✓ C. Project-based learning</div>\n<div class='option incorrect'>✗ D. Personalized learning paths</div>\n<div class='option incorrect'>✗ E. Rote memorization</div><br><b>Correct: A, C</b>",
+        "Lesson 02 - Applied"
+      ],
+      "guid": "oupsdl7azm",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Metacognition",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which CS7637 principles explain why KBAI systems favor 'good-enough' solutions?",
+        "<div class='option'>A. Bounded rationality</div>\n<div class='option'>B. Incremental learning</div>\n<div class='option'>C. Heuristic reasoning</div>\n<div class='option'>D. Optimality guarantees</div>\n<div class='option'>E. Trade-offs between efficiency and accuracy</div>",
+        "<div class='option correct'>✓ A. Bounded rationality</div>\n<div class='option incorrect'>✗ B. Incremental learning</div>\n<div class='option correct'>✓ C. Heuristic reasoning</div>\n<div class='option incorrect'>✗ D. Optimality guarantees</div>\n<div class='option correct'>✓ E. Trade-offs between efficiency and accuracy</div><br><b>Correct: A, C, E</b>",
+        "Lesson 01 - Applied"
+      ],
+      "guid": "q7rrto0z48",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "BoundedRationality",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "A semantic network fails to solve a Raven's problem even though all objects are represented. What is the most likely cause?",
+        "<div class='option'>A. Missing relational links</div>\n<div class='option'>B. Excessive numeric detail</div>\n<div class='option'>C. Inconsistent vocabulary</div>\n<div class='option'>D. Incorrect node labels</div>\n<div class='option'>E. Lack of procedural knowledge</div>",
+        "<div class='option correct'>✓ A. Missing relational links</div>\n<div class='option incorrect'>✗ B. Excessive numeric detail</div>\n<div class='option incorrect'>✗ C. Inconsistent vocabulary</div>\n<div class='option incorrect'>✗ D. Incorrect node labels</div>\n<div class='option incorrect'>✗ E. Lack of procedural knowledge</div><br><b>Correct: A</b>",
+        "Lesson 03 - Applied"
+      ],
+      "guid": "255z2c36z7",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "SemanticNetworks",
+        "Ravens",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which trade-offs define a poor knowledge representation?",
+        "<div class='option'>A. Captures too much irrelevant detail</div>\n<div class='option'>B. Omits necessary relationships</div>\n<div class='option'>C. Uses abstraction strategically</div>\n<div class='option'>D. Prevents inference</div>\n<div class='option'>E. Is computationally expensive</div>",
+        "<div class='option correct'>✓ A. Captures too much irrelevant detail</div>\n<div class='option correct'>✓ B. Omits necessary relationships</div>\n<div class='option incorrect'>✗ C. Uses abstraction strategically</div>\n<div class='option correct'>✓ D. Prevents inference</div>\n<div class='option correct'>✓ E. Is computationally expensive</div><br><b>Correct: A, B, D, E</b>",
+        "Lesson 03 - Applied"
+      ],
+      "guid": "qzq1k8yf3x",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "KnowledgeRepresentation",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Generate-and-test becomes infeasible primarily due to:",
+        "<div class='option'>A. Combinatorial explosion</div>\n<div class='option'>B. Incomplete testers</div>\n<div class='option'>C. Excessive abstraction</div>\n<div class='option'>D. Redundant state generation</div>\n<div class='option'>E. Overly expressive representations</div>",
+        "<div class='option correct'>✓ A. Combinatorial explosion</div>\n<div class='option incorrect'>✗ B. Incomplete testers</div>\n<div class='option incorrect'>✗ C. Excessive abstraction</div>\n<div class='option correct'>✓ D. Redundant state generation</div>\n<div class='option incorrect'>✗ E. Overly expressive representations</div><br><b>Correct: A, D</b>",
+        "Lesson 04 - Applied"
+      ],
+      "guid": "61mpl7rdpz",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "GenerateAndTest",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Means-ends analysis fails in some problems because:",
+        "<div class='option'>A. Reducing one difference may increase another</div>\n<div class='option'>B. Distance metrics may be misleading</div>\n<div class='option'>C. Goals can interfere with each other</div>\n<div class='option'>D. Operators are always reversible</div>\n<div class='option'>E. It assumes monotonic progress</div>",
+        "<div class='option correct'>✓ A. Reducing one difference may increase another</div>\n<div class='option correct'>✓ B. Distance metrics may be misleading</div>\n<div class='option correct'>✓ C. Goals can interfere with each other</div>\n<div class='option incorrect'>✗ D. Operators are always reversible</div>\n<div class='option correct'>✓ E. It assumes monotonic progress</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 05 - Applied"
+      ],
+      "guid": "tr8v9bf4tj",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "MeansEnds",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Problem reduction is most effective when:",
+        "<div class='option'>A. Subproblems are independent</div>\n<div class='option'>B. Subgoals can be ordered</div>\n<div class='option'>C. Knowledge guides decomposition</div>\n<div class='option'>D. All subproblems are equally difficult</div>\n<div class='option'>E. Subsolutions compose cleanly</div>",
+        "<div class='option correct'>✓ A. Subproblems are independent</div>\n<div class='option correct'>✓ B. Subgoals can be ordered</div>\n<div class='option correct'>✓ C. Knowledge guides decomposition</div>\n<div class='option incorrect'>✗ D. All subproblems are equally difficult</div>\n<div class='option correct'>✓ E. Subsolutions compose cleanly</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 05 - Applied"
+      ],
+      "guid": "rywvi9mkda",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "ProblemReduction",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "In production systems, impasses are important because they:",
+        "<div class='option'>A. Trigger learning</div>\n<div class='option'>B. Reveal missing knowledge</div>\n<div class='option'>C. Indicate inconsistent rules</div>\n<div class='option'>D. Halt reasoning permanently</div>\n<div class='option'>E. Enable chunk formation</div>",
+        "<div class='option correct'>✓ A. Trigger learning</div>\n<div class='option correct'>✓ B. Reveal missing knowledge</div>\n<div class='option incorrect'>✗ C. Indicate inconsistent rules</div>\n<div class='option incorrect'>✗ D. Halt reasoning permanently</div>\n<div class='option correct'>✓ E. Enable chunk formation</div><br><b>Correct: A, B, E</b>",
+        "Lesson 06 - Applied"
+      ],
+      "guid": "p4hgst1nh9",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "ProductionSystems",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Frames are preferred over flat representations when:",
+        "<div class='option'>A. Defaults are common</div>\n<div class='option'>B. Exceptions must be handled</div>\n<div class='option'>C. Inheritance structures exist</div>\n<div class='option'>D. Only numerical computation is needed</div>\n<div class='option'>E. Knowledge is hierarchical</div>",
+        "<div class='option correct'>✓ A. Defaults are common</div>\n<div class='option correct'>✓ B. Exceptions must be handled</div>\n<div class='option correct'>✓ C. Inheritance structures exist</div>\n<div class='option incorrect'>✗ D. Only numerical computation is needed</div>\n<div class='option correct'>✓ E. Knowledge is hierarchical</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 07 - Applied"
+      ],
+      "guid": "51jd0ikryy",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Case-based reasoning outperforms rule-based reasoning when:",
+        "<div class='option'>A. Problems are ill-structured</div>\n<div class='option'>B. Exact rules are unavailable</div>\n<div class='option'>C. Similar past experiences exist</div>\n<div class='option'>D. Perfect generalization is required</div>\n<div class='option'>E. Adaptation is possible</div>",
+        "<div class='option correct'>✓ A. Problems are ill-structured</div>\n<div class='option correct'>✓ B. Exact rules are unavailable</div>\n<div class='option correct'>✓ C. Similar past experiences exist</div>\n<div class='option incorrect'>✗ D. Perfect generalization is required</div>\n<div class='option correct'>✓ E. Adaptation is possible</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 09 - Applied"
+      ],
+      "guid": "9a3huq6gdn",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Failure in case-based reasoning most often results from:",
+        "<div class='option'>A. Poor similarity metrics</div>\n<div class='option'>B. Over-generalized cases</div>\n<div class='option'>C. Inadequate adaptation knowledge</div>\n<div class='option'>D. Excessive storage capacity</div>\n<div class='option'>E. Lack of retrieval constraints</div>",
+        "<div class='option correct'>✓ A. Poor similarity metrics</div>\n<div class='option correct'>✓ B. Over-generalized cases</div>\n<div class='option correct'>✓ C. Inadequate adaptation knowledge</div>\n<div class='option incorrect'>✗ D. Excessive storage capacity</div>\n<div class='option correct'>✓ E. Lack of retrieval constraints</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 09 - Applied"
+      ],
+      "guid": "d0zvsx8yxc",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Incremental concept learning heuristics are useful because they:",
+        "<div class='option'>A. Allow gradual refinement</div>\n<div class='option'>B. Avoid complete relearning</div>\n<div class='option'>C. Support explanation</div>\n<div class='option'>D. Guarantee correctness</div>\n<div class='option'>E. Encode constraints explicitly</div>",
+        "<div class='option correct'>✓ A. Allow gradual refinement</div>\n<div class='option correct'>✓ B. Avoid complete relearning</div>\n<div class='option correct'>✓ C. Support explanation</div>\n<div class='option incorrect'>✗ D. Guarantee correctness</div>\n<div class='option incorrect'>✗ E. Encode constraints explicitly</div><br><b>Correct: A, B, C</b>",
+        "Lesson 10 - Applied"
+      ],
+      "guid": "61btf3196t",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "ConceptLearning",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which concept representations best support human-like categorization?",
+        "<div class='option'>A. Prototypes</div>\n<div class='option'>B. Exemplars</div>\n<div class='option'>C. Axioms only</div>\n<div class='option'>D. Hybrid representations</div>\n<div class='option'>E. Feature-weighted concepts</div>",
+        "<div class='option correct'>✓ A. Prototypes</div>\n<div class='option correct'>✓ B. Exemplars</div>\n<div class='option incorrect'>✗ C. Axioms only</div>\n<div class='option correct'>✓ D. Hybrid representations</div>\n<div class='option correct'>✓ E. Feature-weighted concepts</div><br><b>Correct: A, B, D, E</b>",
+        "Lesson 11 - Applied"
+      ],
+      "guid": "nukkwdudgx",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Classification",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Why is formal logic insufficient alone for many AI problems?",
+        "<div class='option'>A. Requires complete knowledge</div>\n<div class='option'>B. Struggles with uncertainty</div>\n<div class='option'>C. Can be computationally expensive</div>\n<div class='option'>D. Cannot support explanation</div>\n<div class='option'>E. Lacks learning mechanisms</div>",
+        "<div class='option correct'>✓ A. Requires complete knowledge</div>\n<div class='option correct'>✓ B. Struggles with uncertainty</div>\n<div class='option correct'>✓ C. Can be computationally expensive</div>\n<div class='option incorrect'>✗ D. Cannot support explanation</div>\n<div class='option correct'>✓ E. Lacks learning mechanisms</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 12 - Applied"
+      ],
+      "guid": "tvszo2lcv3",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Resolution theorem proving is powerful but limited because it:",
+        "<div class='option'>A. Requires transformation to CNF</div>\n<div class='option'>B. Is refutation-based</div>\n<div class='option'>C. Does not scale well</div>\n<div class='option'>D. Supports abductive reasoning</div>\n<div class='option'>E. Depends on syntactic manipulation</div>",
+        "<div class='option correct'>✓ A. Requires transformation to CNF</div>\n<div class='option correct'>✓ B. Is refutation-based</div>\n<div class='option correct'>✓ C. Does not scale well</div>\n<div class='option incorrect'>✗ D. Supports abductive reasoning</div>\n<div class='option correct'>✓ E. Depends on syntactic manipulation</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 12 - Applied"
+      ],
+      "guid": "yweomsjrjm",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic",
+        "Resolution",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Planning systems improve over basic search because they:",
+        "<div class='option'>A. Reason over actions and goals</div>\n<div class='option'>B. Use structured representations</div>\n<div class='option'>C. Exploit domain knowledge</div>\n<div class='option'>D. Always find optimal plans</div>\n<div class='option'>E. Handle interacting subgoals</div>",
+        "<div class='option correct'>✓ A. Reason over actions and goals</div>\n<div class='option correct'>✓ B. Use structured representations</div>\n<div class='option correct'>✓ C. Exploit domain knowledge</div>\n<div class='option incorrect'>✗ D. Always find optimal plans</div>\n<div class='option correct'>✓ E. Handle interacting subgoals</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 12 - Applied"
+      ],
+      "guid": "vvmi4micyz",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Planning",
+        "PracticeExam"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Which features make Raven's Progressive Matrices a strong testbed for KBAI?",
+        "<div class='option'>A. Emphasis on relational reasoning</div>\n<div class='option'>B. Minimal linguistic bias</div>\n<div class='option'>C. Requires abstraction and transfer</div>\n<div class='option'>D. Has a single reasoning strategy</div>\n<div class='option'>E. Supports comparison with human cognition</div>",
+        "<div class='option correct'>✓ A. Emphasis on relational reasoning</div>\n<div class='option correct'>✓ B. Minimal linguistic bias</div>\n<div class='option correct'>✓ C. Requires abstraction and transfer</div>\n<div class='option incorrect'>✗ D. Has a single reasoning strategy</div>\n<div class='option correct'>✓ E. Supports comparison with human cognition</div><br><b>Correct: A, B, C, E</b>",
+        "Lesson 03 - Applied"
+      ],
+      "guid": "lxjmxbxzyk",
+      "note_model_uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Ravens",
+        "PracticeExam"
       ]
     }
   ]
