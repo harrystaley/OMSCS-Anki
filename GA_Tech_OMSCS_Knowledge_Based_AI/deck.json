@@ -1,1030 +1,1714 @@
 {
+  "__type__": "Deck",
+  "children": [],
+  "crowdanki_uuid": "21c356e1-5e27-5705-baa7-2fc7cd52e848",
+  "deck_config_uuid": "15a4efed-8164-5ec8-a1de-5257b0b87034",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "15a4efed-8164-5ec8-a1de-5257b0b87034",
+      "dyn": false,
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "leechAction": 1,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0
+      },
+      "maxTaken": 60,
+      "mod": 0,
+      "name": "Default",
+      "new": {
+        "bury": false,
+        "delays": [
+          1,
+          10
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          0
+        ],
+        "order": 1,
+        "perDay": 20
+      },
+      "replayq": true,
+      "rev": {
+        "bury": false,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "hardFactor": 1.2,
+        "ivlFct": 1,
+        "maxIvl": 36500,
+        "perDay": 200
+      },
+      "timer": 0,
+      "usn": -1
+    }
+  ],
+  "desc": "CS7637 Knowledge-Based AI – Exam 1 study deck",
+  "dyn": 0,
+  "extendNew": 0,
+  "extendRev": 0,
+  "media_files": [],
+  "name": "CS7637 KBAI Exam 1",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n  font-weight: bold;\n  color: blue;\n}",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Text",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Extra",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexsvg": false,
+      "mod": 0,
+      "name": "Cloze",
+      "req": [
+        [
+          0,
+          "all",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [],
+      "tmpls": [
+        {
+          "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+          "bafmt": "",
+          "bqfmt": "",
+          "did": null,
+          "name": "Cloze",
+          "ord": 0,
+          "qfmt": "{{cloze:Text}}"
+        }
+      ],
+      "type": 1,
+      "usn": -1,
+      "vers": []
+    }
+  ],
   "notes": [
     {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Conundrums"],
-      "fields": {
-        "Text": "Conundrum: Intelligent agents have {{c1::limited resources}}.",
-        "Extra": "Lesson 01 - Fundamental Conundrums of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Conundrums"],
-      "fields": {
-        "Text": "Conundrum: Computation is {{c1::local}}, but problems have {{c2::global constraints}}.",
-        "Extra": "Lesson 01 - Fundamental Conundrums of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Conundrums"],
-      "fields": {
-        "Text": "Conundrum: Logic is {{c1::deductive}}, but many problems are {{c2::not}}.",
-        "Extra": "Lesson 01 - Fundamental Conundrums of AI (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Conundrums"],
-      "fields": {
-        "Text": "Conundrum: The world is {{c1::dynamic}}, but knowledge is {{c2::limited}}.",
-        "Extra": "Lesson 01 - Fundamental Conundrums of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Conundrums"],
-      "fields": {
-        "Text": "Conundrum: Problem solving, reasoning, and learning are complex, but {{c1::explanation and justification}} are even more complex.",
-        "Extra": "Lesson 01 - Fundamental Conundrums of AI (5th conundrum)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: Knowledge often arrives {{c1::incrementally}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: Problems exhibit {{c1::recurring patterns}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: Problems have {{c1::multiple levels of granularity}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: Many problems are {{c1::computationally intractable}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: The world is {{c1::dynamic}}, but knowledge of the world is {{c2::static}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Problems"],
-      "fields": {
-        "Text": "AI Problems: The world is {{c1::open-ended}}, but knowledge is {{c2::limited}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Problems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Agents"],
-      "fields": {
-        "Text": "AI Agents: Agents have limited {{c1::computing power}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Agents"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Agents"],
-      "fields": {
-        "Text": "AI Agents: Agents have limited {{c1::sensors}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Agents"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Agents"],
-      "fields": {
-        "Text": "AI Agents: Agents have limited {{c1::attention}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Agents"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Agents"],
-      "fields": {
-        "Text": "AI Agents: Computational logic is fundamentally {{c1::deductive}}.",
-        "Extra": "Lesson 01 - Characteristics of AI Agents"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "AI-Agents"],
-      "fields": {
-        "Text": "AI Agents: AI agents' knowledge is {{c1::incomplete}} relative to the world.",
-        "Extra": "Lesson 01 - Characteristics of AI Agents"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Four-Schools"],
-      "fields": {
-        "Text": "The four schools of AI are defined by two axes: {{c1::thinking vs. acting}} and {{c2::optimally vs. like humans}}.",
-        "Extra": "Lesson 01 - Four Schools of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Four-Schools"],
-      "fields": {
-        "Text": "Think optimally examples: {{c1::semantic web}}, {{c2::machine learning}}.",
-        "Extra": "Lesson 01 - Four Schools of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Four-Schools"],
-      "fields": {
-        "Text": "Act optimally example: {{c1::airplane autopilot}}.",
-        "Extra": "Lesson 01 - Four Schools of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Four-Schools"],
-      "fields": {
-        "Text": "Act like humans example: {{c1::improvisational robots}}.",
-        "Extra": "Lesson 01 - Four Schools of AI"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Cognitive-Systems"],
-      "fields": {
-        "Text": "Cognitive Systems: Systems that exhibit {{c1::human-like intelligence}} through processes like learning, reasoning, and memory.",
-        "Extra": "Lesson 01 - Cognitive Systems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Cognitive-Systems"],
-      "fields": {
-        "Text": "Three layers of cognitive architecture: {{c1::Metacognition}}, {{c2::Deliberation}}, {{c3::Reaction}}.",
-        "Extra": "Lesson 01 - Cognitive Systems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson01", "Cognitive-Systems"],
-      "fields": {
-        "Text": "Deliberation contains: {{c1::Reasoning}}, {{c2::Learning}}, {{c3::Memory}}.",
-        "Extra": "Lesson 01 - Cognitive Systems"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Ravens"],
-      "fields": {
-        "Text": "Raven's Progressive Matrices: Test written in the {{c1::1930s}} to examine {{c2::general intelligence}}.",
-        "Extra": "Lesson 02 - Raven's Progressive Matrices"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Ravens"],
-      "fields": {
-        "Text": "Raven's matrices are unique in that problems are strictly {{c1::visual}}.",
-        "Extra": "Lesson 02 - Raven's Progressive Matrices"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Ravens"],
-      "fields": {
-        "Text": "Three types of Raven's problems: {{c1::2x1}}, {{c2::2x2}}, {{c3::3x3}}.",
-        "Extra": "Lesson 02 - Raven's Progressive Matrices"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 1: KBAI agents represent {{c1::and organize}} knowledge into knowledge structures to guide {{c2::and support}} reasoning.",
-        "Extra": "Lesson 02 - 7 Principles (CORRECTED - exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 2: Learning in KBAI agents is often {{c1::incremental}}.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 3: Reasoning in KBAI agents is {{c1::top-down}} as well as {{c2::bottom-up}}.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 4: KBAI agents {{c1::match methods to tasks}}.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 5: KBAI agents use {{c1::heuristics}} to find solutions that are {{c2::good enough}}, though not necessarily optimal.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 6: KBAI agents make use of {{c1::recurring patterns}} in the problems they solve.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson02", "Principles"],
-      "fields": {
-        "Text": "Principle 7: The architecture of KBAI agents enables {{c1::reasoning}}, {{c2::learning}}, and {{c3::memory}} to support and constrain each other.",
-        "Extra": "Lesson 02 - 7 Principles"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Semantic-Networks"],
-      "fields": {
-        "Text": "Semantic network: {{c1::nodes}} represent concepts, {{c2::directional links}} represent relationships.",
-        "Extra": "Lesson 03 - Semantic Networks"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Semantic-Networks"],
-      "fields": {
-        "Text": "Semantic network structure: Lexically = {{c1::nodes}}, Structurally = {{c2::directional links}}, Semantically = {{c3::application-specific labels}}.",
-        "Extra": "Lesson 03 - Semantic Networks"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Representations"],
-      "fields": {
-        "Text": "Good representations make {{c1::relationships explicit}}.",
-        "Extra": "Lesson 03 - Good Representations"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Representations"],
-      "fields": {
-        "Text": "Good representations expose {{c1::natural constraints}}.",
-        "Extra": "Lesson 03 - Good Representations"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Representations"],
-      "fields": {
-        "Text": "Good representations bring {{c1::objects and relations}} together.",
-        "Extra": "Lesson 03 - Good Representations"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Representations"],
-      "fields": {
-        "Text": "Good representations exclude {{c1::extraneous details}}.",
-        "Extra": "Lesson 03 - Good Representations"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Representations"],
-      "fields": {
-        "Text": "Good representations are: transparent, concise, complete, {{c1::fast}}, {{c2::computable}}.",
-        "Extra": "Lesson 03 - Good Representations"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Guards-Prisoners"],
-      "fields": {
-        "Text": "Guards & Prisoners: boat may take only {{c1::one or two}} people at a time.",
-        "Extra": "Lesson 03 - Guards & Prisoners"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Guards-Prisoners"],
-      "fields": {
-        "Text": "Guards & Prisoners: prisoners may never {{c1::outnumber guards}} on either coast.",
-        "Extra": "Lesson 03 - Guards & Prisoners"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson03", "Guards-Prisoners"],
-      "fields": {
-        "Text": "The 3-3 Guards & Prisoners problem takes {{c1::11}} moves to solve.",
-        "Extra": "Lesson 03 - Guards & Prisoners"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson04", "Generate-Test"],
-      "fields": {
-        "Text": "Generate and Test: {{c1::generate}} possible solutions, then {{c2::test}} if they are valid.",
-        "Extra": "Lesson 04 - Generate and Test"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson04", "Generate-Test"],
-      "fields": {
-        "Text": "Good generator property: {{c1::complete}} - generates all possible solutions.",
-        "Extra": "Lesson 04 - Generate and Test"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson04", "Generate-Test"],
-      "fields": {
-        "Text": "Good generator property: {{c1::efficient}} - doesn't waste resources.",
-        "Extra": "Lesson 04 - Generate and Test"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson04", "Generate-Test"],
-      "fields": {
-        "Text": "Good generator property: {{c1::smart}} - generates likely solutions first.",
-        "Extra": "Lesson 04 - Generate and Test"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson05", "Means-Ends"],
-      "fields": {
-        "Text": "Means-ends analysis: for each operator, calculate {{c1::difference}} between new state and {{c2::goal state}}.",
-        "Extra": "Lesson 05 - Means-Ends Analysis"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson05", "Means-Ends"],
-      "fields": {
-        "Text": "Means-ends analysis: prefer state that {{c1::minimizes distance}} to goal.",
-        "Extra": "Lesson 05 - Means-Ends Analysis"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson05", "Means-Ends"],
-      "fields": {
-        "Text": "Means-ends limitation: can fail when solution requires temporarily {{c1::increasing distance}} to goal.",
-        "Extra": "Lesson 05 - Means-Ends Analysis"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson05", "Problem-Reduction"],
-      "fields": {
-        "Text": "Problem reduction: break a {{c1::hard problem}} into {{c2::easier subproblems}}.",
-        "Extra": "Lesson 05 - Problem Reduction"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Cognitive-Architecture"],
-      "fields": {
-        "Text": "Cognitive architecture maps {{c1::percepts}} to {{c2::actions}}.",
-        "Extra": "Lesson 06 - Cognitive Architectures"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Cognitive-Architecture"],
-      "fields": {
-        "Text": "Cognitive architecture formula: {{c1::Architecture}} + {{c2::Content}} = {{c3::Behavior}}.",
-        "Extra": "Lesson 06 - Cognitive Architectures"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Cognitive-Architecture"],
-      "fields": {
-        "Text": "Cognitive architecture function: f: {{c1::P*}} → {{c2::A}} (Percepts to Action).",
-        "Extra": "Lesson 06 - Cognitive Architectures"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Three-Levels"],
-      "fields": {
-        "Text": "Three levels: {{c1::Task/Knowledge Level}}, {{c2::Algorithm/Symbol Level}}, {{c3::Hardware/Implementation Level}}.",
-        "Extra": "Lesson 06 - Three Levels of Analysis"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Three-Levels"],
-      "fields": {
-        "Text": "Task/Knowledge Level examples: {{c1::selecting a pitch}}, {{c2::playing baseball}}.",
-        "Extra": "Lesson 06 - Three Levels"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Three-Levels"],
-      "fields": {
-        "Text": "Algorithm/Symbol Level examples: {{c1::means-ends analysis}}, {{c2::semantic networks}}.",
-        "Extra": "Lesson 06 - Three Levels"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Three-Levels"],
-      "fields": {
-        "Text": "Hardware/Implementation Level examples: {{c1::a brain}}, {{c2::a transistor}}.",
-        "Extra": "Lesson 06 - Three Levels"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "SOAR"],
-      "fields": {
-        "Text": "SOAR long-term memories: {{c1::Procedural}}, {{c2::Semantic}}, {{c3::Episodic}}.",
-        "Extra": "Lesson 06 - SOAR Architecture"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "SOAR"],
-      "fields": {
-        "Text": "Procedural memory stores {{c1::how to do things}} (production rules).",
-        "Extra": "Lesson 06 - SOAR Memory Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "SOAR"],
-      "fields": {
-        "Text": "Semantic memory stores {{c1::facts about the world}}.",
-        "Extra": "Lesson 06 - SOAR Memory Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "SOAR"],
-      "fields": {
-        "Text": "Episodic memory stores {{c1::specific experiences}}.",
-        "Extra": "Lesson 06 - SOAR Memory Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Production-Rules"],
-      "fields": {
-        "Text": "Production rule format: IF {{c1::conditions}} THEN {{c2::actions}}.",
-        "Extra": "Lesson 06 - Production Rules"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson06", "Chunking"],
-      "fields": {
-        "Text": "Chunking: creates a new {{c1::production rule}} from experience to resolve impasses faster.",
-        "Extra": "Lesson 06 - Learning in SOAR"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson07", "Frames"],
-      "fields": {
-        "Text": "Frame: represents a {{c1::stereotyped situation}} with slots for expected information.",
-        "Extra": "Lesson 07 - Frames"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson07", "Frames"],
-      "fields": {
-        "Text": "Frame property 1: Frames represent {{c1::stereotypes}}.",
-        "Extra": "Lesson 07 - Properties of Frames"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson07", "Frames"],
-      "fields": {
-        "Text": "Frame property 2: Frames provide {{c1::default values}}.",
-        "Extra": "Lesson 07 - Properties of Frames"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson07", "Frames"],
-      "fields": {
-        "Text": "Frame property 3: Frames exhibit {{c1::inheritance}}.",
-        "Extra": "Lesson 07 - Properties of Frames"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson08", "Recording-Cases"],
-      "fields": {
-        "Text": "Learning by recording cases: store {{c1::problem-solution pairs}}, retrieve most {{c2::similar}} case.",
-        "Extra": "Lesson 08 - Learning by Recording Cases"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson08", "Recording-Cases"],
-      "fields": {
-        "Text": "Nearest neighbor: find most similar case by calculating {{c1::distance}} in feature space.",
-        "Extra": "Lesson 08 - Nearest Neighbor"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson08", "Recording-Cases"],
-      "fields": {
-        "Text": "k-Nearest Neighbor: consider {{c1::k closest}} cases, use {{c2::majority voting}} or averaging.",
-        "Extra": "Lesson 08 - k-NN"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson08", "Recording-Cases"],
-      "fields": {
-        "Text": "Case-based assumption: {{c1::Patterns exist}} in the world.",
-        "Extra": "Lesson 08 - Assumptions"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson08", "Recording-Cases"],
-      "fields": {
-        "Text": "Case-based assumption: {{c1::Similar problems}} have {{c2::similar solutions}}.",
-        "Extra": "Lesson 08 - Assumptions"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson09", "CBR"],
-      "fields": {
-        "Text": "CBR Stage 1 - {{c1::Retrieval}}: retrieving a case from memory similar to current problem.",
-        "Extra": "Lesson 09 - CBR (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson09", "CBR"],
-      "fields": {
-        "Text": "CBR Stage 2 - {{c1::Adaptation}}: adapting the solution to that case to fit current problem.",
-        "Extra": "Lesson 09 - CBR (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson09", "CBR"],
-      "fields": {
-        "Text": "CBR Stage 3 - {{c1::Evaluation}}: evaluating how well adapted solution addresses current problem.",
-        "Extra": "Lesson 09 - CBR (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson09", "CBR"],
-      "fields": {
-        "Text": "CBR Stage 4 - {{c1::Storage}}: storing the new problem and solution as a case.",
-        "Extra": "Lesson 09 - CBR (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson09", "CBR"],
-      "fields": {
-        "Text": "Discrimination tree: organizes cases by asking {{c1::questions about features}}.",
-        "Extra": "Lesson 09 - Case Storage"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "ICL"],
-      "fields": {
-        "Text": "Incremental concept learning: learns concepts {{c1::one example at a time}}.",
-        "Extra": "Lesson 10 - ICL"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "ICL"],
-      "fields": {
-        "Text": "Positive example doesn't fit current concept → {{c1::generalize}}.",
-        "Extra": "Lesson 10 - ICL Logic"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "ICL"],
-      "fields": {
-        "Text": "Negative example fits current concept → {{c1::specialize}}.",
-        "Extra": "Lesson 10 - ICL Logic"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::require-link}}: link must be present to be a positive example of the concept.",
-        "Extra": "Lesson 10 - Specialization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::forbid-link}}: link must be absent to be a positive example of the concept.",
-        "Extra": "Lesson 10 - Specialization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::drop-link}}: link is not necessary to be a positive example of the concept.",
-        "Extra": "Lesson 10 - Generalization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::enlarge-set}}: multiple objects or links may fit one role in the concept.",
-        "Extra": "Lesson 10 - Generalization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::climb-tree}}: generalize over multiple objects in the same role based on knowledge.",
-        "Extra": "Lesson 10 - Generalization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson10", "Heuristics"],
-      "fields": {
-        "Text": "{{c1::close-interval}}: expand range of values to be a positive example of the concept.",
-        "Extra": "Lesson 10 - Generalization Heuristic (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Classification"],
-      "fields": {
-        "Text": "Classification: maps percepts into {{c1::equivalence classes}}.",
-        "Extra": "Lesson 11 - Classification"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "{{c1::Axiomatic}} concepts: defined by a formal set of necessary and sufficient conditions.",
-        "Extra": "Lesson 11 - Concept Types (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "Axiomatic example: {{c1::circle}} - all points in a plane equidistant from a single point.",
-        "Extra": "Lesson 11 - Concept Types (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "{{c1::Prototype}} concepts: base concepts defined by a typical example with overridable properties.",
-        "Extra": "Lesson 11 - Concept Types (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "Prototype example: {{c1::chair}}.",
-        "Extra": "Lesson 11 - Concept Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "{{c1::Exemplar}} concepts: defined by implicit abstractions of instances, or exemplars, of the concept.",
-        "Extra": "Lesson 11 - Concept Types (exact slide wording)"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "Exemplar example: {{c1::beauty}}.",
-        "Extra": "Lesson 11 - Concept Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson11", "Concept-Types"],
-      "fields": {
-        "Text": "Formality ranking (most to least): {{c1::Axiomatic}} → {{c2::Prototype}} → {{c3::Exemplar}}.",
-        "Extra": "Lesson 11 - Concept Types"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Logic"],
-      "fields": {
-        "Text": "{{c1::Soundness}}: only valid conclusions can be proven.",
-        "Extra": "Lesson 12 - Logic"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Logic"],
-      "fields": {
-        "Text": "{{c1::Completeness}}: all valid conclusions can be proven.",
-        "Extra": "Lesson 12 - Logic"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Operators"],
-      "fields": {
-        "Text": "AND (∧): true only if {{c1::both}} operands are true.",
-        "Extra": "Lesson 12 - Logical Operators"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Operators"],
-      "fields": {
-        "Text": "OR (∨): true if {{c1::at least one}} operand is true.",
-        "Extra": "Lesson 12 - Logical Operators"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Operators"],
-      "fields": {
-        "Text": "NOT (¬): returns the {{c1::opposite}} truth value.",
-        "Extra": "Lesson 12 - Logical Operators"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Operators"],
-      "fields": {
-        "Text": "IMPLIES (⇒): A ⇒ B is false only when A is {{c1::true}} and B is {{c2::false}}.",
-        "Extra": "Lesson 12 - Logical Operators"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Implication"],
-      "fields": {
-        "Text": "Implication elimination: A ⇒ B becomes {{c1::¬A ∨ B}}.",
-        "Extra": "Lesson 12 - Implication Elimination"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Inference"],
-      "fields": {
-        "Text": "Modus Ponens: p ⇒ q, {{c1::p}} ∴ {{c2::q}}.",
-        "Extra": "Lesson 12 - Rules of Inference"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Inference"],
-      "fields": {
-        "Text": "Modus Tollens: p ⇒ q, {{c1::¬q}} ∴ {{c2::¬p}}.",
-        "Extra": "Lesson 12 - Rules of Inference"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "DeMorgan"],
-      "fields": {
-        "Text": "De Morgan's Law: ¬(A ∧ B) ≡ {{c1::¬A ∨ ¬B}}.",
-        "Extra": "Lesson 12 - De Morgan's Law"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "DeMorgan"],
-      "fields": {
-        "Text": "De Morgan's Law: ¬(A ∨ B) ≡ {{c1::¬A ∧ ¬B}}.",
-        "Extra": "Lesson 12 - De Morgan's Law"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Quantifiers"],
-      "fields": {
-        "Text": "Universal quantifier (∀): for {{c1::all}} x.",
-        "Extra": "Lesson 12 - Quantifiers"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Quantifiers"],
-      "fields": {
-        "Text": "Existential quantifier (∃): there exists {{c1::at least one}} x.",
-        "Extra": "Lesson 12 - Quantifiers"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Resolution"],
-      "fields": {
-        "Text": "Resolution theorem proving: assume {{c1::negation}} of goal, derive {{c2::contradiction}}.",
-        "Extra": "Lesson 12 - Resolution"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Lesson12", "Resolution"],
-      "fields": {
-        "Text": "Conjunctive Normal Form (CNF): {{c1::conjunction (AND)}} of {{c2::disjunctions (ORs)}}.",
-        "Extra": "Lesson 12 - CNF"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Exam-Content", "STRIPS"],
-      "fields": {
-        "Text": "[EXAM] STRIPS operator: {{c1::Precondition}} (what must be true) and {{c2::Postcondition}} (what becomes true).",
-        "Extra": "From Spring 2015 Midterm - NOT in lecture slides"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Exam-Content", "Reasoning-Types"],
-      "fields": {
-        "Text": "[EXAM] {{c1::Deduction}}: Rule + Cause → Effect.",
-        "Extra": "From Spring 2015 Final Q4 - NOT in lecture slides"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Exam-Content", "Reasoning-Types"],
-      "fields": {
-        "Text": "[EXAM] {{c1::Induction}}: Cause + Effect → Rule.",
-        "Extra": "From Spring 2015 Final Q4 - NOT in lecture slides"
-      }
-    },
-    {
-      "deckName": "CS7637 KBAI Exam 1",
-      "modelName": "Cloze",
-      "tags": ["KBAI", "Exam-Content", "Reasoning-Types"],
-      "fields": {
-        "Text": "[EXAM] {{c1::Abduction}}: Rule + Effect → Cause.",
-        "Extra": "From Spring 2015 Final Q4 - NOT in lecture slides"
-      }
+      "__type__": "Note",
+      "fields": [
+        "Conundrum: Intelligent agents have {{c1::limited resources}}.",
+        "Lesson 01 - Fundamental Conundrums of AI"
+      ],
+      "guid": "404d3fdb34",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Conundrum: Computation is {{c1::local}}, but problems have {{c2::global constraints}}.",
+        "Lesson 01 - Fundamental Conundrums of AI"
+      ],
+      "guid": "54cecc9646",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Conundrum: Logic is {{c1::deductive}}, but many problems are {{c2::not}}.",
+        "Lesson 01 - Fundamental Conundrums of AI (exact slide wording)"
+      ],
+      "guid": "7308c960e4",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Conundrum: The world is {{c1::dynamic}}, but knowledge is {{c2::limited}}.",
+        "Lesson 01 - Fundamental Conundrums of AI"
+      ],
+      "guid": "77ba27b66d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Conundrum: Problem solving, reasoning, and learning are complex, but {{c1::explanation and justification}} are even more complex.",
+        "Lesson 01 - Fundamental Conundrums of AI (5th conundrum)"
+      ],
+      "guid": "064267c3c7",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Conundrums"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: Knowledge often arrives {{c1::incrementally}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "2cbe95d36c",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: Problems exhibit {{c1::recurring patterns}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "b440005226",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: Problems have {{c1::multiple levels of granularity}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "3b1b3c60e9",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: Many problems are {{c1::computationally intractable}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "0550f6444d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: The world is {{c1::dynamic}}, but knowledge of the world is {{c2::static}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "a07e430a28",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Problems: The world is {{c1::open-ended}}, but knowledge is {{c2::limited}}.",
+        "Lesson 01 - Characteristics of AI Problems"
+      ],
+      "guid": "8fd6e6eda7",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Problems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Agents: Agents have limited {{c1::computing power}}.",
+        "Lesson 01 - Characteristics of AI Agents"
+      ],
+      "guid": "e0d62289e9",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Agents"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Agents: Agents have limited {{c1::sensors}}.",
+        "Lesson 01 - Characteristics of AI Agents"
+      ],
+      "guid": "5ddc761641",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Agents"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Agents: Agents have limited {{c1::attention}}.",
+        "Lesson 01 - Characteristics of AI Agents"
+      ],
+      "guid": "0f8b213cf7",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Agents"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Agents: Computational logic is fundamentally {{c1::deductive}}.",
+        "Lesson 01 - Characteristics of AI Agents"
+      ],
+      "guid": "50f315ba19",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Agents"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AI Agents: AI agents' knowledge is {{c1::incomplete}} relative to the world.",
+        "Lesson 01 - Characteristics of AI Agents"
+      ],
+      "guid": "5a7ee01fe7",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "AI-Agents"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "The four schools of AI are defined by two axes: {{c1::thinking vs. acting}} and {{c2::optimally vs. like humans}}.",
+        "Lesson 01 - Four Schools of AI"
+      ],
+      "guid": "141c4a5d21",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Four-Schools"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Think optimally examples: {{c1::semantic web}}, {{c2::machine learning}}.",
+        "Lesson 01 - Four Schools of AI"
+      ],
+      "guid": "91964b2da9",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Four-Schools"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Act optimally example: {{c1::airplane autopilot}}.",
+        "Lesson 01 - Four Schools of AI"
+      ],
+      "guid": "747cffb36f",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Four-Schools"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Act like humans example: {{c1::improvisational robots}}.",
+        "Lesson 01 - Four Schools of AI"
+      ],
+      "guid": "111f8e0487",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Four-Schools"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cognitive Systems: Systems that exhibit {{c1::human-like intelligence}} through processes like learning, reasoning, and memory.",
+        "Lesson 01 - Cognitive Systems"
+      ],
+      "guid": "9b02059b42",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Cognitive-Systems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Three layers of cognitive architecture: {{c1::Metacognition}}, {{c2::Deliberation}}, {{c3::Reaction}}.",
+        "Lesson 01 - Cognitive Systems"
+      ],
+      "guid": "9d47d90f96",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Cognitive-Systems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Deliberation contains: {{c1::Reasoning}}, {{c2::Learning}}, {{c3::Memory}}.",
+        "Lesson 01 - Cognitive Systems"
+      ],
+      "guid": "1a8ea2f93b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson01",
+        "Cognitive-Systems"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Raven's Progressive Matrices: Test written in the {{c1::1930s}} to examine {{c2::general intelligence}}.",
+        "Lesson 02 - Raven's Progressive Matrices"
+      ],
+      "guid": "3790eb8f75",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Ravens"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Raven's matrices are unique in that problems are strictly {{c1::visual}}.",
+        "Lesson 02 - Raven's Progressive Matrices"
+      ],
+      "guid": "fa4e7ccf89",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Ravens"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Three types of Raven's problems: {{c1::2x1}}, {{c2::2x2}}, {{c3::3x3}}.",
+        "Lesson 02 - Raven's Progressive Matrices"
+      ],
+      "guid": "f8590bf641",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Ravens"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 1: KBAI agents represent {{c1::and organize}} knowledge into knowledge structures to guide {{c2::and support}} reasoning.",
+        "Lesson 02 - 7 Principles (CORRECTED - exact slide wording)"
+      ],
+      "guid": "9057127292",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 2: Learning in KBAI agents is often {{c1::incremental}}.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "9605e00e22",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 3: Reasoning in KBAI agents is {{c1::top-down}} as well as {{c2::bottom-up}}.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "9bec9e109a",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 4: KBAI agents {{c1::match methods to tasks}}.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "a3444f0646",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 5: KBAI agents use {{c1::heuristics}} to find solutions that are {{c2::good enough}}, though not necessarily optimal.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "4397bd1438",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 6: KBAI agents make use of {{c1::recurring patterns}} in the problems they solve.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "c28bb101fe",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Principle 7: The architecture of KBAI agents enables {{c1::reasoning}}, {{c2::learning}}, and {{c3::memory}} to support and constrain each other.",
+        "Lesson 02 - 7 Principles"
+      ],
+      "guid": "b9e533cf85",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson02",
+        "Principles"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Semantic network: {{c1::nodes}} represent concepts, {{c2::directional links}} represent relationships.",
+        "Lesson 03 - Semantic Networks"
+      ],
+      "guid": "811a2efd8e",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Semantic-Networks"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Semantic network structure: Lexically = {{c1::nodes}}, Structurally = {{c2::directional links}}, Semantically = {{c3::application-specific labels}}.",
+        "Lesson 03 - Semantic Networks"
+      ],
+      "guid": "ee1e37a551",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Semantic-Networks"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good representations make {{c1::relationships explicit}}.",
+        "Lesson 03 - Good Representations"
+      ],
+      "guid": "0df286450c",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Representations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good representations expose {{c1::natural constraints}}.",
+        "Lesson 03 - Good Representations"
+      ],
+      "guid": "97d87855a8",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Representations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good representations bring {{c1::objects and relations}} together.",
+        "Lesson 03 - Good Representations"
+      ],
+      "guid": "fec71b9e4b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Representations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good representations exclude {{c1::extraneous details}}.",
+        "Lesson 03 - Good Representations"
+      ],
+      "guid": "e3bea91f08",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Representations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good representations are: transparent, concise, complete, {{c1::fast}}, {{c2::computable}}.",
+        "Lesson 03 - Good Representations"
+      ],
+      "guid": "345ab36d1a",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Representations"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Guards & Prisoners: boat may take only {{c1::one or two}} people at a time.",
+        "Lesson 03 - Guards & Prisoners"
+      ],
+      "guid": "07219ecaa6",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Guards-Prisoners"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Guards & Prisoners: prisoners may never {{c1::outnumber guards}} on either coast.",
+        "Lesson 03 - Guards & Prisoners"
+      ],
+      "guid": "242356748e",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Guards-Prisoners"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "The 3-3 Guards & Prisoners problem takes {{c1::11}} moves to solve.",
+        "Lesson 03 - Guards & Prisoners"
+      ],
+      "guid": "a55fc43665",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson03",
+        "Guards-Prisoners"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Generate and Test: {{c1::generate}} possible solutions, then {{c2::test}} if they are valid.",
+        "Lesson 04 - Generate and Test"
+      ],
+      "guid": "2ab062d12e",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "Generate-Test"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good generator property: {{c1::complete}} - generates all possible solutions.",
+        "Lesson 04 - Generate and Test"
+      ],
+      "guid": "c76880f4e3",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "Generate-Test"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good generator property: {{c1::efficient}} - doesn't waste resources.",
+        "Lesson 04 - Generate and Test"
+      ],
+      "guid": "32dd5ea7d2",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "Generate-Test"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Good generator property: {{c1::smart}} - generates likely solutions first.",
+        "Lesson 04 - Generate and Test"
+      ],
+      "guid": "232db40cb6",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson04",
+        "Generate-Test"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Means-ends analysis: for each operator, calculate {{c1::difference}} between new state and {{c2::goal state}}.",
+        "Lesson 05 - Means-Ends Analysis"
+      ],
+      "guid": "758da65bfe",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "Means-Ends"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Means-ends analysis: prefer state that {{c1::minimizes distance}} to goal.",
+        "Lesson 05 - Means-Ends Analysis"
+      ],
+      "guid": "115e8e0e0c",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "Means-Ends"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Means-ends limitation: can fail when solution requires temporarily {{c1::increasing distance}} to goal.",
+        "Lesson 05 - Means-Ends Analysis"
+      ],
+      "guid": "2406d4a65f",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "Means-Ends"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Problem reduction: break a {{c1::hard problem}} into {{c2::easier subproblems}}.",
+        "Lesson 05 - Problem Reduction"
+      ],
+      "guid": "c8ff7c43b5",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson05",
+        "Problem-Reduction"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cognitive architecture maps {{c1::percepts}} to {{c2::actions}}.",
+        "Lesson 06 - Cognitive Architectures"
+      ],
+      "guid": "9031c224cf",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Cognitive-Architecture"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cognitive architecture formula: {{c1::Architecture}} + {{c2::Content}} = {{c3::Behavior}}.",
+        "Lesson 06 - Cognitive Architectures"
+      ],
+      "guid": "315e67228d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Cognitive-Architecture"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cognitive architecture function: f: {{c1::P*}} → {{c2::A}} (Percepts to Action).",
+        "Lesson 06 - Cognitive Architectures"
+      ],
+      "guid": "c2c556cf57",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Cognitive-Architecture"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Three levels: {{c1::Task/Knowledge Level}}, {{c2::Algorithm/Symbol Level}}, {{c3::Hardware/Implementation Level}}.",
+        "Lesson 06 - Three Levels of Analysis"
+      ],
+      "guid": "778f45a12b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Three-Levels"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Task/Knowledge Level examples: {{c1::selecting a pitch}}, {{c2::playing baseball}}.",
+        "Lesson 06 - Three Levels"
+      ],
+      "guid": "134585858b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Three-Levels"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Algorithm/Symbol Level examples: {{c1::means-ends analysis}}, {{c2::semantic networks}}.",
+        "Lesson 06 - Three Levels"
+      ],
+      "guid": "ec3f7f41ba",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Three-Levels"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Hardware/Implementation Level examples: {{c1::a brain}}, {{c2::a transistor}}.",
+        "Lesson 06 - Three Levels"
+      ],
+      "guid": "2fe0e10a5a",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Three-Levels"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "SOAR long-term memories: {{c1::Procedural}}, {{c2::Semantic}}, {{c3::Episodic}}.",
+        "Lesson 06 - SOAR Architecture"
+      ],
+      "guid": "4edbd9bbd5",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "SOAR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Procedural memory stores {{c1::how to do things}} (production rules).",
+        "Lesson 06 - SOAR Memory Types"
+      ],
+      "guid": "7de3f6f3ca",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "SOAR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Semantic memory stores {{c1::facts about the world}}.",
+        "Lesson 06 - SOAR Memory Types"
+      ],
+      "guid": "13d70ca3e0",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "SOAR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Episodic memory stores {{c1::specific experiences}}.",
+        "Lesson 06 - SOAR Memory Types"
+      ],
+      "guid": "2948da469c",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "SOAR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Production rule format: IF {{c1::conditions}} THEN {{c2::actions}}.",
+        "Lesson 06 - Production Rules"
+      ],
+      "guid": "bcdad8efd4",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Production-Rules"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Chunking: creates a new {{c1::production rule}} from experience to resolve impasses faster.",
+        "Lesson 06 - Learning in SOAR"
+      ],
+      "guid": "0419d40b2f",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson06",
+        "Chunking"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Frame: represents a {{c1::stereotyped situation}} with slots for expected information.",
+        "Lesson 07 - Frames"
+      ],
+      "guid": "86135d35c3",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Frame property 1: Frames represent {{c1::stereotypes}}.",
+        "Lesson 07 - Properties of Frames"
+      ],
+      "guid": "b4fa54ed48",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Frame property 2: Frames provide {{c1::default values}}.",
+        "Lesson 07 - Properties of Frames"
+      ],
+      "guid": "de94942a4b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Frame property 3: Frames exhibit {{c1::inheritance}}.",
+        "Lesson 07 - Properties of Frames"
+      ],
+      "guid": "4e41f7cca2",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson07",
+        "Frames"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Learning by recording cases: store {{c1::problem-solution pairs}}, retrieve most {{c2::similar}} case.",
+        "Lesson 08 - Learning by Recording Cases"
+      ],
+      "guid": "24cd476dd6",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "Recording-Cases"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Nearest neighbor: find most similar case by calculating {{c1::distance}} in feature space.",
+        "Lesson 08 - Nearest Neighbor"
+      ],
+      "guid": "fd03cb1050",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "Recording-Cases"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "k-Nearest Neighbor: consider {{c1::k closest}} cases, use {{c2::majority voting}} or averaging.",
+        "Lesson 08 - k-NN"
+      ],
+      "guid": "4eb08895d0",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "Recording-Cases"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Case-based assumption: {{c1::Patterns exist}} in the world.",
+        "Lesson 08 - Assumptions"
+      ],
+      "guid": "47f0cc5d5d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "Recording-Cases"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Case-based assumption: {{c1::Similar problems}} have {{c2::similar solutions}}.",
+        "Lesson 08 - Assumptions"
+      ],
+      "guid": "873e35a4c0",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson08",
+        "Recording-Cases"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "CBR Stage 1 - {{c1::Retrieval}}: retrieving a case from memory similar to current problem.",
+        "Lesson 09 - CBR (exact slide wording)"
+      ],
+      "guid": "0dbf378c0c",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "CBR Stage 2 - {{c1::Adaptation}}: adapting the solution to that case to fit current problem.",
+        "Lesson 09 - CBR (exact slide wording)"
+      ],
+      "guid": "ce1ffb6d86",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "CBR Stage 3 - {{c1::Evaluation}}: evaluating how well adapted solution addresses current problem.",
+        "Lesson 09 - CBR (exact slide wording)"
+      ],
+      "guid": "a6c30dae76",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "CBR Stage 4 - {{c1::Storage}}: storing the new problem and solution as a case.",
+        "Lesson 09 - CBR (exact slide wording)"
+      ],
+      "guid": "6487763029",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Discrimination tree: organizes cases by asking {{c1::questions about features}}.",
+        "Lesson 09 - Case Storage"
+      ],
+      "guid": "d531323125",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson09",
+        "CBR"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Incremental concept learning: learns concepts {{c1::one example at a time}}.",
+        "Lesson 10 - ICL"
+      ],
+      "guid": "575a943888",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "ICL"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Positive example doesn't fit current concept → {{c1::generalize}}.",
+        "Lesson 10 - ICL Logic"
+      ],
+      "guid": "a67154d655",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "ICL"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Negative example fits current concept → {{c1::specialize}}.",
+        "Lesson 10 - ICL Logic"
+      ],
+      "guid": "9189d6e076",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "ICL"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::require-link}}: link must be present to be a positive example of the concept.",
+        "Lesson 10 - Specialization Heuristic (exact slide wording)"
+      ],
+      "guid": "1f0a1a2315",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::forbid-link}}: link must be absent to be a positive example of the concept.",
+        "Lesson 10 - Specialization Heuristic (exact slide wording)"
+      ],
+      "guid": "6929cbd63a",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::drop-link}}: link is not necessary to be a positive example of the concept.",
+        "Lesson 10 - Generalization Heuristic (exact slide wording)"
+      ],
+      "guid": "178221cb73",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::enlarge-set}}: multiple objects or links may fit one role in the concept.",
+        "Lesson 10 - Generalization Heuristic (exact slide wording)"
+      ],
+      "guid": "a541686f82",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::climb-tree}}: generalize over multiple objects in the same role based on knowledge.",
+        "Lesson 10 - Generalization Heuristic (exact slide wording)"
+      ],
+      "guid": "f5ca9f9abf",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::close-interval}}: expand range of values to be a positive example of the concept.",
+        "Lesson 10 - Generalization Heuristic (exact slide wording)"
+      ],
+      "guid": "eafb7bb0d2",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson10",
+        "Heuristics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Classification: maps percepts into {{c1::equivalence classes}}.",
+        "Lesson 11 - Classification"
+      ],
+      "guid": "37085936a9",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Classification"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::Axiomatic}} concepts: defined by a formal set of necessary and sufficient conditions.",
+        "Lesson 11 - Concept Types (exact slide wording)"
+      ],
+      "guid": "4ad254c233",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Axiomatic example: {{c1::circle}} - all points in a plane equidistant from a single point.",
+        "Lesson 11 - Concept Types (exact slide wording)"
+      ],
+      "guid": "ee919f977f",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::Prototype}} concepts: base concepts defined by a typical example with overridable properties.",
+        "Lesson 11 - Concept Types (exact slide wording)"
+      ],
+      "guid": "6543b11f43",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Prototype example: {{c1::chair}}.",
+        "Lesson 11 - Concept Types"
+      ],
+      "guid": "022322b302",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::Exemplar}} concepts: defined by implicit abstractions of instances, or exemplars, of the concept.",
+        "Lesson 11 - Concept Types (exact slide wording)"
+      ],
+      "guid": "78df5c260d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Exemplar example: {{c1::beauty}}.",
+        "Lesson 11 - Concept Types"
+      ],
+      "guid": "66e32aaea9",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Formality ranking (most to least): {{c1::Axiomatic}} → {{c2::Prototype}} → {{c3::Exemplar}}.",
+        "Lesson 11 - Concept Types"
+      ],
+      "guid": "bc4049dcdd",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson11",
+        "Concept-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::Soundness}}: only valid conclusions can be proven.",
+        "Lesson 12 - Logic"
+      ],
+      "guid": "7e1b811090",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "{{c1::Completeness}}: all valid conclusions can be proven.",
+        "Lesson 12 - Logic"
+      ],
+      "guid": "bc59ad8920",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Logic"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "AND (∧): true only if {{c1::both}} operands are true.",
+        "Lesson 12 - Logical Operators"
+      ],
+      "guid": "06af2f8567",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Operators"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "OR (∨): true if {{c1::at least one}} operand is true.",
+        "Lesson 12 - Logical Operators"
+      ],
+      "guid": "474788176b",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Operators"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "NOT (¬): returns the {{c1::opposite}} truth value.",
+        "Lesson 12 - Logical Operators"
+      ],
+      "guid": "3dbc98bc59",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Operators"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "IMPLIES (⇒): A ⇒ B is false only when A is {{c1::true}} and B is {{c2::false}}.",
+        "Lesson 12 - Logical Operators"
+      ],
+      "guid": "2481561bc1",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Operators"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Implication elimination: A ⇒ B becomes {{c1::¬A ∨ B}}.",
+        "Lesson 12 - Implication Elimination"
+      ],
+      "guid": "0972ac49bd",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Implication"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Modus Ponens: p ⇒ q, {{c1::p}} ∴ {{c2::q}}.",
+        "Lesson 12 - Rules of Inference"
+      ],
+      "guid": "3e64403921",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Inference"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Modus Tollens: p ⇒ q, {{c1::¬q}} ∴ {{c2::¬p}}.",
+        "Lesson 12 - Rules of Inference"
+      ],
+      "guid": "ab9e207e16",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Inference"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "De Morgan's Law: ¬(A ∧ B) ≡ {{c1::¬A ∨ ¬B}}.",
+        "Lesson 12 - De Morgan's Law"
+      ],
+      "guid": "1e3a3821e3",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "DeMorgan"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "De Morgan's Law: ¬(A ∨ B) ≡ {{c1::¬A ∧ ¬B}}.",
+        "Lesson 12 - De Morgan's Law"
+      ],
+      "guid": "03c33f902d",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "DeMorgan"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Universal quantifier (∀): for {{c1::all}} x.",
+        "Lesson 12 - Quantifiers"
+      ],
+      "guid": "66dccac231",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Quantifiers"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Existential quantifier (∃): there exists {{c1::at least one}} x.",
+        "Lesson 12 - Quantifiers"
+      ],
+      "guid": "7459bee7ae",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Quantifiers"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Resolution theorem proving: assume {{c1::negation}} of goal, derive {{c2::contradiction}}.",
+        "Lesson 12 - Resolution"
+      ],
+      "guid": "974a567ecd",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Resolution"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Conjunctive Normal Form (CNF): {{c1::conjunction (AND)}} of {{c2::disjunctions (ORs)}}.",
+        "Lesson 12 - CNF"
+      ],
+      "guid": "55a45d5bca",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Lesson12",
+        "Resolution"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "[EXAM] STRIPS operator: {{c1::Precondition}} (what must be true) and {{c2::Postcondition}} (what becomes true).",
+        "From Spring 2015 Midterm - NOT in lecture slides"
+      ],
+      "guid": "caab3b2a98",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Exam-Content",
+        "STRIPS"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "[EXAM] {{c1::Deduction}}: Rule + Cause → Effect.",
+        "From Spring 2015 Final Q4 - NOT in lecture slides"
+      ],
+      "guid": "30a50a58a6",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Exam-Content",
+        "Reasoning-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "[EXAM] {{c1::Induction}}: Cause + Effect → Rule.",
+        "From Spring 2015 Final Q4 - NOT in lecture slides"
+      ],
+      "guid": "a6b150c361",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Exam-Content",
+        "Reasoning-Types"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "[EXAM] {{c1::Abduction}}: Rule + Effect → Cause.",
+        "From Spring 2015 Final Q4 - NOT in lecture slides"
+      ],
+      "guid": "b4e430e60a",
+      "note_model_uuid": "016f5998-4f9b-5ee4-b2c0-f1489c025c37",
+      "tags": [
+        "KBAI",
+        "Exam-Content",
+        "Reasoning-Types"
+      ]
     }
   ]
 }
