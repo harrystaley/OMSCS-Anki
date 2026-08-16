@@ -1,55 +1,56 @@
 ```markdown
 # OMSCS-Anki
 
-Welcome to the **OMSCS-Anki** repository, a collaborative project aimed at enhancing the learning experience for students enrolled in Georgia Tech's Online Master of Science in Computer Science (OMSCS) program. This project focuses on creating comprehensive Anki decks for various OMSCS courses, including Artificial Intelligence, Operating Systems, and more.
+Collaborative Anki decks for Georgia Tech's Online Master of Science in Computer Science (OMSCS) program, covering topics such as Artificial Intelligence (AI), Operating Systems (OS), and more. This repository is built with community contributions and regular updates to enhance the learning experience.
 
 ## Features
 
-- **Course-Specific Decks**: Tailored Anki decks for a variety of OMSCS courses.
-- **Collaborative Contribution**: Community-driven content to improve and expand the deck collection.
-- **Diverse Topics**: Covers a broad range of subjects including AI, OS, C, version control, and more.
-- **Continuous Updates**: Regularly updated with contributions from students and alumni.
+- **Comprehensive Decks**: Includes Anki decks for various OMSCS courses, ensuring a wide range of topics are covered.
+- **Community Contributions**: Open to contributions from students and alumni to keep the decks updated and relevant.
+- **Regular Updates**: Frequent updates ensure that the decks remain aligned with the latest course content.
+- **Multi-topic Coverage**: Covers key topics like AI, OS, and programming languages including C, R, and Go.
+- **Version Control**: Managed using GitHub for easy collaboration and version tracking.
 
-## Installation
+## Setup and Installation
 
-To get started with OMSCS-Anki, follow these steps:
-
-1. **Clone the Repository**  
-   Open your terminal and run:  
+1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/OMSCS-Anki.git
+   git clone https://github.com/yourusername/OMSCS-Anki.git
    ```
 
-2. **Install Anki**  
-   Download and install Anki from the [official website](https://apps.ankiweb.net/).
+2. **Navigate to the Directory**:
+   ```bash
+   cd OMSCS-Anki
+   ```
 
-3. **Import Decks**  
-   Open Anki, go to `File` > `Import`, and select the downloaded `.apkg` files from the cloned repository.
+3. **Import Decks into Anki**:
+   - Open Anki.
+   - Go to `File` > `Import...`.
+   - Select the `.apkg` files from the cloned repository to import the decks.
 
 ## Usage
 
-Once you have imported the decks into Anki:
-
-- **Review Cards Regularly**: Use Anki's spaced repetition system to review the cards daily.
-- **Customize Decks**: Feel free to modify and customize the decks to better fit your learning style.
-- **Sync Across Devices**: Utilize AnkiWeb to keep your progress synced across multiple devices.
+1. Open Anki on your device.
+2. Import the desired decks from the repository.
+3. Start reviewing the cards regularly to enhance your understanding of OMSCS topics.
 
 ## Contribution Guidelines
 
-We welcome contributions from all OMSCS students and alumni. To contribute:
+We welcome contributions from the community! To contribute:
 
-1. **Fork the Repository**: Click the `Fork` button at the top right of this page.
-2. **Create a Branch**: Use `git checkout -b your-feature-branch` to create a new branch.
-3. **Commit Changes**: Make your changes and commit them with clear and concise messages.
-4. **Submit a Pull Request**: Push to your fork and submit a pull request to the `main` branch.
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Submit a pull request with a detailed description of your changes.
 
-Please ensure that your contributions align with the project's goals and maintain a high standard of quality.
+Please ensure all contributions are well-documented and tested before submission.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Enhance your learning journey with OMSCS-Anki. Happy studying!
+Happy studying, and thank you for contributing to the OMSCS-Anki community!
 ```
