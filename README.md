@@ -1,4 +1,3 @@
-```markdown
 # OMSCS-Anki
 
 Collaborative Anki decks for Georgia Tech's Online Master of Science in Computer Science (OMSCS) program, covering topics such as Artificial Intelligence (AI), Operating Systems (OS), and more. This repository is built with community contributions and regular updates to enhance the learning experience.
